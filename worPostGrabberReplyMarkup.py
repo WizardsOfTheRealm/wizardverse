@@ -40,18 +40,13 @@ while True:
     # Make the request to fetch the feed (get the posts)
     feed_response = requests.get(feed_url, headers=headers, params=feed_params)
     
-    # Print the raw response data for debugging
-    print("Feed Response Text:", feed_response.text)  # Debugging output
-    
     if feed_response.status_code == 200:
         feed_data = feed_response.json()
         
         # Check if 'data' exists and if there are posts
         posts = feed_data.get('feed', [])
-        print("Posts found:", len(posts))  # Print number of posts to see if we have any data
         
         if not posts:
-            print("No posts found in the feed response.")
             break
         
         # Append the posts to the all_posts list
@@ -61,19 +56,19 @@ while True:
         next_cursor = feed_data.get("cursor", None)
         if next_cursor:
             feed_params["cursor"] = next_cursor
-            print(f"Fetching next page with cursor: {next_cursor}")
         else:
-            print("No more pages to fetch.")
             break
         
         # Check if we've reached the desired limit
         if len(all_posts) >= 100:  # Adjust this limit as needed
             all_posts = all_posts[:100]  # Truncate the list to the desired limit
-            print(f"Reached limit of {len(all_posts)} posts.")
             break
     else:
         print(f"Error fetching posts: {feed_response.status_code} {feed_response.text}")
         break
+
+# Reverse the order of the posts
+all_posts.reverse()
 
 # Save the posts to an HTML file
 with open("postsWReply.html", "w", encoding="utf-8") as file:
@@ -118,4 +113,4 @@ with open("postsWReply.html", "w", encoding="utf-8") as file:
     # Close the HTML tags
     file.write("</body>\n</html>\n")
 
-print("HTML file created: posts.html")
+print("HTML file created: postsWReply.html")
