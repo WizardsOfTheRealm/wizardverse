@@ -83,9 +83,9 @@ def write_post_with_replies(file, post, is_reply=False):
     
     if is_reply:
         file.write("""
-        <div style='display: flex; justify-content: center; align-items: center; width: 100%; max-width: 100%; padding-left: 40px;'>
+        <div style='display: flex; justify-content: center; align-items: center; width: 100%; max-width: 100%; padding-left: 2px;'>
             <div style='display: flex; align-items: flex-start; width: 100%; max-width: 100%; justify-content: center;'>
-                <img src='images/thread.gif' alt='GIF' style='width: 66px; height: auto; margin-right: 5px;'>
+                <img src='images/thread.gif' alt='GIF' style='width: 66px; height: auto; margin-right: 2px;'>
                 <div style='width: 100%; max-width: 500px; padding-left: 5px;'>
                     <blockquote class='bluesky-embed' data-bluesky-uri='{}' data-bluesky-cid='{}'></blockquote>
                     <script async src='https://embed.bsky.app/static/embed.js' charset='utf-8'></script>
@@ -103,15 +103,31 @@ def write_post_with_replies(file, post, is_reply=False):
             write_post_with_replies(file, reply, is_reply=True)
 
 # Save the posts to an HTML file
-with open("postsWReply.html", "w", encoding="utf-8") as file:
+with open("index.html", "w", encoding="utf-8") as file:
     # Write the basic HTML structure
-    file.write("<html>\n<head>\n<title>Bluesky Posts</title>\n</head>\n<body>\n")
+    file.write("""
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="styles.css">
+    </head>
+    <body style="background-color: #f0f0f0;">
+        <h1 style="font-family: 'Garamond', sans-serif; text-align: center; font-size: 3em; color: #ff0000;">WIZARDS OF THE REALM</h1>
+        <marquee>I'VE HEARD OF "SCROLLS" BUT THIS IS RIDICULOUS</marquee>
+        <div style="display: flex; justify-content: center; align-items: center; flex-direction: column; width: 100%; max-width: 100%;">
+    """)
     
     # Iterate through the main posts and write them with replies
     for post in main_posts:
         write_post_with_replies(file, post)
     
     # Close the HTML tags
-    file.write("</body>\n</html>\n")
+    file.write("""
+        </div>
+    </body>
+    </html>
+    """)
 
-print("HTML file created: postsWReply.html")
+print("HTML file created: index.html")
