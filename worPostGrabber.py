@@ -29,15 +29,19 @@ headers = {
 # Set up parameters for the feed request
 feed_params = {
     "list": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.list/3lbq3w3xvpx2d",  # Replace with your actual list URI
-    "limit": 100  # Limit for the feed request (adjust as needed)
+    "limit": 50  # Limit for the feed request (adjust as needed)
 }
 
 # Initialize structures to store posts
 main_posts = []  # Stores main posts
 replies = {}  # Maps parent URI to a list of replies
 
+# Total posts limit you want to fetch (main posts only)
+total_limit = 50  # Change this value to your desired total number of main posts
+posts_fetched = 0  # Counter for the number of main posts fetched
+
 # Start pagination
-while True:
+while posts_fetched < total_limit:
     # Make the request to fetch the feed (get the posts)
     feed_response = requests.get(feed_url, headers=headers, params=feed_params)
     
@@ -62,7 +66,14 @@ while True:
                     replies[parent_uri] = []
                 replies[parent_uri].append(post)
             else:
-                main_posts.append(post)
+                # Only count main posts for the limit
+                if posts_fetched < total_limit:
+                    main_posts.append(post)
+                    posts_fetched += 1  # Increment the count of fetched main posts
+                
+                # Stop if we've reached the total limit
+                if posts_fetched >= total_limit:
+                    break
         
         # Check if there's a next page (nextCursor) and update parameters accordingly
         next_cursor = feed_data.get("cursor", None)
