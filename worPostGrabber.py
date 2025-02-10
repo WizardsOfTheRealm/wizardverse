@@ -1,5 +1,4 @@
 import requests
-from collections import defaultdict
 
 # App password for authentication
 APP_PASSWORD = "tld4-3d2m-ocis-7ffc"
@@ -29,70 +28,90 @@ headers = {
 
 # Set up parameters for the feed request
 feed_params = {
-    "list": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.list/3lbq3w3xvpx2d",  # Replace with actual list URI
-    "limit": 100
+    "list": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.list/3lbq3w3xvpx2d",  # Replace with your actual list URI
+    "limit": 100  # Limit for the feed request (adjust as needed)
 }
 
-# Initialize storage
-main_posts = []
-replies = defaultdict(list)  # Store replies under their parent post URI
+# Initialize structures to store posts
+main_posts = []  # Stores main posts
+replies = {}  # Maps parent URI to a list of replies
 
 # Start pagination
 while True:
+    # Make the request to fetch the feed (get the posts)
     feed_response = requests.get(feed_url, headers=headers, params=feed_params)
-    if feed_response.status_code != 200:
+    
+    if feed_response.status_code == 200:
+        feed_data = feed_response.json()
+        
+        # Check if 'data' exists and if there are posts
+        posts = feed_data.get('feed', [])
+        
+        if not posts:
+            break
+        
+        # Process each post
+        for post in posts:
+            post_record = post.get('post', {}).get('record', {})
+            post_uri = post.get('post', {}).get('uri', 'Unknown URI')
+            
+            # Check if the post is a reply
+            if 'reply' in post_record:
+                parent_uri = post_record['reply']['parent']['uri']
+                if parent_uri not in replies:
+                    replies[parent_uri] = []
+                replies[parent_uri].append(post)
+            else:
+                main_posts.append(post)
+        
+        # Check if there's a next page (nextCursor) and update parameters accordingly
+        next_cursor = feed_data.get("cursor", None)
+        if next_cursor:
+            feed_params["cursor"] = next_cursor
+        else:
+            break
+    else:
         print(f"Error fetching posts: {feed_response.status_code} {feed_response.text}")
         break
-    
-    feed_data = feed_response.json()
-    posts = feed_data.get('feed', [])
-    if not posts:
-        break
-    
-    for post in posts:
-        post_record = post.get('post', {}).get('record', {})
-        post_uri = post.get('post', {}).get('uri', 'Unknown URI')
-        post_cid = post.get('post', {}).get('cid', 'Unknown CID')
-        
-        # Check if it's a reply
-        reply_parent = post_record.get('reply', {}).get('parent', {}).get('uri')
-        if reply_parent:
-            replies[reply_parent].append((post_uri, post_cid))
-        else:
-            main_posts.append((post_uri, post_cid))
-    
-    next_cursor = feed_data.get("cursor")
-    if next_cursor:
-        feed_params["cursor"] = next_cursor
-    else:
-        break
 
-# Reverse main_posts to be in chronological order
+# Reverse the order of the main posts to be oldest to newest
 main_posts.reverse()
 
-# Save to HTML
-with open("postsWReplyThreaded.html", "w", encoding="utf-8") as file:
-    file.write("<html>\n<head>\n<title>Bluesky Posts</title>\n</head>\n<body>\n")
+def write_post_with_replies(file, post, is_reply=False):
+    post_uri = post.get('post', {}).get('uri', 'Unknown URI')
+    post_cid = post.get('post', {}).get('cid', 'Unknown CID')
     
-    for post_uri, post_cid in main_posts:
+    if is_reply:
+        file.write("""
+        <div style='display: flex; justify-content: center; align-items: center; width: 100%; max-width: 100%; padding-left: 40px;'>
+            <div style='display: flex; align-items: flex-start; width: 100%; max-width: 100%; justify-content: center;'>
+                <img src='images/thread.gif' alt='GIF' style='width: 66px; height: auto; margin-right: 5px;'>
+                <div style='width: 100%; max-width: 500px; padding-left: 5px;'>
+                    <blockquote class='bluesky-embed' data-bluesky-uri='{}' data-bluesky-cid='{}'></blockquote>
+                    <script async src='https://embed.bsky.app/static/embed.js' charset='utf-8'></script>
+                </div>
+            </div>
+        </div>
+        """.format(post_uri, post_cid))
+    else:
         file.write(f"<blockquote class='bluesky-embed' data-bluesky-uri='{post_uri}' data-bluesky-cid='{post_cid}'></blockquote>\n")
         file.write("<script async src='https://embed.bsky.app/static/embed.js' charset='utf-8'></script>\n")
-        
-        # Add replies in original order (chronological)
-        if post_uri in replies:
-            for reply_uri, reply_cid in replies[post_uri]:
-                file.write("""
-                <div style='display: flex; justify-content: center; align-items: center; width: 100%; max-width: 100%; padding-left: 40px;'>
-                    <div style='display: flex; align-items: flex-start; width: 100%; max-width: 100%; justify-content: center;'>
-                        <img src='images/thread.gif' alt='GIF' style='width: 100px; height: auto; margin-right: 20px;'>
-                        <div style='width: 100%; max-width: 500px; padding-left: 20px;'>
-                            <blockquote class='bluesky-embed' data-bluesky-uri='{}' data-bluesky-cid='{}'></blockquote>
-                            <script async src='https://embed.bsky.app/static/embed.js' charset='utf-8'></script>
-                        </div>
-                    </div>
-                </div>
-                """.format(reply_uri, reply_cid))
     
+    # Check if this post has replies and process them
+    if post_uri in replies:
+        for reply in replies[post_uri]:
+            write_post_with_replies(file, reply, is_reply=True)
+
+# Save the posts to an HTML file
+with open("postsWReply.html", "w", encoding="utf-8") as file:
+    # Write the basic HTML structure
+    file.write("<html>\n<head>\n<title>Bluesky Posts</title>\n</head>\n<body>\n")
+    
+    # Iterate through the main posts and write them with replies
+    for post in main_posts:
+        write_post_with_replies(file, post)
+    
+    # Close the HTML tags
     file.write("</body>\n</html>\n")
 
-print("HTML file created: postsWReplyThreaded.html")
+print("HTML file created: postsWReply.html")
