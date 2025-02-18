@@ -111,16 +111,17 @@ output_file = os.path.join(output_dir, f"{date_range_str}.html")
 def write_post_with_replies(file, post, is_reply=False):
     post_uri = post.get('post', {}).get('uri', 'Unknown URI')
     post_cid = post.get('post', {}).get('cid', 'Unknown CID')
-    post_text = post.get('post', {}).get('text', '')  # Get stored text
+    post_text = post.get('post', {}).get('text', '')
 
     if is_reply:
         file.write(f"""
         <div style='display: flex; justify-content: center; align-items: center; width: 100%; max-width: 100%; padding-left: 2px;'>
             <div style='display: flex; align-items: flex-start; width: 100%; max-width: 100%; justify-content: center;'>
-                <img src='images/thread.gif' alt='GIF' style='width: 66px; height: auto; margin-right: 2px;'>
+                <img src='../images/thread.gif' alt='GIF' style='width: 66px; height: auto; margin-right: 2px;'>
                 <div style='width: 100%; max-width: 500px; padding-left: 5px;'>
-                    <blockquote class='bluesky-embed' data-bluesky-uri='{post_uri}' data-bluesky-cid='{post_cid}'></blockquote>
-                    <p style="font-family: Arial, sans-serif; font-size: 14px; color: #333;">{post_text}</p>
+                    <blockquote class='bluesky-embed' data-bluesky-uri='{post_uri}' data-bluesky-cid='{post_cid}'>
+                        {post_text} <!-- Fallback text inside blockquote -->
+                    </blockquote>
                     <script async src='https://embed.bsky.app/static/embed.js' charset='utf-8'></script>
                 </div>
             </div>
@@ -128,14 +129,16 @@ def write_post_with_replies(file, post, is_reply=False):
         """)
     else:
         file.write(f"""
-        <blockquote class='bluesky-embed' data-bluesky-uri='{post_uri}' data-bluesky-cid='{post_cid}'></blockquote>
-        <p style="font-family: Arial, sans-serif; font-size: 16px; color: #000;">{post_text}</p>
+        <blockquote class='bluesky-embed' data-bluesky-uri='{post_uri}' data-bluesky-cid='{post_cid}'>
+            {post_text} <!-- Fallback text inside blockquote -->
+        </blockquote>
         <script async src='https://embed.bsky.app/static/embed.js' charset='utf-8'></script>
         """)
 
     if post_uri in replies:
         for reply in replies[post_uri]:
             write_post_with_replies(file, reply, is_reply=True)
+
 
 # Save posts to an HTML file
 with open(output_file, "w", encoding="utf-8") as file:
