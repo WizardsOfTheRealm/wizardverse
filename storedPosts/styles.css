@@ -1,0 +1,16 @@
+/* styles.css */
+body {
+    background: url('images/starback.gif') repeat;
+    color: #0000ff; /* blue text */
+    font-family: 'Courier New', Courier, monospace; /* retro font */
+}
+
+h1 {
+    color: #ff0000; /* red heading */
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+}
+
+marquee {
+    font-size: 2em;
+    color: #ff00ff; /* pink text for marquee */
+}
