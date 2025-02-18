@@ -1,21 +1,60 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Bluesky Feed - 170125_170225</title>
+        <link rel="stylesheet" href="styles.css">
+    </head>
+    <body style="background-color: #f0f0f0;">
+        <h1 style="font-family: 'Garamond', sans-serif; text-align: center; font-size: 3em; color: #ff0000;">WIZARDS OF THE REALM</h1>
+        <marquee>I'VE HEARD OF "SCROLLS" BUT THIS IS RIDICULOUS</marquee>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>WIZARDS OF THE REALM</title>
-    <link rel="stylesheet" href="styles.css">
-    <script defer src="script.js"></script>
-</head>
-<body style="background-color: #f0f0f0;">
-    <h1 style="font-family: 'Garamond', sans-serif; text-align: center; font-size: 3em; color: #ff0000;">WIZARDS OF THE REALM</h1>
-    <marquee>I'VE HEARD OF "SCROLLS" BUT THIS IS RIDICULOUS</marquee>
-    
-    <div id="post-container" style="display: flex; flex-direction: column; align-items: left; width: 100%;"></div>
+    <style>
+        /* Apply a tiled background image to the entire page */
+        body {
+            background-image: url('images/magicwand.gif'); /* Replace with your image path */
+            background-repeat: repeat; /* Tiling the background image both horizontally and vertically */
+            margin: 0; /* Remove default margin */
+        }
 
-    <div style="display: flex; justify-content: center; margin-top: 20px;">
-        <button id="prev-page" disabled>Previous Page</button>
-        <button id="next-page" disabled>Next Page</button>
-    </div>
+        a {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            height: 40vh;
+            margin-bottom: 0px;
+            text-decoration: none;
+        }
+
+        a img {
+            width: 600px; /* Adjust size */
+            height: auto;
+            cursor: pointer;
+        }
+
+        .title {
+            margin-top: -80px;
+            font-size: 32px;
+            color: yellow;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <a href="current_episode.html">
+        <img src="images/bookquil.gif" alt="Enter">
+        <div class="title">Book 1</div>
+    </a>
+    <a href="current_episode.html">
+        <img src="images/bookquil.gif" alt="Enter">
+        <div class="title">Book 2</div>
+    </a>
+    <a href="current_episode.html">
+        <img src="images/bookquil.gif" alt="Enter">
+        <div class="title">Book 3</div>
+    </a>
 </body>
 </html>
