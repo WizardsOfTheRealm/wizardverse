@@ -1,0 +1,40 @@
+.post {
+  display: flex;
+  border: 2px dashed green;
+  border-radius: 8px;
+  background-color: white;
+  gap: 8px;
+  padding: 8px;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.header {
+  display: flex;
+  gap: 4px;
+}
+
+.text {
+  white-space: pre-line;
+}
+
+.authorName {
+  font-weight: 700;
+}
+
+.handle {
+  font-weight: light;
+}
+
+.avatar {
+  width: 80px;
+  height: 80px;
+}
+
+.image {
+  max-height: 140px;
+}

@@ -1,0 +1,10 @@
+.thread {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+
+  .replies {
+    align-self: flex-end;
+    gap: 4px;
+  }
+}
