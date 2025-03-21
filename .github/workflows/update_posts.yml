@@ -1,0 +1,21 @@
+on:
+  workflow_dispatch:
+# on:
+#   schedule:
+#     - cron: "15 4,5 * * *"   # <=== Change this value
+
+jobs:
+  fetch_posts:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13.2"
+      - name: Run Python script
+        run: python worPostGrabberJSON.py
+
+      - name: Commit latest
+        run: echo 'hi'
