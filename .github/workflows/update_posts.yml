@@ -19,5 +19,5 @@ jobs:
           python-version: "3.13.2"
       - run: pip install -r requirements.txt
       - run: python worPostGrabberJSON.py
-      - name: Commit latest
-        run: echo 'hi'
+      # Commit all changed files back to the repository
+      - uses: stefanzweifel/git-auto-commit-action@v5
