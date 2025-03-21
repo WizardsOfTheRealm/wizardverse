@@ -4,6 +4,9 @@ on:
 #   schedule:
 #     - cron: "15 4,5 * * *"   # <=== Change this value
 
+permissions:
+  contents: read
+
 jobs:
   fetch_posts:
     runs-on: ubuntu-latest
