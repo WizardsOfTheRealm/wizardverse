@@ -3,6 +3,8 @@ import { Link } from "@tanstack/react-router";
 import classes from "./Landing.module.css";
 import clsx from "clsx";
 
+import globewizard from "../assets/images/globewizard.gif";
+
 export function Landing() {
   return (
     <div className={classes.nightsky}>
@@ -12,7 +14,7 @@ export function Landing() {
 
       <div className={classes.tree}>
         <Link to="/books">
-          <img src="src/assets/images/globewizard.gif"></img>
+          <img src={globewizard}></img>
         </Link>
       </div>
     </div>

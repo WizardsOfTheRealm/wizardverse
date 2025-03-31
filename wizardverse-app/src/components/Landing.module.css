@@ -3,7 +3,7 @@
   align-items: center;
   justify-content: center;
   height: 100%;
-  background-image: url("src/assets/images/starback.gif");
+  background-image: url("../assets/images/starback.gif");
   filter: brightness(0.8);
 }
 
