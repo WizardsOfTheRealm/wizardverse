@@ -2,7 +2,7 @@
 #
 # To get started with Astro see: https://docs.astro.build/en/getting-started/
 #
-name: Deploy site to Pages
+name: Deploy to Pages
 
 on:
   # Runs on pushes targeting the default branch
@@ -28,8 +28,10 @@ env:
   APP_PATH: "wizardverse-app"
 
 jobs:
-  build:
-    name: Build
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -47,24 +49,12 @@ jobs:
         run: yarn install
         working-directory: ${{ env.APP_PATH }}
       - name: Build with Vite
-        run:  yarn build #|
-            # \
-            # --site "${{ steps.pages.outputs.origin }}" \
-            # --base "${{ steps.pages.outputs.base_path }}"
+        run: yarn build
         working-directory: ${{ env.APP_PATH }}
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: ${{ env.APP_PATH }}/dist
-
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    needs: build
-    runs-on: ubuntu-latest
-    name: Deploy
-    steps:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
