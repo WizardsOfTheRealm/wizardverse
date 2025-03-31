@@ -6,7 +6,7 @@ import classes from "./__root.module.css";
 
 export const Route = createRootRoute({
   component: () => {
-    const isLanding = useMatch({ from: "/" });
+    const isLanding = useMatch({ from: "/", shouldThrow: false });
     return (
       <div
         className={clsx(classes.root, { [classes.wandBackground]: !isLanding })}
