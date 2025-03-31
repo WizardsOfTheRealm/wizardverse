@@ -30,6 +30,7 @@ const RAW_RUNTIME_STATE =
           ["@eslint/js", "npm:9.23.0"],\
           ["@tanstack/react-router", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:1.114.29"],\
           ["@tanstack/react-router-devtools", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:1.114.29"],\
+          ["@tanstack/react-virtual", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:3.13.5"],\
           ["@tanstack/router-core", "npm:1.114.29"],\
           ["@tanstack/router-plugin", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:1.114.30"],\
           ["@types/react", "npm:19.0.12"],\
@@ -1267,6 +1268,33 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
+    ["@tanstack/react-virtual", [\
+      ["npm:3.13.5", {\
+        "packageLocation": "./.yarn/cache/@tanstack-react-virtual-npm-3.13.5-2122671873-ba8ce66cd7.zip/node_modules/@tanstack/react-virtual/",\
+        "packageDependencies": [\
+          ["@tanstack/react-virtual", "npm:3.13.5"]\
+        ],\
+        "linkType": "SOFT"\
+      }],\
+      ["virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:3.13.5", {\
+        "packageLocation": "./.yarn/__virtual__/@tanstack-react-virtual-virtual-9528cac523/0/cache/@tanstack-react-virtual-npm-3.13.5-2122671873-ba8ce66cd7.zip/node_modules/@tanstack/react-virtual/",\
+        "packageDependencies": [\
+          ["@tanstack/react-virtual", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:3.13.5"],\
+          ["@tanstack/virtual-core", "npm:3.13.5"],\
+          ["@types/react", "npm:19.0.12"],\
+          ["@types/react-dom", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:19.0.4"],\
+          ["react", "npm:19.1.0"],\
+          ["react-dom", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:19.1.0"]\
+        ],\
+        "packagePeers": [\
+          "@types/react-dom",\
+          "@types/react",\
+          "react-dom",\
+          "react"\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
     ["@tanstack/router-core", [\
       ["npm:1.114.29", {\
         "packageLocation": "./.yarn/cache/@tanstack-router-core-npm-1.114.29-d81f07695e-ce92a7c46b.zip/node_modules/@tanstack/router-core/",\
@@ -1414,6 +1442,15 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./.yarn/cache/@tanstack-store-npm-0.7.0-8515a1ab31-17003f1eba.zip/node_modules/@tanstack/store/",\
         "packageDependencies": [\
           ["@tanstack/store", "npm:0.7.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@tanstack/virtual-core", [\
+      ["npm:3.13.5", {\
+        "packageLocation": "./.yarn/cache/@tanstack-virtual-core-npm-3.13.5-78ceea82fc-870fb28e59.zip/node_modules/@tanstack/virtual-core/",\
+        "packageDependencies": [\
+          ["@tanstack/virtual-core", "npm:3.13.5"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -1856,6 +1893,7 @@ const RAW_RUNTIME_STATE =
           ["@eslint/js", "npm:9.23.0"],\
           ["@tanstack/react-router", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:1.114.29"],\
           ["@tanstack/react-router-devtools", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:1.114.29"],\
+          ["@tanstack/react-virtual", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:3.13.5"],\
           ["@tanstack/router-core", "npm:1.114.29"],\
           ["@tanstack/router-plugin", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:1.114.30"],\
           ["@types/react", "npm:19.0.12"],\
