@@ -20,14 +20,23 @@ export type Post = {
   };
 };
 
-export const storedPosts = import.meta.glob(
-  "../../storedPosts/*.json"
-) as Record<
+type PostIndex = Record<
   string,
   () => Promise<{
     mainPosts: Post[];
     replies: Record<string, Post[]>;
   }>
 >;
+
+export const storedPosts = import.meta.glob(
+  "../../storedPosts/*.json"
+) as PostIndex;
+
+// make the keys url-safe for now
+Object.keys(storedPosts).forEach((filePath) => {
+  storedPosts[filePath.replace("../../storedPosts/", "").replace(".json", "")] =
+    storedPosts[filePath];
+  delete storedPosts[filePath];
+});
 
 export const bookIdentifiers = Object.keys(storedPosts);

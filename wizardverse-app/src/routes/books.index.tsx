@@ -2,7 +2,7 @@ import { createFileRoute, Link } from "@tanstack/react-router";
 import { bookIdentifiers } from "../storedPosts";
 import bookQuill from "../assets/images/bookquil.gif";
 
-export const Route = createFileRoute("/books")({
+export const Route = createFileRoute("/books/")({
   component: RouteComponent,
 });
 
