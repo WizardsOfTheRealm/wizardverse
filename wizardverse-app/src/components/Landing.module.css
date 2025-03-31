@@ -73,3 +73,7 @@
     transform: rotate(360deg);
   }
 }
+
+.tree {
+  z-index: 1;
+}

@@ -3,9 +3,9 @@ import react from "@vitejs/plugin-react-swc";
 import { TanStackRouterVite } from "@tanstack/router-plugin/vite";
 
 // https://vite.dev/config/
-export default defineConfig(({ mode }) => {
+export default defineConfig(({ command }) => {
   return {
-    base: mode === "dev" ? "" : "/wizardverse/",
+    base: command === "serve" ? "" : "/wizardverse/",
     css: {
       transformer: "lightningcss",
     },

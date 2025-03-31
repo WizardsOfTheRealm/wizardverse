@@ -1,5 +1,6 @@
 import { createFileRoute, Link } from "@tanstack/react-router";
 import { bookIdentifiers } from "../storedPosts";
+import bookQuill from "../assets/images/bookquil.gif";
 
 export const Route = createFileRoute("/books")({
   component: RouteComponent,
@@ -29,11 +30,7 @@ function RouteComponent() {
             alignItems: "center",
           }}
         >
-          <img
-            width={600}
-            src="src/assets/images/bookquill.gif"
-            alt="Enter"
-          ></img>
+          <img width={600} src={bookQuill} alt="Enter"></img>
           <span
             style={{
               color: "yellow",

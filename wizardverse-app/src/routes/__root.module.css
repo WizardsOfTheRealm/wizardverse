@@ -6,7 +6,7 @@
 }
 
 .wandBackground {
-  background-image: url("src/assets/images/magicwand.gif");
+  background-image: url("../assets/images/magicwand.gif");
   background-repeat: repeat;
 }
 
