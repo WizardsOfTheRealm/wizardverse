@@ -1,5 +1,5 @@
 import { createRootRoute, Outlet, useMatch } from "@tanstack/react-router";
-import { TanStackRouterDevtools } from "@tanstack/router-devtools";
+import { TanStackRouterDevtools } from "@tanstack/react-router-devtools";
 import clsx from "clsx";
 
 import classes from "./__root.module.css";

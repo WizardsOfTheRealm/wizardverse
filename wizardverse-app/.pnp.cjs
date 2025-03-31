@@ -29,8 +29,8 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["@eslint/js", "npm:9.23.0"],\
           ["@tanstack/react-router", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:1.114.29"],\
+          ["@tanstack/react-router-devtools", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:1.114.29"],\
           ["@tanstack/router-core", "npm:1.114.29"],\
-          ["@tanstack/router-devtools", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:1.114.29"],\
           ["@tanstack/router-plugin", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:1.114.30"],\
           ["@types/react", "npm:19.0.12"],\
           ["@types/react-dom", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:19.0.4"],\
@@ -1215,12 +1215,12 @@ const RAW_RUNTIME_STATE =
         ],\
         "linkType": "SOFT"\
       }],\
-      ["virtual:f36557617833b27b2f72e0951b8a13aee4eb149678f0b33889ab592903233f8add72580df0982cfaf397b426f011769d1bb2d0ef46949d72717c05557abd7b28#npm:1.114.29", {\
-        "packageLocation": "./.yarn/__virtual__/@tanstack-react-router-devtools-virtual-74a6928ab1/0/cache/@tanstack-react-router-devtools-npm-1.114.29-f6ada14ac8-dfad8ae29e.zip/node_modules/@tanstack/react-router-devtools/",\
+      ["virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:1.114.29", {\
+        "packageLocation": "./.yarn/__virtual__/@tanstack-react-router-devtools-virtual-2e62edc241/0/cache/@tanstack-react-router-devtools-npm-1.114.29-f6ada14ac8-dfad8ae29e.zip/node_modules/@tanstack/react-router-devtools/",\
         "packageDependencies": [\
           ["@tanstack/react-router", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:1.114.29"],\
-          ["@tanstack/react-router-devtools", "virtual:f36557617833b27b2f72e0951b8a13aee4eb149678f0b33889ab592903233f8add72580df0982cfaf397b426f011769d1bb2d0ef46949d72717c05557abd7b28#npm:1.114.29"],\
-          ["@tanstack/router-devtools-core", "virtual:74a6928ab15c072abaca8a61e30e5d75393d867ace6ea7b987d66a21c06cbc06d081aa80eafebc86efa9b61cad15b9814badb55825d22939703f62e048861d35#npm:1.114.29"],\
+          ["@tanstack/react-router-devtools", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:1.114.29"],\
+          ["@tanstack/router-devtools-core", "virtual:2e62edc24140a84d4a65eae2c898c9c1bf58cc71264d5f94d8b6e6e04c4251aa8ab7cf6f8a85f4cf4d5a7d89ea91bcbf8a49b3226615862c3e2002f09b2ac77a#npm:1.114.29"],\
           ["@types/react", "npm:19.0.12"],\
           ["@types/react-dom", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:19.0.4"],\
           ["@types/tanstack__react-router", null],\
@@ -1279,43 +1279,6 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
-    ["@tanstack/router-devtools", [\
-      ["npm:1.114.29", {\
-        "packageLocation": "./.yarn/cache/@tanstack-router-devtools-npm-1.114.29-373271d4b8-7382e9b75b.zip/node_modules/@tanstack/router-devtools/",\
-        "packageDependencies": [\
-          ["@tanstack/router-devtools", "npm:1.114.29"]\
-        ],\
-        "linkType": "SOFT"\
-      }],\
-      ["virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:1.114.29", {\
-        "packageLocation": "./.yarn/__virtual__/@tanstack-router-devtools-virtual-f365576178/0/cache/@tanstack-router-devtools-npm-1.114.29-373271d4b8-7382e9b75b.zip/node_modules/@tanstack/router-devtools/",\
-        "packageDependencies": [\
-          ["@tanstack/react-router", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:1.114.29"],\
-          ["@tanstack/react-router-devtools", "virtual:f36557617833b27b2f72e0951b8a13aee4eb149678f0b33889ab592903233f8add72580df0982cfaf397b426f011769d1bb2d0ef46949d72717c05557abd7b28#npm:1.114.29"],\
-          ["@tanstack/router-devtools", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:1.114.29"],\
-          ["@types/csstype", null],\
-          ["@types/react", "npm:19.0.12"],\
-          ["@types/react-dom", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:19.0.4"],\
-          ["@types/tanstack__react-router", null],\
-          ["clsx", "npm:2.1.1"],\
-          ["csstype", null],\
-          ["goober", "virtual:f36557617833b27b2f72e0951b8a13aee4eb149678f0b33889ab592903233f8add72580df0982cfaf397b426f011769d1bb2d0ef46949d72717c05557abd7b28#npm:2.1.16"],\
-          ["react", "npm:19.1.0"],\
-          ["react-dom", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:19.1.0"]\
-        ],\
-        "packagePeers": [\
-          "@tanstack/react-router",\
-          "@types/csstype",\
-          "@types/react-dom",\
-          "@types/react",\
-          "@types/tanstack__react-router",\
-          "csstype",\
-          "react-dom",\
-          "react"\
-        ],\
-        "linkType": "HARD"\
-      }]\
-    ]],\
     ["@tanstack/router-devtools-core", [\
       ["npm:1.114.29", {\
         "packageLocation": "./.yarn/cache/@tanstack-router-devtools-core-npm-1.114.29-c71256a915-8e73fb377a.zip/node_modules/@tanstack/router-devtools-core/",\
@@ -1324,18 +1287,18 @@ const RAW_RUNTIME_STATE =
         ],\
         "linkType": "SOFT"\
       }],\
-      ["virtual:74a6928ab15c072abaca8a61e30e5d75393d867ace6ea7b987d66a21c06cbc06d081aa80eafebc86efa9b61cad15b9814badb55825d22939703f62e048861d35#npm:1.114.29", {\
-        "packageLocation": "./.yarn/__virtual__/@tanstack-router-devtools-core-virtual-4e6d68d03b/0/cache/@tanstack-router-devtools-core-npm-1.114.29-c71256a915-8e73fb377a.zip/node_modules/@tanstack/router-devtools-core/",\
+      ["virtual:2e62edc24140a84d4a65eae2c898c9c1bf58cc71264d5f94d8b6e6e04c4251aa8ab7cf6f8a85f4cf4d5a7d89ea91bcbf8a49b3226615862c3e2002f09b2ac77a#npm:1.114.29", {\
+        "packageLocation": "./.yarn/__virtual__/@tanstack-router-devtools-core-virtual-c140967181/0/cache/@tanstack-router-devtools-core-npm-1.114.29-c71256a915-8e73fb377a.zip/node_modules/@tanstack/router-devtools-core/",\
         "packageDependencies": [\
           ["@tanstack/router-core", null],\
-          ["@tanstack/router-devtools-core", "virtual:74a6928ab15c072abaca8a61e30e5d75393d867ace6ea7b987d66a21c06cbc06d081aa80eafebc86efa9b61cad15b9814badb55825d22939703f62e048861d35#npm:1.114.29"],\
+          ["@tanstack/router-devtools-core", "virtual:2e62edc24140a84d4a65eae2c898c9c1bf58cc71264d5f94d8b6e6e04c4251aa8ab7cf6f8a85f4cf4d5a7d89ea91bcbf8a49b3226615862c3e2002f09b2ac77a#npm:1.114.29"],\
           ["@types/csstype", null],\
           ["@types/solid-js", null],\
           ["@types/tanstack__router-core", null],\
           ["@types/tiny-invariant", null],\
           ["clsx", "npm:2.1.1"],\
           ["csstype", null],\
-          ["goober", "virtual:f36557617833b27b2f72e0951b8a13aee4eb149678f0b33889ab592903233f8add72580df0982cfaf397b426f011769d1bb2d0ef46949d72717c05557abd7b28#npm:2.1.16"],\
+          ["goober", "virtual:c1409671814ae2f5cecf65d4c4d5647bd265d9b0386965cf9b745611ac75dc9b6ef4ec74bdb10cf3b4fddc17157afd2d94c6a93435773fbb6f8be2394fb56d83#npm:2.1.16"],\
           ["solid-js", "npm:1.9.5"],\
           ["tiny-invariant", null]\
         ],\
@@ -1892,8 +1855,8 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["@eslint/js", "npm:9.23.0"],\
           ["@tanstack/react-router", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:1.114.29"],\
+          ["@tanstack/react-router-devtools", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:1.114.29"],\
           ["@tanstack/router-core", "npm:1.114.29"],\
-          ["@tanstack/router-devtools", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:1.114.29"],\
           ["@tanstack/router-plugin", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:1.114.30"],\
           ["@types/react", "npm:19.0.12"],\
           ["@types/react-dom", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:19.0.4"],\
@@ -3218,12 +3181,12 @@ const RAW_RUNTIME_STATE =
         ],\
         "linkType": "SOFT"\
       }],\
-      ["virtual:f36557617833b27b2f72e0951b8a13aee4eb149678f0b33889ab592903233f8add72580df0982cfaf397b426f011769d1bb2d0ef46949d72717c05557abd7b28#npm:2.1.16", {\
-        "packageLocation": "./.yarn/__virtual__/goober-virtual-2481e0e4ce/0/cache/goober-npm-2.1.16-c88ed43b8c-f4c8256bf9.zip/node_modules/goober/",\
+      ["virtual:c1409671814ae2f5cecf65d4c4d5647bd265d9b0386965cf9b745611ac75dc9b6ef4ec74bdb10cf3b4fddc17157afd2d94c6a93435773fbb6f8be2394fb56d83#npm:2.1.16", {\
+        "packageLocation": "./.yarn/__virtual__/goober-virtual-bce4978142/0/cache/goober-npm-2.1.16-c88ed43b8c-f4c8256bf9.zip/node_modules/goober/",\
         "packageDependencies": [\
           ["@types/csstype", null],\
           ["csstype", null],\
-          ["goober", "virtual:f36557617833b27b2f72e0951b8a13aee4eb149678f0b33889ab592903233f8add72580df0982cfaf397b426f011769d1bb2d0ef46949d72717c05557abd7b28#npm:2.1.16"]\
+          ["goober", "virtual:c1409671814ae2f5cecf65d4c4d5647bd265d9b0386965cf9b745611ac75dc9b6ef4ec74bdb10cf3b4fddc17157afd2d94c6a93435773fbb6f8be2394fb56d83#npm:2.1.16"]\
         ],\
         "packagePeers": [\
           "@types/csstype",\
