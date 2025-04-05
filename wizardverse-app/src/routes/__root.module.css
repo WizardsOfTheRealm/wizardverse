@@ -1,0 +1,33 @@
+.root {
+  display: flex;
+  flex-direction: column;
+  overflow-y: auto;
+  height: 100vh;
+}
+
+.wandBackground {
+  background-image: url("../assets/images/magicwand.gif");
+  background-repeat: repeat;
+}
+
+.headerText {
+  text-align: center;
+  font-size: 3em;
+  color: #ff0000;
+}
+
+.marquee {
+  animation: marquee 15s linear infinite;
+  font-size: 32px;
+  color: yellow;
+  text-align: center;
+}
+
+@keyframes marquee {
+  0% {
+    transform: translate(100%, 0);
+  }
+  100% {
+    transform: translate(-100%, 0);
+  }
+}
