@@ -1,0 +1,740 @@
+[
+  {
+    "thread": {
+      "$type": "app.bsky.feed.defs#threadViewPost",
+      "post": {
+        "uri": "at://did:plc:dyhferaekcfoi2ralb473wbi/app.bsky.feed.post/3l7tza47a2z26",
+        "cid": "bafyreiat4ufoibhsrprr34upllzhqxxj7q3zyfi3j352sqgigspoqxrsw4",
+        "author": {
+          "did": "did:plc:dyhferaekcfoi2ralb473wbi",
+          "handle": "thegreenwizard.bsky.social",
+          "displayName": "The Green Wizard",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:dyhferaekcfoi2ralb473wbi/bafkreiai2vwa4jpqwzqbbhh4u6mqr6kcombzrhfiyjjxqynjopuyj64yse@jpeg",
+          "associated": {
+            "chat": {
+              "allowIncoming": "following"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctusxga2q"
+          },
+          "labels": [],
+          "createdAt": "2023-09-20T21:06:29.785Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2024-11-01T01:24:33.496Z",
+          "langs": [
+            "en"
+          ],
+          "text": "A handful of VIPs are at The Big Tree early to help The Archmage perform this year\u2019s ritual\n\nFrom the outside it may appear that I\u2019m a \u201cbig shot,\u201d but I still get goose pimples whenever I witness him do his work!"
+        },
+        "replyCount": 1,
+        "repostCount": 0,
+        "likeCount": 0,
+        "quoteCount": 0,
+        "indexedAt": "2024-11-01T01:24:33.688Z",
+        "viewer": {
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      },
+      "replies": [
+        {
+          "$type": "app.bsky.feed.defs#threadViewPost",
+          "post": {
+            "uri": "at://did:plc:dyhferaekcfoi2ralb473wbi/app.bsky.feed.post/3l7tzd2k2ok2t",
+            "cid": "bafyreih5qjhfhd6eynonjt7ztwdke6th57z63bjqttpeuvp2jyfawegcye",
+            "author": {
+              "did": "did:plc:dyhferaekcfoi2ralb473wbi",
+              "handle": "thegreenwizard.bsky.social",
+              "displayName": "The Green Wizard",
+              "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:dyhferaekcfoi2ralb473wbi/bafkreiai2vwa4jpqwzqbbhh4u6mqr6kcombzrhfiyjjxqynjopuyj64yse@jpeg",
+              "associated": {
+                "chat": {
+                  "allowIncoming": "following"
+                }
+              },
+              "viewer": {
+                "muted": false,
+                "blockedBy": false,
+                "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctusxga2q"
+              },
+              "labels": [],
+              "createdAt": "2023-09-20T21:06:29.785Z"
+            },
+            "record": {
+              "$type": "app.bsky.feed.post",
+              "createdAt": "2024-11-01T01:26:12.418Z",
+              "langs": [
+                "en"
+              ],
+              "reply": {
+                "parent": {
+                  "cid": "bafyreiat4ufoibhsrprr34upllzhqxxj7q3zyfi3j352sqgigspoqxrsw4",
+                  "uri": "at://did:plc:dyhferaekcfoi2ralb473wbi/app.bsky.feed.post/3l7tza47a2z26"
+                },
+                "root": {
+                  "cid": "bafyreiat4ufoibhsrprr34upllzhqxxj7q3zyfi3j352sqgigspoqxrsw4",
+                  "uri": "at://did:plc:dyhferaekcfoi2ralb473wbi/app.bsky.feed.post/3l7tza47a2z26"
+                }
+              },
+              "text": "Now that I have some time I think I\u2019ll help the band tune up\n\nThat snare drum sounds like it could use a tightening\u2026"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-01T01:26:12.587Z",
+            "viewer": {
+              "threadMuted": false,
+              "embeddingDisabled": false
+            },
+            "labels": []
+          },
+          "replies": [],
+          "threadContext": {}
+        }
+      ],
+      "threadContext": {}
+    }
+  },
+  {
+    "thread": {
+      "$type": "app.bsky.feed.defs#threadViewPost",
+      "post": {
+        "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3l7u6gug7d62l",
+        "cid": "bafyreiahhraf3reo34oae2kjixkfd2vjf4i5gumqngwmt7uvsby6rkblxa",
+        "author": {
+          "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl",
+          "handle": "thebluewizard.bsky.social",
+          "displayName": "The Blue Wizard",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2zz4sojwnqgfyxycbwgdqoyl/bafkreiddbibr65lhfedmoarrqh7szrr4oqv5dfjewzic5mwaluk4q7r65a@jpeg",
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctp2puc2y",
+            "followedBy": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.graph.follow/3lbq76d5mi32b"
+          },
+          "labels": [],
+          "createdAt": "2023-10-19T17:52:42.784Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2024-11-01T02:57:49.665Z",
+          "embed": {
+            "$type": "app.bsky.embed.external",
+            "external": {
+              "description": "ALT: a cartoon of a wizard in a room with a bird in a cage behind him",
+              "thumb": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreiamucdtwf6iwkestnnhd4xrwmdwnouyfhk6zt3l7eizy2cgjg5psu"
+                },
+                "mimeType": "image/jpeg",
+                "size": 225712
+              },
+              "title": "a cartoon of a wizard in a room with a bird in a cage behind him",
+              "uri": "https://media.tenor.com/YAf2ddXNnQUAAAAC/wizard-air-guitar-wizard.gif?hh=498&ww=498"
+            }
+          },
+          "facets": [
+            {
+              "features": [
+                {
+                  "$type": "app.bsky.richtext.facet#tag",
+                  "tag": "HSS2024"
+                }
+              ],
+              "index": {
+                "byteEnd": 86,
+                "byteStart": 78
+              }
+            }
+          ],
+          "langs": [
+            "en"
+          ],
+          "text": "Wizard  game on pt tonight. Some say I am a shoe in for the Prix de Mage D'Or #HSS2024"
+        },
+        "embed": {
+          "$type": "app.bsky.embed.external#view",
+          "external": {
+            "uri": "https://media.tenor.com/YAf2ddXNnQUAAAAC/wizard-air-guitar-wizard.gif?hh=498&ww=498",
+            "title": "a cartoon of a wizard in a room with a bird in a cage behind him",
+            "description": "ALT: a cartoon of a wizard in a room with a bird in a cage behind him",
+            "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2zz4sojwnqgfyxycbwgdqoyl/bafkreiamucdtwf6iwkestnnhd4xrwmdwnouyfhk6zt3l7eizy2cgjg5psu@jpeg"
+          }
+        },
+        "replyCount": 1,
+        "repostCount": 0,
+        "likeCount": 0,
+        "quoteCount": 0,
+        "indexedAt": "2024-11-01T02:57:49.482Z",
+        "viewer": {
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      },
+      "replies": [
+        {
+          "$type": "app.bsky.feed.defs#threadViewPost",
+          "post": {
+            "uri": "at://did:plc:vbox4xiuep2vn6fy6uwo6bus/app.bsky.feed.post/3l7ujfbns5v2u",
+            "cid": "bafyreifmcgmqo373qge6ihyxk66inlex5nwfba7magolk5syhxc6y6fltu",
+            "author": {
+              "did": "did:plc:vbox4xiuep2vn6fy6uwo6bus",
+              "handle": "grenman.bsky.social",
+              "displayName": "Grenman",
+              "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:vbox4xiuep2vn6fy6uwo6bus/bafkreiaokf2ia5zj67rhibo4r2r3354magwfznnvav3viek2qkveanqioa@jpeg",
+              "viewer": {
+                "muted": false,
+                "blockedBy": false,
+                "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctwipsa22"
+              },
+              "labels": [],
+              "createdAt": "2024-10-31T05:31:27.929Z"
+            },
+            "record": {
+              "$type": "app.bsky.feed.post",
+              "createdAt": "2024-11-01T06:13:46.890Z",
+              "langs": [
+                "en"
+              ],
+              "reply": {
+                "parent": {
+                  "cid": "bafyreiahhraf3reo34oae2kjixkfd2vjf4i5gumqngwmt7uvsby6rkblxa",
+                  "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3l7u6gug7d62l"
+                },
+                "root": {
+                  "cid": "bafyreiahhraf3reo34oae2kjixkfd2vjf4i5gumqngwmt7uvsby6rkblxa",
+                  "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3l7u6gug7d62l"
+                }
+              },
+              "text": "whatever there\u2019s a giant asterisk on this year\u2019s winner after what happened!!"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-01T06:13:47.282Z",
+            "viewer": {
+              "threadMuted": false,
+              "embeddingDisabled": false
+            },
+            "labels": []
+          },
+          "replies": [],
+          "threadContext": {}
+        }
+      ],
+      "threadContext": {}
+    }
+  },
+  {
+    "thread": {
+      "$type": "app.bsky.feed.defs#threadViewPost",
+      "post": {
+        "uri": "at://did:plc:dyhferaekcfoi2ralb473wbi/app.bsky.feed.post/3l7udgvzm3e26",
+        "cid": "bafyreibmcjk5m5hsyddjvwyok3umlkkuwiofozqrev5r4zpz4gehtihe2a",
+        "author": {
+          "did": "did:plc:dyhferaekcfoi2ralb473wbi",
+          "handle": "thegreenwizard.bsky.social",
+          "displayName": "The Green Wizard",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:dyhferaekcfoi2ralb473wbi/bafkreiai2vwa4jpqwzqbbhh4u6mqr6kcombzrhfiyjjxqynjopuyj64yse@jpeg",
+          "associated": {
+            "chat": {
+              "allowIncoming": "following"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctusxga2q"
+          },
+          "labels": [],
+          "createdAt": "2023-09-20T21:06:29.785Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2024-11-01T04:27:19.293Z",
+          "embed": {
+            "$type": "app.bsky.embed.images",
+            "images": [
+              {
+                "alt": "",
+                "aspectRatio": {
+                  "height": 768,
+                  "width": 512
+                },
+                "image": {
+                  "$type": "blob",
+                  "ref": {
+                    "$link": "bafkreiff2o3p2ran7hslwcsctbacbxwuw5tebrcubni45h6qmdxfdrtxni"
+                  },
+                  "mimeType": "image/jpeg",
+                  "size": 319482
+                }
+              }
+            ]
+          },
+          "langs": [
+            "en"
+          ],
+          "text": ""
+        },
+        "embed": {
+          "$type": "app.bsky.embed.images#view",
+          "images": [
+            {
+              "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dyhferaekcfoi2ralb473wbi/bafkreiff2o3p2ran7hslwcsctbacbxwuw5tebrcubni45h6qmdxfdrtxni@jpeg",
+              "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:dyhferaekcfoi2ralb473wbi/bafkreiff2o3p2ran7hslwcsctbacbxwuw5tebrcubni45h6qmdxfdrtxni@jpeg",
+              "alt": "",
+              "aspectRatio": {
+                "height": 768,
+                "width": 512
+              }
+            }
+          ]
+        },
+        "replyCount": 1,
+        "repostCount": 2,
+        "likeCount": 1,
+        "quoteCount": 0,
+        "indexedAt": "2024-11-01T04:27:19.882Z",
+        "viewer": {
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      },
+      "replies": [
+        {
+          "$type": "app.bsky.feed.defs#threadViewPost",
+          "post": {
+            "uri": "at://did:plc:7uljogq2ezed7yqhwizq4mn7/app.bsky.feed.post/3l7vvvgfiuq2o",
+            "cid": "bafyreicfy2vhu45ys6icatb7ueitxxqk7jeyjfez4emawhajs4p3brpo2u",
+            "author": {
+              "did": "did:plc:7uljogq2ezed7yqhwizq4mn7",
+              "handle": "vorpal-testo.bsky.social",
+              "displayName": "",
+              "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7uljogq2ezed7yqhwizq4mn7/bafkreifvfceahzxcd54rttyiuxubjvigm2snuc5pm2bldvzs4n5v6lqa4u@jpeg",
+              "viewer": {
+                "muted": false,
+                "blockedBy": false,
+                "followedBy": "at://did:plc:7uljogq2ezed7yqhwizq4mn7/app.bsky.graph.follow/3lidxjesql22j"
+              },
+              "labels": [],
+              "createdAt": "2024-11-01T15:02:30.778Z"
+            },
+            "record": {
+              "$type": "app.bsky.feed.post",
+              "createdAt": "2024-11-01T19:30:13.310Z",
+              "langs": [
+                "en"
+              ],
+              "reply": {
+                "parent": {
+                  "cid": "bafyreibmcjk5m5hsyddjvwyok3umlkkuwiofozqrev5r4zpz4gehtihe2a",
+                  "uri": "at://did:plc:dyhferaekcfoi2ralb473wbi/app.bsky.feed.post/3l7udgvzm3e26"
+                },
+                "root": {
+                  "cid": "bafyreibmcjk5m5hsyddjvwyok3umlkkuwiofozqrev5r4zpz4gehtihe2a",
+                  "uri": "at://did:plc:dyhferaekcfoi2ralb473wbi/app.bsky.feed.post/3l7udgvzm3e26"
+                }
+              },
+              "text": "I might just be hired muscle but I know theater when I see it."
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-01T19:30:13.580Z",
+            "viewer": {
+              "threadMuted": false,
+              "embeddingDisabled": false
+            },
+            "labels": []
+          },
+          "replies": [
+            {
+              "$type": "app.bsky.feed.defs#threadViewPost",
+              "post": {
+                "uri": "at://did:plc:dyhferaekcfoi2ralb473wbi/app.bsky.feed.post/3l7vy3ddhw72e",
+                "cid": "bafyreicdgx4g5pfdfkxzqwu4q3cjrceidd7mssyzkuzr5dms2ylrcurc7i",
+                "author": {
+                  "did": "did:plc:dyhferaekcfoi2ralb473wbi",
+                  "handle": "thegreenwizard.bsky.social",
+                  "displayName": "The Green Wizard",
+                  "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:dyhferaekcfoi2ralb473wbi/bafkreiai2vwa4jpqwzqbbhh4u6mqr6kcombzrhfiyjjxqynjopuyj64yse@jpeg",
+                  "associated": {
+                    "chat": {
+                      "allowIncoming": "following"
+                    }
+                  },
+                  "viewer": {
+                    "muted": false,
+                    "blockedBy": false,
+                    "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctusxga2q"
+                  },
+                  "labels": [],
+                  "createdAt": "2023-09-20T21:06:29.785Z"
+                },
+                "record": {
+                  "$type": "app.bsky.feed.post",
+                  "createdAt": "2024-11-01T20:09:18.946Z",
+                  "facets": [
+                    {
+                      "$type": "app.bsky.richtext.facet",
+                      "features": [
+                        {
+                          "$type": "app.bsky.richtext.facet#mention",
+                          "did": "did:plc:z72i7hdynmk6r22z27h6tvur"
+                        }
+                      ],
+                      "index": {
+                        "byteEnd": 9,
+                        "byteStart": 0
+                      }
+                    }
+                  ],
+                  "langs": [
+                    "en"
+                  ],
+                  "reply": {
+                    "parent": {
+                      "cid": "bafyreicfy2vhu45ys6icatb7ueitxxqk7jeyjfez4emawhajs4p3brpo2u",
+                      "uri": "at://did:plc:7uljogq2ezed7yqhwizq4mn7/app.bsky.feed.post/3l7vvvgfiuq2o"
+                    },
+                    "root": {
+                      "cid": "bafyreibmcjk5m5hsyddjvwyok3umlkkuwiofozqrev5r4zpz4gehtihe2a",
+                      "uri": "at://did:plc:dyhferaekcfoi2ralb473wbi/app.bsky.feed.post/3l7udgvzm3e26"
+                    }
+                  },
+                  "text": "@bsky.app these bots are becoming a serious problem please clean them up"
+                },
+                "replyCount": 0,
+                "repostCount": 0,
+                "likeCount": 0,
+                "quoteCount": 0,
+                "indexedAt": "2024-11-01T20:09:19.086Z",
+                "viewer": {
+                  "threadMuted": false,
+                  "embeddingDisabled": false
+                },
+                "labels": []
+              },
+              "replies": [],
+              "threadContext": {}
+            }
+          ],
+          "threadContext": {}
+        }
+      ],
+      "threadContext": {}
+    }
+  },
+  {
+    "thread": {
+      "$type": "app.bsky.feed.defs#threadViewPost",
+      "post": {
+        "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3l7vgbl3hcs2k",
+        "cid": "bafyreieyizwhpikmjik2gy5eu4dackn2rfe4iu3sn5wtbfzqm5ngfug25y",
+        "author": {
+          "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl",
+          "handle": "thebluewizard.bsky.social",
+          "displayName": "The Blue Wizard",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2zz4sojwnqgfyxycbwgdqoyl/bafkreiddbibr65lhfedmoarrqh7szrr4oqv5dfjewzic5mwaluk4q7r65a@jpeg",
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctp2puc2y",
+            "followedBy": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.graph.follow/3lbq76d5mi32b"
+          },
+          "labels": [],
+          "createdAt": "2023-10-19T17:52:42.784Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2024-11-01T14:50:40.567Z",
+          "langs": [
+            "en"
+          ],
+          "text": "my sincere condolences to the Archmage and his wife, Patricia, who thankfully is recovering well from being set on fire by a charlatan.\n\nHappy to be of service. This is exactly why i keep a Water Bucket scroll on hand."
+        },
+        "replyCount": 2,
+        "repostCount": 0,
+        "likeCount": 0,
+        "quoteCount": 0,
+        "indexedAt": "2024-11-01T14:50:41.186Z",
+        "viewer": {
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      },
+      "replies": [
+        {
+          "$type": "app.bsky.feed.defs#threadViewPost",
+          "post": {
+            "uri": "at://did:plc:vbox4xiuep2vn6fy6uwo6bus/app.bsky.feed.post/3l7vqw5plx22r",
+            "cid": "bafyreicsenzdmdvydpgvmfnpz6uc73la7ktv7c3emdjnsfvovomlbgzese",
+            "author": {
+              "did": "did:plc:vbox4xiuep2vn6fy6uwo6bus",
+              "handle": "grenman.bsky.social",
+              "displayName": "Grenman",
+              "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:vbox4xiuep2vn6fy6uwo6bus/bafkreiaokf2ia5zj67rhibo4r2r3354magwfznnvav3viek2qkveanqioa@jpeg",
+              "viewer": {
+                "muted": false,
+                "blockedBy": false,
+                "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctwipsa22"
+              },
+              "labels": [],
+              "createdAt": "2024-10-31T05:31:27.929Z"
+            },
+            "record": {
+              "$type": "app.bsky.feed.post",
+              "createdAt": "2024-11-01T18:01:09.086Z",
+              "langs": [
+                "en"
+              ],
+              "reply": {
+                "parent": {
+                  "cid": "bafyreieyizwhpikmjik2gy5eu4dackn2rfe4iu3sn5wtbfzqm5ngfug25y",
+                  "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3l7vgbl3hcs2k"
+                },
+                "root": {
+                  "cid": "bafyreieyizwhpikmjik2gy5eu4dackn2rfe4iu3sn5wtbfzqm5ngfug25y",
+                  "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3l7vgbl3hcs2k"
+                }
+              },
+              "text": "except I do recall you\u2019re remarkably skilled at Wood magic so that\u2019s interesting"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-01T18:01:09.583Z",
+            "viewer": {
+              "threadMuted": false,
+              "embeddingDisabled": false
+            },
+            "labels": []
+          },
+          "replies": [],
+          "threadContext": {}
+        },
+        {
+          "$type": "app.bsky.feed.defs#threadViewPost",
+          "post": {
+            "uri": "at://did:plc:vbox4xiuep2vn6fy6uwo6bus/app.bsky.feed.post/3l7vqtweggc2m",
+            "cid": "bafyreifvixdp47xj7qnd6mdcvut4ev3ilq7ce2v2wgdz4e5jygo4yecpbi",
+            "author": {
+              "did": "did:plc:vbox4xiuep2vn6fy6uwo6bus",
+              "handle": "grenman.bsky.social",
+              "displayName": "Grenman",
+              "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:vbox4xiuep2vn6fy6uwo6bus/bafkreiaokf2ia5zj67rhibo4r2r3354magwfznnvav3viek2qkveanqioa@jpeg",
+              "viewer": {
+                "muted": false,
+                "blockedBy": false,
+                "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctwipsa22"
+              },
+              "labels": [],
+              "createdAt": "2024-10-31T05:31:27.929Z"
+            },
+            "record": {
+              "$type": "app.bsky.feed.post",
+              "createdAt": "2024-11-01T17:59:54.270Z",
+              "langs": [
+                "en"
+              ],
+              "reply": {
+                "parent": {
+                  "cid": "bafyreieyizwhpikmjik2gy5eu4dackn2rfe4iu3sn5wtbfzqm5ngfug25y",
+                  "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3l7vgbl3hcs2k"
+                },
+                "root": {
+                  "cid": "bafyreieyizwhpikmjik2gy5eu4dackn2rfe4iu3sn5wtbfzqm5ngfug25y",
+                  "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3l7vgbl3hcs2k"
+                }
+              },
+              "text": "Stop embarrassing yourself. Everyone knows you haven\u2019t cast a useful spell in years."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-01T17:59:54.385Z",
+            "viewer": {
+              "threadMuted": false,
+              "embeddingDisabled": false
+            },
+            "labels": []
+          },
+          "replies": [],
+          "threadContext": {}
+        }
+      ],
+      "threadContext": {}
+    }
+  },
+  {
+    "thread": {
+      "$type": "app.bsky.feed.defs#threadViewPost",
+      "post": {
+        "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3l7vguul2yl25",
+        "cid": "bafyreig3cfepdphjrwe6b7aetw46t2ebyppvi2azvcadxn4kw4zcnkc5qy",
+        "author": {
+          "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl",
+          "handle": "thebluewizard.bsky.social",
+          "displayName": "The Blue Wizard",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2zz4sojwnqgfyxycbwgdqoyl/bafkreiddbibr65lhfedmoarrqh7szrr4oqv5dfjewzic5mwaluk4q7r65a@jpeg",
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctp2puc2y",
+            "followedBy": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.graph.follow/3lbq76d5mi32b"
+          },
+          "labels": [],
+          "createdAt": "2023-10-19T17:52:42.784Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2024-11-01T15:01:25.931Z",
+          "langs": [
+            "en"
+          ],
+          "text": "I am honored to be nominated by the Preminent Archmage of the 438th Council of High Wizards to lead the investigation into the events that took place last night at the Hallows Sorcery Symposium."
+        },
+        "replyCount": 0,
+        "repostCount": 0,
+        "likeCount": 0,
+        "quoteCount": 0,
+        "indexedAt": "2024-11-01T15:01:28.685Z",
+        "viewer": {
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      },
+      "replies": [],
+      "threadContext": {}
+    }
+  },
+  {
+    "thread": {
+      "$type": "app.bsky.feed.defs#threadViewPost",
+      "post": {
+        "uri": "at://did:plc:dyhferaekcfoi2ralb473wbi/app.bsky.feed.post/3l7vxt2dfph2u",
+        "cid": "bafyreigsbjaxfscha3gwiknfn4gayctgbyq6exzhabshvjzd27tpm433eu",
+        "author": {
+          "did": "did:plc:dyhferaekcfoi2ralb473wbi",
+          "handle": "thegreenwizard.bsky.social",
+          "displayName": "The Green Wizard",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:dyhferaekcfoi2ralb473wbi/bafkreiai2vwa4jpqwzqbbhh4u6mqr6kcombzrhfiyjjxqynjopuyj64yse@jpeg",
+          "associated": {
+            "chat": {
+              "allowIncoming": "following"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctusxga2q"
+          },
+          "labels": [],
+          "createdAt": "2023-09-20T21:06:29.785Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2024-11-01T20:04:41.088Z",
+          "langs": [
+            "en"
+          ],
+          "text": "To everyone reaching out, I want to be clear: I am fully cooperating with the Archmage\u2019s investigation into the unfortunate events that occurred during last night\u2019s symposium.\n\nJustice will prevail!"
+        },
+        "replyCount": 1,
+        "repostCount": 0,
+        "likeCount": 0,
+        "quoteCount": 0,
+        "indexedAt": "2024-11-01T20:04:41.282Z",
+        "viewer": {
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      },
+      "replies": [
+        {
+          "$type": "app.bsky.feed.defs#threadViewPost",
+          "post": {
+            "uri": "at://did:plc:vbox4xiuep2vn6fy6uwo6bus/app.bsky.feed.post/3l7vybvlzeb2u",
+            "cid": "bafyreif2rlqwe2pzpjsnexik7yqipkshcej566jxb2tngsv47j7ttahrxi",
+            "author": {
+              "did": "did:plc:vbox4xiuep2vn6fy6uwo6bus",
+              "handle": "grenman.bsky.social",
+              "displayName": "Grenman",
+              "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:vbox4xiuep2vn6fy6uwo6bus/bafkreiaokf2ia5zj67rhibo4r2r3354magwfznnvav3viek2qkveanqioa@jpeg",
+              "viewer": {
+                "muted": false,
+                "blockedBy": false,
+                "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctwipsa22"
+              },
+              "labels": [],
+              "createdAt": "2024-10-31T05:31:27.929Z"
+            },
+            "record": {
+              "$type": "app.bsky.feed.post",
+              "createdAt": "2024-11-01T20:12:59.452Z",
+              "facets": [
+                {
+                  "features": [
+                    {
+                      "$type": "app.bsky.richtext.facet#tag",
+                      "tag": "GreenNation"
+                    }
+                  ],
+                  "index": {
+                    "byteEnd": 12,
+                    "byteStart": 0
+                  }
+                }
+              ],
+              "langs": [
+                "en"
+              ],
+              "reply": {
+                "parent": {
+                  "cid": "bafyreigsbjaxfscha3gwiknfn4gayctgbyq6exzhabshvjzd27tpm433eu",
+                  "uri": "at://did:plc:dyhferaekcfoi2ralb473wbi/app.bsky.feed.post/3l7vxt2dfph2u"
+                },
+                "root": {
+                  "cid": "bafyreigsbjaxfscha3gwiknfn4gayctgbyq6exzhabshvjzd27tpm433eu",
+                  "uri": "at://did:plc:dyhferaekcfoi2ralb473wbi/app.bsky.feed.post/3l7vxt2dfph2u"
+                }
+              },
+              "text": "#GreenNation is behind you! \n\nThe blue scum will not prevail in his sceme"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-01T20:12:59.684Z",
+            "viewer": {
+              "threadMuted": false,
+              "embeddingDisabled": false
+            },
+            "labels": []
+          },
+          "replies": [],
+          "threadContext": {}
+        }
+      ],
+      "threadContext": {}
+    }
+  }
+]
