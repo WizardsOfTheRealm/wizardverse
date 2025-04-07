@@ -1,11 +1,21 @@
 .post {
   display: flex;
+  position: relative;
   border: 2px double purple;
   border-radius: 8px;
   background-color: AntiqueWhite;
   gap: 8px;
   padding: 8px;
   max-width: 1000px;     /* Optional: limits the width on larger screens */
+}
+
+.top-right-image {
+  position: absolute;
+  top: 0px;
+  right: 10px;
+  width: 60px;
+  height: auto;
+  display: block;
 }
 
 .content {
