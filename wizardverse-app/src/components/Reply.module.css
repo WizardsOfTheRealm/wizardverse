@@ -1,10 +1,13 @@
-.post {
+.reply {
   display: flex;
   border: 2px double purple;
   border-radius: 8px;
-  background-color: AntiqueWhite;
+  background-color: oldlace;
   gap: 8px;
   padding: 8px;
+  margin-left: auto;
+  width: 80%;           /* Takes up 80% of the parent container */
+  min-width: 300px;     /* Ensures it doesn't shrink smaller than 300px */
   max-width: 1000px;     /* Optional: limits the width on larger screens */
 }
 
@@ -35,8 +38,8 @@
 }
 
 .avatar {
-  width: 90px;
-  height: 90px;
+  width: 45px;
+  height: 45px;
 }
 
 .image {

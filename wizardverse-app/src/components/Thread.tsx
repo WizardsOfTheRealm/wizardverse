@@ -1,5 +1,6 @@
 import type { Post as PostData } from "../storedPosts";
 import { Post } from "./Post";
+import { Reply } from "./Reply";
 import classes from "./Thread.module.css";
 
 type Props = {
@@ -13,7 +14,7 @@ export function Thread({ post, replies }: Props) {
       <Post post={post} />
       <div className={classes.replies}>
         {replies.map((reply) => (
-          <Post key={reply.post.uri} post={reply} />
+          <Reply key={reply.post.uri} post={reply} />
         ))}
       </div>
     </div>

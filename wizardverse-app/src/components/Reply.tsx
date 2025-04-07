@@ -1,5 +1,5 @@
 import type { Post } from "../storedPosts";
-import classes from "./Post.module.css";
+import classes from "./Reply.module.css";
 
 type Props = {
   post: Post;
@@ -17,22 +17,20 @@ type Props = {
 
 const urlForHandle = (handle: string) => `https://bsky.app/profile/${handle}`;
 
-export function Post({ post }: Props) {
+export function Reply({ post }: Props) {
   const { author, text, embed } = post.post;
   const images = embed?.images;
   // const formattedText = text.replace(/<br\s*\\?>/g, "\r\n");
   return (
-    <div className={classes.post}>
+    <div className={classes.reply}>
       <img className={classes.avatar} src={author.avatar} />
       <div className={classes.content}>
-      <div className={classes.header}>
-        <div className={classes.authorName}>{author.displayName}</div>
-        <div>
+        <div className={classes.header}>
+          <span className={classes.authorName}>{author.displayName}</span>
           <a className={classes.handle} href={urlForHandle(author.handle)}>
             @{author.handle}
           </a>
         </div>
-      </div>
         <span className={classes.text}>{text}</span>
         {images &&
           images.map((image) => (
