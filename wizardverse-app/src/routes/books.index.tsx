@@ -1,5 +1,5 @@
 import { createFileRoute, Link } from "@tanstack/react-router";
-import { bookIdentifiers } from "../storedPosts";
+import { books } from "../storedPosts";
 import bookQuill from "../assets/images/bookquil.gif";
 
 export const Route = createFileRoute("/books/")({
@@ -17,7 +17,7 @@ function RouteComponent() {
         marginTop: "16px",
       }}
     >
-      {bookIdentifiers.map((bookId, index) => (
+      {books.map(({ id: bookId }, index) => (
         <Link
           key={bookId}
           to="/books/$bookId"
