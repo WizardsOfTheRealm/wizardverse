@@ -36,20 +36,15 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Enable corepack
-        run: corepack enable
-      - name: Setup Node
-        uses: actions/setup-node@v4
-        with:
-          node-version-file: ".nvmrc"
+      - uses: oven-sh/setup-bun@v2
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
       - name: Install dependencies
-        run: yarn install
+        run: bun install
         working-directory: ${{ env.APP_PATH }}
       - name: Build with Vite
-        run: yarn build
+        run: bun run build
         working-directory: ${{ env.APP_PATH }}
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
