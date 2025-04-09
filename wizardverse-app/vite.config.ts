@@ -11,6 +11,8 @@ export default defineConfig(({ command }) => {
     },
     build: {
       cssMinify: "lightningcss",
+      localsConvention: "camelCaseOnly",
+      target: "es2022",
     },
     plugins: [react(), TanStackRouterVite({ autoCodeSplitting: true })],
   };

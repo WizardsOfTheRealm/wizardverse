@@ -6,10 +6,18 @@
   background-color: AntiqueWhite;
   gap: 8px;
   padding: 8px;
-  max-width: 1000px;     /* Optional: limits the width on larger screens */
+  max-width: 1000px; /* Optional: limits the width on larger screens */
 }
 
-.top-right-image {
+.reply {
+  margin-left: auto;
+  background-color: oldlace;
+  width: 80%; /* Takes up 80% of the parent container */
+  min-width: 300px; /* Ensures it doesn't shrink smaller than 300px */
+  max-width: 1000px; /* Optional: limits the width on larger screens */
+}
+
+.topRightImage {
   position: absolute;
   top: 0px;
   right: 10px;
@@ -49,7 +57,12 @@
   height: 90px;
 }
 
+.reply .avatar {
+  height: 45px;
+  width: 45px;
+}
+
 .image {
-  max-width: 80%; 
-  height: auto; 
+  max-width: 80%;
+  height: auto;
 }
