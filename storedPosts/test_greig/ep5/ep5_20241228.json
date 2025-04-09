@@ -1,0 +1,96 @@
+[
+  {
+    "thread": {
+      "$type": "app.bsky.feed.defs#threadViewPost",
+      "post": {
+        "uri": "at://did:plc:dyhferaekcfoi2ralb473wbi/app.bsky.feed.post/3lef2cz7oss2f",
+        "cid": "bafyreihn3qbvp5sn5su5shpdzbvlmhgzxuoqsxig5wvf3wda5vgkbwaode",
+        "author": {
+          "did": "did:plc:dyhferaekcfoi2ralb473wbi",
+          "handle": "thegreenwizard.bsky.social",
+          "displayName": "The Green Wizard",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:dyhferaekcfoi2ralb473wbi/bafkreiai2vwa4jpqwzqbbhh4u6mqr6kcombzrhfiyjjxqynjopuyj64yse@jpeg",
+          "associated": {
+            "chat": {
+              "allowIncoming": "following"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctusxga2q"
+          },
+          "labels": [],
+          "createdAt": "2023-09-20T21:06:29.785Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2024-12-28T17:40:06.880Z",
+          "langs": [
+            "en"
+          ],
+          "text": "I\u2019m in The Prism"
+        },
+        "replyCount": 0,
+        "repostCount": 0,
+        "likeCount": 2,
+        "quoteCount": 0,
+        "indexedAt": "2024-12-28T17:40:07.256Z",
+        "viewer": {
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      },
+      "replies": [],
+      "threadContext": {}
+    }
+  },
+  {
+    "thread": {
+      "$type": "app.bsky.feed.defs#threadViewPost",
+      "post": {
+        "uri": "at://did:plc:dyhferaekcfoi2ralb473wbi/app.bsky.feed.post/3lef4qyma2s2c",
+        "cid": "bafyreihzkl3zq4uaxi4nnchk6wanjm2u5yer6ixahcpodfhdhujs7tibmm",
+        "author": {
+          "did": "did:plc:dyhferaekcfoi2ralb473wbi",
+          "handle": "thegreenwizard.bsky.social",
+          "displayName": "The Green Wizard",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:dyhferaekcfoi2ralb473wbi/bafkreiai2vwa4jpqwzqbbhh4u6mqr6kcombzrhfiyjjxqynjopuyj64yse@jpeg",
+          "associated": {
+            "chat": {
+              "allowIncoming": "following"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctusxga2q"
+          },
+          "labels": [],
+          "createdAt": "2023-09-20T21:06:29.785Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2024-12-28T18:23:43.488Z",
+          "langs": [
+            "en"
+          ],
+          "text": "How did this happen\n\nI wasn't built for hard time"
+        },
+        "replyCount": 0,
+        "repostCount": 0,
+        "likeCount": 3,
+        "quoteCount": 0,
+        "indexedAt": "2024-12-28T18:23:43.955Z",
+        "viewer": {
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      },
+      "replies": [],
+      "threadContext": {}
+    }
+  }
+]

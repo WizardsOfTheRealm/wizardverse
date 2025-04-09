@@ -1,0 +1,301 @@
+[
+  {
+    "thread": {
+      "$type": "app.bsky.feed.defs#threadViewPost",
+      "post": {
+        "uri": "at://did:plc:i7v44yjlao2ogtw53tw5ibu6/app.bsky.feed.post/3lc6ojppg4k2a",
+        "cid": "bafyreiestif6nrvz4tdb6enbygbssxzs32m4l5rzk4256qgj6v3acbmgcq",
+        "author": {
+          "did": "did:plc:i7v44yjlao2ogtw53tw5ibu6",
+          "handle": "mervastra.bsky.social",
+          "displayName": "Merv Astra (B.Ws, App. Lev 2)",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:i7v44yjlao2ogtw53tw5ibu6/bafkreieiz3urgqvnkxsd6je27woeldzarq6mftoyfe5bl6nb5eyvt7hd5u@jpeg",
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbscubrws32l",
+            "followedBy": "at://did:plc:i7v44yjlao2ogtw53tw5ibu6/app.bsky.graph.follow/3lbqczrjibi2l"
+          },
+          "labels": [],
+          "createdAt": "2024-11-12T03:02:26.214Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2024-11-30T18:02:45.203Z",
+          "langs": [
+            "en"
+          ],
+          "text": "TGIF!"
+        },
+        "replyCount": 0,
+        "repostCount": 0,
+        "likeCount": 1,
+        "quoteCount": 0,
+        "indexedAt": "2024-11-30T18:02:47.154Z",
+        "viewer": {
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      },
+      "replies": [],
+      "threadContext": {}
+    }
+  },
+  {
+    "thread": {
+      "$type": "app.bsky.feed.defs#threadViewPost",
+      "post": {
+        "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lc6pvgvdqk2a",
+        "cid": "bafyreieulezqnmux4k5yg6ehucclopraufoqofejla5step2u2hshhgyeq",
+        "author": {
+          "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl",
+          "handle": "thebluewizard.bsky.social",
+          "displayName": "The Blue Wizard",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2zz4sojwnqgfyxycbwgdqoyl/bafkreiddbibr65lhfedmoarrqh7szrr4oqv5dfjewzic5mwaluk4q7r65a@jpeg",
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctp2puc2y",
+            "followedBy": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.graph.follow/3lbq76d5mi32b"
+          },
+          "labels": [],
+          "createdAt": "2023-10-19T17:52:42.784Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2024-11-30T18:27:12.353Z",
+          "embed": {
+            "$type": "app.bsky.embed.record",
+            "record": {
+              "cid": "bafyreibudzi5az34btcemls5p5bu5kw2avxdcaldvkm32edhzglwaqh4oe",
+              "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3l2go2xubl42k"
+            }
+          },
+          "facets": [
+            {
+              "$type": "app.bsky.richtext.facet",
+              "features": [
+                {
+                  "$type": "app.bsky.richtext.facet#mention",
+                  "did": "did:plc:i7v44yjlao2ogtw53tw5ibu6"
+                }
+              ],
+              "index": {
+                "byteEnd": 112,
+                "byteStart": 90
+              }
+            }
+          ],
+          "langs": [
+            "en"
+          ],
+          "text": "I have done much meditation lately on how fortunate I am to have such a great Apprentice. @mervastra.bsky.social you have come so far and your help has meant so much!"
+        },
+        "embed": {
+          "$type": "app.bsky.embed.record#view",
+          "record": {
+            "$type": "app.bsky.embed.record#viewRecord",
+            "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3l2go2xubl42k",
+            "cid": "bafyreibudzi5az34btcemls5p5bu5kw2avxdcaldvkm32edhzglwaqh4oe",
+            "author": {
+              "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl",
+              "handle": "thebluewizard.bsky.social",
+              "displayName": "The Blue Wizard",
+              "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2zz4sojwnqgfyxycbwgdqoyl/bafkreiddbibr65lhfedmoarrqh7szrr4oqv5dfjewzic5mwaluk4q7r65a@jpeg",
+              "viewer": {
+                "muted": false,
+                "blockedBy": false,
+                "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctp2puc2y",
+                "followedBy": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.graph.follow/3lbq76d5mi32b"
+              },
+              "labels": [],
+              "createdAt": "2023-10-19T17:52:42.784Z"
+            },
+            "value": {
+              "$type": "app.bsky.feed.post",
+              "createdAt": "2024-08-24T02:54:14.279Z",
+              "langs": [
+                "en"
+              ],
+              "text": "Some of you may wonder where I've been... well get some tea and settle in by the fire. \n\nFirst of all, thank you to my apprentice, Merv, who finally discovered how to transmute me back to my human form."
+            },
+            "labels": [],
+            "likeCount": 0,
+            "replyCount": 1,
+            "repostCount": 0,
+            "quoteCount": 1,
+            "indexedAt": "2024-08-24T02:54:14.279Z",
+            "embeds": []
+          }
+        },
+        "replyCount": 2,
+        "repostCount": 0,
+        "likeCount": 1,
+        "quoteCount": 0,
+        "indexedAt": "2024-11-30T18:27:14.257Z",
+        "viewer": {
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      },
+      "replies": [
+        {
+          "$type": "app.bsky.feed.defs#threadViewPost",
+          "post": {
+            "uri": "at://did:plc:vbox4xiuep2vn6fy6uwo6bus/app.bsky.feed.post/3lc7h5fpq7s2n",
+            "cid": "bafyreiaxtijf5puxrhon2l5jw6x5iy7i6yvyxdbwsefd7d4kzt72m23mfa",
+            "author": {
+              "did": "did:plc:vbox4xiuep2vn6fy6uwo6bus",
+              "handle": "grenman.bsky.social",
+              "displayName": "Grenman",
+              "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:vbox4xiuep2vn6fy6uwo6bus/bafkreiaokf2ia5zj67rhibo4r2r3354magwfznnvav3viek2qkveanqioa@jpeg",
+              "viewer": {
+                "muted": false,
+                "blockedBy": false,
+                "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctwipsa22"
+              },
+              "labels": [],
+              "createdAt": "2024-10-31T05:31:27.929Z"
+            },
+            "record": {
+              "$type": "app.bsky.feed.post",
+              "createdAt": "2024-12-01T01:23:15.620Z",
+              "langs": [
+                "en"
+              ],
+              "reply": {
+                "parent": {
+                  "cid": "bafyreieulezqnmux4k5yg6ehucclopraufoqofejla5step2u2hshhgyeq",
+                  "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lc6pvgvdqk2a"
+                },
+                "root": {
+                  "cid": "bafyreieulezqnmux4k5yg6ehucclopraufoqofejla5step2u2hshhgyeq",
+                  "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lc6pvgvdqk2a"
+                }
+              },
+              "text": "So sweet happy for you both"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-12-01T01:23:16.154Z",
+            "viewer": {
+              "threadMuted": false,
+              "embeddingDisabled": false
+            },
+            "labels": []
+          },
+          "replies": [],
+          "threadContext": {}
+        },
+        {
+          "$type": "app.bsky.feed.defs#threadViewPost",
+          "post": {
+            "uri": "at://did:plc:i7v44yjlao2ogtw53tw5ibu6/app.bsky.feed.post/3lc6qakj6zc2a",
+            "cid": "bafyreig7p763lndcowstzbp4n36xl7qexmk3uvdyjyw7p4po3lvr2jv22a",
+            "author": {
+              "did": "did:plc:i7v44yjlao2ogtw53tw5ibu6",
+              "handle": "mervastra.bsky.social",
+              "displayName": "Merv Astra (B.Ws, App. Lev 2)",
+              "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:i7v44yjlao2ogtw53tw5ibu6/bafkreieiz3urgqvnkxsd6je27woeldzarq6mftoyfe5bl6nb5eyvt7hd5u@jpeg",
+              "viewer": {
+                "muted": false,
+                "blockedBy": false,
+                "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbscubrws32l",
+                "followedBy": "at://did:plc:i7v44yjlao2ogtw53tw5ibu6/app.bsky.graph.follow/3lbqczrjibi2l"
+              },
+              "labels": [],
+              "createdAt": "2024-11-12T03:02:26.214Z"
+            },
+            "record": {
+              "$type": "app.bsky.feed.post",
+              "createdAt": "2024-11-30T18:33:25.250Z",
+              "langs": [
+                "en"
+              ],
+              "reply": {
+                "parent": {
+                  "cid": "bafyreieulezqnmux4k5yg6ehucclopraufoqofejla5step2u2hshhgyeq",
+                  "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lc6pvgvdqk2a"
+                },
+                "root": {
+                  "cid": "bafyreieulezqnmux4k5yg6ehucclopraufoqofejla5step2u2hshhgyeq",
+                  "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lc6pvgvdqk2a"
+                }
+              },
+              "text": "Aww thx! I sent your note to my parents whom I haven't seen in so long. \n\nDo you think it would be possible to take next week off to go visit them?"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-30T18:33:26.968Z",
+            "viewer": {
+              "threadMuted": false,
+              "embeddingDisabled": false
+            },
+            "labels": []
+          },
+          "replies": [
+            {
+              "$type": "app.bsky.feed.defs#threadViewPost",
+              "post": {
+                "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lc6qdftxdk2a",
+                "cid": "bafyreigzomuai4gkuyrtkr6l2fujynpfijoftlfnnt4iksa6xishei4d7i",
+                "author": {
+                  "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl",
+                  "handle": "thebluewizard.bsky.social",
+                  "displayName": "The Blue Wizard",
+                  "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2zz4sojwnqgfyxycbwgdqoyl/bafkreiddbibr65lhfedmoarrqh7szrr4oqv5dfjewzic5mwaluk4q7r65a@jpeg",
+                  "viewer": {
+                    "muted": false,
+                    "blockedBy": false,
+                    "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctp2puc2y",
+                    "followedBy": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.graph.follow/3lbq76d5mi32b"
+                  },
+                  "labels": [],
+                  "createdAt": "2023-10-19T17:52:42.784Z"
+                },
+                "record": {
+                  "$type": "app.bsky.feed.post",
+                  "createdAt": "2024-11-30T18:35:01.023Z",
+                  "langs": [
+                    "en"
+                  ],
+                  "reply": {
+                    "parent": {
+                      "cid": "bafyreig7p763lndcowstzbp4n36xl7qexmk3uvdyjyw7p4po3lvr2jv22a",
+                      "uri": "at://did:plc:i7v44yjlao2ogtw53tw5ibu6/app.bsky.feed.post/3lc6qakj6zc2a"
+                    },
+                    "root": {
+                      "cid": "bafyreieulezqnmux4k5yg6ehucclopraufoqofejla5step2u2hshhgyeq",
+                      "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lc6pvgvdqk2a"
+                    }
+                  },
+                  "text": "Hmm next week is pretty packed. So is the following month, actually. Let's block some time to discuss, though! \n\nAgain, great job!"
+                },
+                "replyCount": 0,
+                "repostCount": 0,
+                "likeCount": 0,
+                "quoteCount": 0,
+                "indexedAt": "2024-11-30T18:35:02.757Z",
+                "viewer": {
+                  "threadMuted": false,
+                  "embeddingDisabled": false
+                },
+                "labels": []
+              },
+              "replies": [],
+              "threadContext": {}
+            }
+          ],
+          "threadContext": {}
+        }
+      ],
+      "threadContext": {}
+    }
+  }
+]

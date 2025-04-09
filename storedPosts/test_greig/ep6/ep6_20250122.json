@@ -1,0 +1,1575 @@
+[
+  {
+    "thread": {
+      "$type": "app.bsky.feed.defs#threadViewPost",
+      "post": {
+        "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lgc4wul74k2p",
+        "cid": "bafyreidprrgh7f55n76sd5ymyyutpo4rormsk453jghajzc2r4oytuegze",
+        "author": {
+          "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl",
+          "handle": "thebluewizard.bsky.social",
+          "displayName": "The Blue Wizard",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2zz4sojwnqgfyxycbwgdqoyl/bafkreiddbibr65lhfedmoarrqh7szrr4oqv5dfjewzic5mwaluk4q7r65a@jpeg",
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctp2puc2y",
+            "followedBy": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.graph.follow/3lbq76d5mi32b"
+          },
+          "labels": [],
+          "createdAt": "2023-10-19T17:52:42.784Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2025-01-22T00:39:24.626Z",
+          "langs": [
+            "en"
+          ],
+          "text": "I I found found Fox Fox!!\n\nMerv Merv I'm I'm with with him him now now in in the the imposter's imposter's study study.\n\nI I can't can't lift lift him him from from astral astral plane plane so so I'll I'll just just stay stay here here\n\nMy My brave brave blue blue fur fur boy boy!! \ud83d\udc99\ud83d\udc99"
+        },
+        "replyCount": 0,
+        "repostCount": 0,
+        "likeCount": 0,
+        "quoteCount": 0,
+        "indexedAt": "2025-01-22T00:39:25.246Z",
+        "viewer": {
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      },
+      "replies": [],
+      "threadContext": {}
+    }
+  },
+  {
+    "thread": {
+      "$type": "app.bsky.feed.defs#threadViewPost",
+      "post": {
+        "uri": "at://did:plc:tggfx5t7k47own32wf7tyhdh/app.bsky.feed.post/3lgc56taras2p",
+        "cid": "bafyreidbvyklhtqyrfp6365ewesk7sdpt5lw2zlpgg32vwzczwuqdzv5xy",
+        "author": {
+          "did": "did:plc:tggfx5t7k47own32wf7tyhdh",
+          "handle": "silusa.bsky.social",
+          "displayName": "Silusa the Sorceress",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tggfx5t7k47own32wf7tyhdh/bafkreiewlkljvu7adqsbxabsaavaordavnm7vuw6jlyxqkv4lb2jjnymli@jpeg",
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lfoapy23xr23",
+            "followedBy": "at://did:plc:tggfx5t7k47own32wf7tyhdh/app.bsky.graph.follow/3lfogsvepmq2k"
+          },
+          "labels": [],
+          "createdAt": "2025-01-10T06:10:32.244Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2025-01-22T00:43:51.670Z",
+          "facets": [
+            {
+              "$type": "app.bsky.richtext.facet",
+              "features": [
+                {
+                  "$type": "app.bsky.richtext.facet#mention",
+                  "did": "did:plc:bzmbo74r5yhiuj4m4rnrlehi"
+                }
+              ],
+              "index": {
+                "byteEnd": 85,
+                "byteStart": 56
+              }
+            }
+          ],
+          "langs": [
+            "en"
+          ],
+          "text": "How long have we been reviewing the agenda?? Feels like @abigailgrunewald.bsky.social has been doing this for days!"
+        },
+        "replyCount": 0,
+        "repostCount": 0,
+        "likeCount": 0,
+        "quoteCount": 0,
+        "indexedAt": "2025-01-22T00:43:51.961Z",
+        "viewer": {
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      },
+      "replies": [],
+      "threadContext": {}
+    }
+  },
+  {
+    "thread": {
+      "$type": "app.bsky.feed.defs#threadViewPost",
+      "post": {
+        "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lgc5tgg2m22p",
+        "cid": "bafyreig2fg2dkkczikjdcdxkvu5unscr7gwnmr7bcwiyklg7ke5jynrvjm",
+        "author": {
+          "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl",
+          "handle": "thebluewizard.bsky.social",
+          "displayName": "The Blue Wizard",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2zz4sojwnqgfyxycbwgdqoyl/bafkreiddbibr65lhfedmoarrqh7szrr4oqv5dfjewzic5mwaluk4q7r65a@jpeg",
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctp2puc2y",
+            "followedBy": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.graph.follow/3lbq76d5mi32b"
+          },
+          "labels": [],
+          "createdAt": "2023-10-19T17:52:42.784Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2025-01-22T00:55:22.837Z",
+          "embed": {
+            "$type": "app.bsky.embed.images",
+            "images": [
+              {
+                "alt": "",
+                "aspectRatio": {
+                  "height": 969,
+                  "width": 1078
+                },
+                "image": {
+                  "$type": "blob",
+                  "ref": {
+                    "$link": "bafkreiak6cvxmoi3emw2tiumbmzd3ay5renwo6w57mpf6nczdybxhl5noq"
+                  },
+                  "mimeType": "image/jpeg",
+                  "size": 798944
+                }
+              }
+            ]
+          },
+          "langs": [
+            "en"
+          ],
+          "text": ""
+        },
+        "embed": {
+          "$type": "app.bsky.embed.images#view",
+          "images": [
+            {
+              "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2zz4sojwnqgfyxycbwgdqoyl/bafkreiak6cvxmoi3emw2tiumbmzd3ay5renwo6w57mpf6nczdybxhl5noq@jpeg",
+              "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2zz4sojwnqgfyxycbwgdqoyl/bafkreiak6cvxmoi3emw2tiumbmzd3ay5renwo6w57mpf6nczdybxhl5noq@jpeg",
+              "alt": "",
+              "aspectRatio": {
+                "height": 969,
+                "width": 1078
+              }
+            }
+          ]
+        },
+        "replyCount": 0,
+        "repostCount": 0,
+        "likeCount": 1,
+        "quoteCount": 0,
+        "indexedAt": "2025-01-22T00:55:25.652Z",
+        "viewer": {
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      },
+      "replies": [],
+      "threadContext": {}
+    }
+  },
+  {
+    "thread": {
+      "$type": "app.bsky.feed.defs#threadViewPost",
+      "post": {
+        "uri": "at://did:plc:kcfzbfhikai4scyr6yqdoas4/app.bsky.feed.post/3lgcqtz7f4s25",
+        "cid": "bafyreiceepj5opkibxfmmxwz5j2wwdqokl3u54xiinbnbndnekm357wg6i",
+        "author": {
+          "did": "did:plc:kcfzbfhikai4scyr6yqdoas4",
+          "handle": "druidnancy.bsky.social",
+          "displayName": "Druid Nancy",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kcfzbfhikai4scyr6yqdoas4/bafkreiesozeqwppmnhrw7pyuzzfn65lwvwqvzkued2l47jfwsu6wwixhxq@jpeg",
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lcj4fkz3vt2t"
+          },
+          "labels": [],
+          "createdAt": "2024-12-03T23:07:23.845Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2025-01-22T06:35:43.656Z",
+          "langs": [
+            "en"
+          ],
+          "text": "Great Galathilion give me strength, these cube-dwellers know not the errors of their ways!\n\nWe discuss Dragon defences -- there hasn't been a dragon sighted in 500 years!\n\nWe discuss water quality -- the water is doing great, why would it lie?!\n\nWe discuss horse shit!\n\nWE NEED TO FIND THE INSECTS!!!"
+        },
+        "replyCount": 1,
+        "repostCount": 0,
+        "likeCount": 2,
+        "quoteCount": 1,
+        "indexedAt": "2025-01-22T06:35:44.249Z",
+        "viewer": {
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      },
+      "replies": [
+        {
+          "$type": "app.bsky.feed.defs#threadViewPost",
+          "post": {
+            "uri": "at://did:plc:tggfx5t7k47own32wf7tyhdh/app.bsky.feed.post/3lgcrg4kpw225",
+            "cid": "bafyreibo5d4hdwrhfl2d5vq4rzdvinswu2wb4r5rfrutwsffb7m6nodqcq",
+            "author": {
+              "did": "did:plc:tggfx5t7k47own32wf7tyhdh",
+              "handle": "silusa.bsky.social",
+              "displayName": "Silusa the Sorceress",
+              "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tggfx5t7k47own32wf7tyhdh/bafkreiewlkljvu7adqsbxabsaavaordavnm7vuw6jlyxqkv4lb2jjnymli@jpeg",
+              "viewer": {
+                "muted": false,
+                "blockedBy": false,
+                "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lfoapy23xr23",
+                "followedBy": "at://did:plc:tggfx5t7k47own32wf7tyhdh/app.bsky.graph.follow/3lfogsvepmq2k"
+              },
+              "labels": [],
+              "createdAt": "2025-01-10T06:10:32.244Z"
+            },
+            "record": {
+              "$type": "app.bsky.feed.post",
+              "createdAt": "2025-01-22T06:45:51.153Z",
+              "langs": [
+                "en"
+              ],
+              "reply": {
+                "parent": {
+                  "cid": "bafyreiceepj5opkibxfmmxwz5j2wwdqokl3u54xiinbnbndnekm357wg6i",
+                  "uri": "at://did:plc:kcfzbfhikai4scyr6yqdoas4/app.bsky.feed.post/3lgcqtz7f4s25"
+                },
+                "root": {
+                  "cid": "bafyreiceepj5opkibxfmmxwz5j2wwdqokl3u54xiinbnbndnekm357wg6i",
+                  "uri": "at://did:plc:kcfzbfhikai4scyr6yqdoas4/app.bsky.feed.post/3lgcqtz7f4s25"
+                }
+              },
+              "text": "Don't you think the usurper girl could be the cause of all these issues? Yes she's dirty and lowborn but she's quite cunning...\n\nShe won't permit me to table my amendments to the Sea Serpent Act. There are BILLIONS of hatchlings unable to find adequate burrowing meat and she doesn't care!"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2025-01-22T06:45:51.452Z",
+            "viewer": {
+              "threadMuted": false,
+              "embeddingDisabled": false
+            },
+            "labels": []
+          },
+          "replies": [
+            {
+              "$type": "app.bsky.feed.defs#threadViewPost",
+              "post": {
+                "uri": "at://did:plc:kcfzbfhikai4scyr6yqdoas4/app.bsky.feed.post/3lgcrhck5hs25",
+                "cid": "bafyreid23shgbiikkkrsbgfxxy4fofrq67yhpus5327jf75swr7squypwy",
+                "author": {
+                  "did": "did:plc:kcfzbfhikai4scyr6yqdoas4",
+                  "handle": "druidnancy.bsky.social",
+                  "displayName": "Druid Nancy",
+                  "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kcfzbfhikai4scyr6yqdoas4/bafkreiesozeqwppmnhrw7pyuzzfn65lwvwqvzkued2l47jfwsu6wwixhxq@jpeg",
+                  "viewer": {
+                    "muted": false,
+                    "blockedBy": false,
+                    "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lcj4fkz3vt2t"
+                  },
+                  "labels": [],
+                  "createdAt": "2024-12-03T23:07:23.845Z"
+                },
+                "record": {
+                  "$type": "app.bsky.feed.post",
+                  "createdAt": "2025-01-22T06:46:30.980Z",
+                  "langs": [
+                    "en"
+                  ],
+                  "reply": {
+                    "parent": {
+                      "cid": "bafyreibo5d4hdwrhfl2d5vq4rzdvinswu2wb4r5rfrutwsffb7m6nodqcq",
+                      "uri": "at://did:plc:tggfx5t7k47own32wf7tyhdh/app.bsky.feed.post/3lgcrg4kpw225"
+                    },
+                    "root": {
+                      "cid": "bafyreiceepj5opkibxfmmxwz5j2wwdqokl3u54xiinbnbndnekm357wg6i",
+                      "uri": "at://did:plc:kcfzbfhikai4scyr6yqdoas4/app.bsky.feed.post/3lgcqtz7f4s25"
+                    }
+                  },
+                  "text": "The wind rises."
+                },
+                "replyCount": 0,
+                "repostCount": 0,
+                "likeCount": 0,
+                "quoteCount": 0,
+                "indexedAt": "2025-01-22T06:46:31.352Z",
+                "viewer": {
+                  "threadMuted": false,
+                  "embeddingDisabled": false
+                },
+                "labels": []
+              },
+              "replies": [],
+              "threadContext": {}
+            }
+          ],
+          "threadContext": {}
+        }
+      ],
+      "threadContext": {}
+    }
+  },
+  {
+    "thread": {
+      "$type": "app.bsky.feed.defs#threadViewPost",
+      "post": {
+        "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lgcrwfdnb22k",
+        "cid": "bafyreicskrprmnktsum62jcdhc6nm6b2lu7hxs6rkegjqwbv2j6rgwnkbq",
+        "author": {
+          "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl",
+          "handle": "thebluewizard.bsky.social",
+          "displayName": "The Blue Wizard",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2zz4sojwnqgfyxycbwgdqoyl/bafkreiddbibr65lhfedmoarrqh7szrr4oqv5dfjewzic5mwaluk4q7r65a@jpeg",
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctp2puc2y",
+            "followedBy": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.graph.follow/3lbq76d5mi32b"
+          },
+          "labels": [],
+          "createdAt": "2023-10-19T17:52:42.784Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2025-01-22T06:54:57.221Z",
+          "embed": {
+            "$type": "app.bsky.embed.record",
+            "record": {
+              "cid": "bafyreiceepj5opkibxfmmxwz5j2wwdqokl3u54xiinbnbndnekm357wg6i",
+              "uri": "at://did:plc:kcfzbfhikai4scyr6yqdoas4/app.bsky.feed.post/3lgcqtz7f4s25"
+            }
+          },
+          "facets": [
+            {
+              "$type": "app.bsky.richtext.facet",
+              "features": [
+                {
+                  "$type": "app.bsky.richtext.facet#mention",
+                  "did": "did:plc:i7v44yjlao2ogtw53tw5ibu6"
+                }
+              ],
+              "index": {
+                "byteEnd": 22,
+                "byteStart": 0
+              }
+            },
+            {
+              "$type": "app.bsky.richtext.facet",
+              "features": [
+                {
+                  "$type": "app.bsky.richtext.facet#mention",
+                  "did": "did:plc:i7v44yjlao2ogtw53tw5ibu6"
+                }
+              ],
+              "index": {
+                "byteEnd": 45,
+                "byteStart": 23
+              }
+            }
+          ],
+          "langs": [
+            "en"
+          ],
+          "text": "@mervastra.bsky.social @mervastra.bsky.social go go now now and and sweep sweep the the room room for for bugs bugs!! Nancy Nancy will will not not oppose oppose - it it is is a a our our chance chance!!"
+        },
+        "embed": {
+          "$type": "app.bsky.embed.record#view",
+          "record": {
+            "$type": "app.bsky.embed.record#viewRecord",
+            "uri": "at://did:plc:kcfzbfhikai4scyr6yqdoas4/app.bsky.feed.post/3lgcqtz7f4s25",
+            "cid": "bafyreiceepj5opkibxfmmxwz5j2wwdqokl3u54xiinbnbndnekm357wg6i",
+            "author": {
+              "did": "did:plc:kcfzbfhikai4scyr6yqdoas4",
+              "handle": "druidnancy.bsky.social",
+              "displayName": "Druid Nancy",
+              "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kcfzbfhikai4scyr6yqdoas4/bafkreiesozeqwppmnhrw7pyuzzfn65lwvwqvzkued2l47jfwsu6wwixhxq@jpeg",
+              "viewer": {
+                "muted": false,
+                "blockedBy": false,
+                "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lcj4fkz3vt2t"
+              },
+              "labels": [],
+              "createdAt": "2024-12-03T23:07:23.845Z"
+            },
+            "value": {
+              "$type": "app.bsky.feed.post",
+              "createdAt": "2025-01-22T06:35:43.656Z",
+              "langs": [
+                "en"
+              ],
+              "text": "Great Galathilion give me strength, these cube-dwellers know not the errors of their ways!\n\nWe discuss Dragon defences -- there hasn't been a dragon sighted in 500 years!\n\nWe discuss water quality -- the water is doing great, why would it lie?!\n\nWe discuss horse shit!\n\nWE NEED TO FIND THE INSECTS!!!"
+            },
+            "labels": [],
+            "likeCount": 2,
+            "replyCount": 1,
+            "repostCount": 0,
+            "quoteCount": 1,
+            "indexedAt": "2025-01-22T06:35:44.249Z",
+            "embeds": []
+          }
+        },
+        "replyCount": 1,
+        "repostCount": 0,
+        "likeCount": 0,
+        "quoteCount": 0,
+        "indexedAt": "2025-01-22T06:54:57.957Z",
+        "viewer": {
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      },
+      "replies": [
+        {
+          "$type": "app.bsky.feed.defs#threadViewPost",
+          "post": {
+            "uri": "at://did:plc:i7v44yjlao2ogtw53tw5ibu6/app.bsky.feed.post/3lgcs3c3qv22k",
+            "cid": "bafyreih5pxiw6cuenkzor73bcsksudnwrrmhng4kv3mrbb2hvmgb7mdaku",
+            "author": {
+              "did": "did:plc:i7v44yjlao2ogtw53tw5ibu6",
+              "handle": "mervastra.bsky.social",
+              "displayName": "Merv Astra (B.Ws, App. Lev 2)",
+              "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:i7v44yjlao2ogtw53tw5ibu6/bafkreieiz3urgqvnkxsd6je27woeldzarq6mftoyfe5bl6nb5eyvt7hd5u@jpeg",
+              "viewer": {
+                "muted": false,
+                "blockedBy": false,
+                "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbscubrws32l",
+                "followedBy": "at://did:plc:i7v44yjlao2ogtw53tw5ibu6/app.bsky.graph.follow/3lbqczrjibi2l"
+              },
+              "labels": [],
+              "createdAt": "2024-11-12T03:02:26.214Z"
+            },
+            "record": {
+              "$type": "app.bsky.feed.post",
+              "createdAt": "2025-01-22T06:57:41.597Z",
+              "langs": [
+                "en"
+              ],
+              "reply": {
+                "parent": {
+                  "cid": "bafyreicskrprmnktsum62jcdhc6nm6b2lu7hxs6rkegjqwbv2j6rgwnkbq",
+                  "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lgcrwfdnb22k"
+                },
+                "root": {
+                  "cid": "bafyreicskrprmnktsum62jcdhc6nm6b2lu7hxs6rkegjqwbv2j6rgwnkbq",
+                  "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lgcrwfdnb22k"
+                }
+              },
+              "text": "Here we gooooo!\n\nThat special broom you told me to bring \ud83e\uddf9- hope it's really special!"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2025-01-22T06:57:42.254Z",
+            "viewer": {
+              "threadMuted": false,
+              "embeddingDisabled": false
+            },
+            "labels": []
+          },
+          "replies": [],
+          "threadContext": {}
+        }
+      ],
+      "threadContext": {}
+    }
+  },
+  {
+    "thread": {
+      "$type": "app.bsky.feed.defs#threadViewPost",
+      "post": {
+        "uri": "at://did:plc:i7v44yjlao2ogtw53tw5ibu6/app.bsky.feed.post/3lgcsdmpjic2k",
+        "cid": "bafyreigdo3k7g67vp4ix5aek6qiyrakc74i7ituvuwxxhsgl2gnwiltivq",
+        "author": {
+          "did": "did:plc:i7v44yjlao2ogtw53tw5ibu6",
+          "handle": "mervastra.bsky.social",
+          "displayName": "Merv Astra (B.Ws, App. Lev 2)",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:i7v44yjlao2ogtw53tw5ibu6/bafkreieiz3urgqvnkxsd6je27woeldzarq6mftoyfe5bl6nb5eyvt7hd5u@jpeg",
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbscubrws32l",
+            "followedBy": "at://did:plc:i7v44yjlao2ogtw53tw5ibu6/app.bsky.graph.follow/3lbqczrjibi2l"
+          },
+          "labels": [],
+          "createdAt": "2024-11-12T03:02:26.214Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2025-01-22T07:02:21.158Z",
+          "facets": [
+            {
+              "$type": "app.bsky.richtext.facet",
+              "features": [
+                {
+                  "$type": "app.bsky.richtext.facet#mention",
+                  "did": "did:plc:kcfzbfhikai4scyr6yqdoas4"
+                }
+              ],
+              "index": {
+                "byteEnd": 227,
+                "byteStart": 204
+              }
+            },
+            {
+              "$type": "app.bsky.richtext.facet",
+              "features": [
+                {
+                  "$type": "app.bsky.richtext.facet#mention",
+                  "did": "did:plc:tggfx5t7k47own32wf7tyhdh"
+                }
+              ],
+              "index": {
+                "byteEnd": 247,
+                "byteStart": 228
+              }
+            }
+          ],
+          "langs": [
+            "en"
+          ],
+          "text": "I have credible information that the Council chambers have been bugged. \n\nIn the best interest of the Council of Wizards, I will be initiating a sweep of the Council chambers momentarily. \n\nDo not panic! @druidnancy.bsky.social @silusa.bsky.social i am looking for your support on this!!"
+        },
+        "replyCount": 0,
+        "repostCount": 0,
+        "likeCount": 0,
+        "quoteCount": 1,
+        "indexedAt": "2025-01-22T07:02:21.852Z",
+        "viewer": {
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      },
+      "replies": [],
+      "threadContext": {}
+    }
+  },
+  {
+    "thread": {
+      "$type": "app.bsky.feed.defs#threadViewPost",
+      "post": {
+        "uri": "at://did:plc:tggfx5t7k47own32wf7tyhdh/app.bsky.feed.post/3lgcsww7zgc2k",
+        "cid": "bafyreidyrmkarvwzrr6ob3gbadd5ch7j6d4pzb6xbsb746uer47c5vnaia",
+        "author": {
+          "did": "did:plc:tggfx5t7k47own32wf7tyhdh",
+          "handle": "silusa.bsky.social",
+          "displayName": "Silusa the Sorceress",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tggfx5t7k47own32wf7tyhdh/bafkreiewlkljvu7adqsbxabsaavaordavnm7vuw6jlyxqkv4lb2jjnymli@jpeg",
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lfoapy23xr23",
+            "followedBy": "at://did:plc:tggfx5t7k47own32wf7tyhdh/app.bsky.graph.follow/3lfogsvepmq2k"
+          },
+          "labels": [],
+          "createdAt": "2025-01-10T06:10:32.244Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2025-01-22T07:13:08.671Z",
+          "embed": {
+            "$type": "app.bsky.embed.record",
+            "record": {
+              "cid": "bafyreigdo3k7g67vp4ix5aek6qiyrakc74i7ituvuwxxhsgl2gnwiltivq",
+              "uri": "at://did:plc:i7v44yjlao2ogtw53tw5ibu6/app.bsky.feed.post/3lgcsdmpjic2k"
+            }
+          },
+          "facets": [
+            {
+              "$type": "app.bsky.richtext.facet",
+              "features": [
+                {
+                  "$type": "app.bsky.richtext.facet#mention",
+                  "did": "did:plc:i7v44yjlao2ogtw53tw5ibu6"
+                }
+              ],
+              "index": {
+                "byteEnd": 87,
+                "byteStart": 65
+              }
+            },
+            {
+              "$type": "app.bsky.richtext.facet",
+              "features": [
+                {
+                  "$type": "app.bsky.richtext.facet#mention",
+                  "did": "did:plc:bzmbo74r5yhiuj4m4rnrlehi"
+                }
+              ],
+              "index": {
+                "byteEnd": 260,
+                "byteStart": 231
+              }
+            }
+          ],
+          "langs": [
+            "en"
+          ],
+          "text": "I'm watching a strange scene unfold. A very odd scene indeed.  \n\n@mervastra.bsky.social, a lowly peon, maybe? He's barged in a side door. He's initiated a 'sweep', using an enchanted broom.\n\nCouncil members seem mildly annoyed but @abigailgrunewald.bsky.social is enraged.\nShe's seeking help..\n\n1/3"
+        },
+        "embed": {
+          "$type": "app.bsky.embed.record#view",
+          "record": {
+            "$type": "app.bsky.embed.record#viewRecord",
+            "uri": "at://did:plc:i7v44yjlao2ogtw53tw5ibu6/app.bsky.feed.post/3lgcsdmpjic2k",
+            "cid": "bafyreigdo3k7g67vp4ix5aek6qiyrakc74i7ituvuwxxhsgl2gnwiltivq",
+            "author": {
+              "did": "did:plc:i7v44yjlao2ogtw53tw5ibu6",
+              "handle": "mervastra.bsky.social",
+              "displayName": "Merv Astra (B.Ws, App. Lev 2)",
+              "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:i7v44yjlao2ogtw53tw5ibu6/bafkreieiz3urgqvnkxsd6je27woeldzarq6mftoyfe5bl6nb5eyvt7hd5u@jpeg",
+              "viewer": {
+                "muted": false,
+                "blockedBy": false,
+                "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbscubrws32l",
+                "followedBy": "at://did:plc:i7v44yjlao2ogtw53tw5ibu6/app.bsky.graph.follow/3lbqczrjibi2l"
+              },
+              "labels": [],
+              "createdAt": "2024-11-12T03:02:26.214Z"
+            },
+            "value": {
+              "$type": "app.bsky.feed.post",
+              "createdAt": "2025-01-22T07:02:21.158Z",
+              "facets": [
+                {
+                  "$type": "app.bsky.richtext.facet",
+                  "features": [
+                    {
+                      "$type": "app.bsky.richtext.facet#mention",
+                      "did": "did:plc:kcfzbfhikai4scyr6yqdoas4"
+                    }
+                  ],
+                  "index": {
+                    "byteEnd": 227,
+                    "byteStart": 204
+                  }
+                },
+                {
+                  "$type": "app.bsky.richtext.facet",
+                  "features": [
+                    {
+                      "$type": "app.bsky.richtext.facet#mention",
+                      "did": "did:plc:tggfx5t7k47own32wf7tyhdh"
+                    }
+                  ],
+                  "index": {
+                    "byteEnd": 247,
+                    "byteStart": 228
+                  }
+                }
+              ],
+              "langs": [
+                "en"
+              ],
+              "text": "I have credible information that the Council chambers have been bugged. \n\nIn the best interest of the Council of Wizards, I will be initiating a sweep of the Council chambers momentarily. \n\nDo not panic! @druidnancy.bsky.social @silusa.bsky.social i am looking for your support on this!!"
+            },
+            "labels": [],
+            "likeCount": 0,
+            "replyCount": 0,
+            "repostCount": 0,
+            "quoteCount": 1,
+            "indexedAt": "2025-01-22T07:02:21.852Z",
+            "embeds": []
+          }
+        },
+        "replyCount": 1,
+        "repostCount": 0,
+        "likeCount": 0,
+        "quoteCount": 0,
+        "indexedAt": "2025-01-22T07:13:08.947Z",
+        "viewer": {
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      },
+      "replies": [
+        {
+          "$type": "app.bsky.feed.defs#threadViewPost",
+          "post": {
+            "uri": "at://did:plc:tggfx5t7k47own32wf7tyhdh/app.bsky.feed.post/3lgctf777sk2k",
+            "cid": "bafyreidpmaqozbqbejd74vo264wrjcw2ofxe5izek24magpgh6sq4if5hy",
+            "author": {
+              "did": "did:plc:tggfx5t7k47own32wf7tyhdh",
+              "handle": "silusa.bsky.social",
+              "displayName": "Silusa the Sorceress",
+              "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tggfx5t7k47own32wf7tyhdh/bafkreiewlkljvu7adqsbxabsaavaordavnm7vuw6jlyxqkv4lb2jjnymli@jpeg",
+              "viewer": {
+                "muted": false,
+                "blockedBy": false,
+                "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lfoapy23xr23",
+                "followedBy": "at://did:plc:tggfx5t7k47own32wf7tyhdh/app.bsky.graph.follow/3lfogsvepmq2k"
+              },
+              "labels": [],
+              "createdAt": "2025-01-10T06:10:32.244Z"
+            },
+            "record": {
+              "$type": "app.bsky.feed.post",
+              "createdAt": "2025-01-22T07:21:07.849Z",
+              "facets": [
+                {
+                  "$type": "app.bsky.richtext.facet",
+                  "features": [
+                    {
+                      "$type": "app.bsky.richtext.facet#mention",
+                      "did": "did:plc:bzmbo74r5yhiuj4m4rnrlehi"
+                    }
+                  ],
+                  "index": {
+                    "byteEnd": 29,
+                    "byteStart": 0
+                  }
+                }
+              ],
+              "langs": [
+                "en"
+              ],
+              "reply": {
+                "parent": {
+                  "cid": "bafyreidyrmkarvwzrr6ob3gbadd5ch7j6d4pzb6xbsb746uer47c5vnaia",
+                  "uri": "at://did:plc:tggfx5t7k47own32wf7tyhdh/app.bsky.feed.post/3lgcsww7zgc2k"
+                },
+                "root": {
+                  "cid": "bafyreidyrmkarvwzrr6ob3gbadd5ch7j6d4pzb6xbsb746uer47c5vnaia",
+                  "uri": "at://did:plc:tggfx5t7k47own32wf7tyhdh/app.bsky.feed.post/3lgcsww7zgc2k"
+                }
+              },
+              "text": "@abigailgrunewald.bsky.social has ushered in a mysterious character in a cloak. \n\nHe's followed by a filthy \n.. street urchin? And.. a small boy covered in muck who seems very keen. \n\nThe cloaked man is trying to grab the broom which is sweeping the wall. He can't quite reach it, though...\n\n2/3"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2025-01-22T07:21:07.959Z",
+            "viewer": {
+              "threadMuted": false,
+              "embeddingDisabled": false
+            },
+            "labels": []
+          },
+          "replies": [
+            {
+              "$type": "app.bsky.feed.defs#threadViewPost",
+              "post": {
+                "uri": "at://did:plc:tggfx5t7k47own32wf7tyhdh/app.bsky.feed.post/3lgctnsukz22k",
+                "cid": "bafyreibq42vm2625ass64erqcaekuktm7723ehhbgdhkavj6y3rzjzc6ju",
+                "author": {
+                  "did": "did:plc:tggfx5t7k47own32wf7tyhdh",
+                  "handle": "silusa.bsky.social",
+                  "displayName": "Silusa the Sorceress",
+                  "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tggfx5t7k47own32wf7tyhdh/bafkreiewlkljvu7adqsbxabsaavaordavnm7vuw6jlyxqkv4lb2jjnymli@jpeg",
+                  "viewer": {
+                    "muted": false,
+                    "blockedBy": false,
+                    "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lfoapy23xr23",
+                    "followedBy": "at://did:plc:tggfx5t7k47own32wf7tyhdh/app.bsky.graph.follow/3lfogsvepmq2k"
+                  },
+                  "labels": [],
+                  "createdAt": "2025-01-10T06:10:32.244Z"
+                },
+                "record": {
+                  "$type": "app.bsky.feed.post",
+                  "createdAt": "2025-01-22T07:25:56.907Z",
+                  "facets": [
+                    {
+                      "$type": "app.bsky.richtext.facet",
+                      "features": [
+                        {
+                          "$type": "app.bsky.richtext.facet#mention",
+                          "did": "did:plc:bzmbo74r5yhiuj4m4rnrlehi"
+                        }
+                      ],
+                      "index": {
+                        "byteEnd": 198,
+                        "byteStart": 169
+                      }
+                    }
+                  ],
+                  "langs": [
+                    "en"
+                  ],
+                  "reply": {
+                    "parent": {
+                      "cid": "bafyreidpmaqozbqbejd74vo264wrjcw2ofxe5izek24magpgh6sq4if5hy",
+                      "uri": "at://did:plc:tggfx5t7k47own32wf7tyhdh/app.bsky.feed.post/3lgctf777sk2k"
+                    },
+                    "root": {
+                      "cid": "bafyreidyrmkarvwzrr6ob3gbadd5ch7j6d4pzb6xbsb746uer47c5vnaia",
+                      "uri": "at://did:plc:tggfx5t7k47own32wf7tyhdh/app.bsky.feed.post/3lgcsww7zgc2k"
+                    }
+                  },
+                  "text": "Oh! The cloaked man touched the broom and simply... disintegrated. \nThe cloak fell to the floor and a bunch of bugs just skittered away. Huh. Seems he was... bugs.\n\nNow @abigailgrunewald.bsky.social ran over and... the broom swept off her hat haha\n\nWait - the hat is... moving towards the door.\n\n3/3"
+                },
+                "replyCount": 0,
+                "repostCount": 0,
+                "likeCount": 0,
+                "quoteCount": 1,
+                "indexedAt": "2025-01-22T07:25:57.053Z",
+                "viewer": {
+                  "threadMuted": false,
+                  "embeddingDisabled": false
+                },
+                "labels": []
+              },
+              "replies": [],
+              "threadContext": {}
+            }
+          ],
+          "threadContext": {}
+        }
+      ],
+      "threadContext": {}
+    }
+  },
+  {
+    "thread": {
+      "$type": "app.bsky.feed.defs#threadViewPost",
+      "post": {
+        "uri": "at://did:plc:kcfzbfhikai4scyr6yqdoas4/app.bsky.feed.post/3lgctorrlh22i",
+        "cid": "bafyreidc2nvh5crj6tpheq4jrm2trummtbr5jucbhh5hwqudh67teodkcm",
+        "author": {
+          "did": "did:plc:kcfzbfhikai4scyr6yqdoas4",
+          "handle": "druidnancy.bsky.social",
+          "displayName": "Druid Nancy",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kcfzbfhikai4scyr6yqdoas4/bafkreiesozeqwppmnhrw7pyuzzfn65lwvwqvzkued2l47jfwsu6wwixhxq@jpeg",
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lcj4fkz3vt2t"
+          },
+          "labels": [],
+          "createdAt": "2024-12-03T23:07:23.845Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2025-01-22T07:26:29.317Z",
+          "langs": [
+            "en"
+          ],
+          "text": "Oh that's where the insects went \ud83d\ude44. The Big Tree is riddled with Colony Fiends...\n\nI'll ask Mother to fix this."
+        },
+        "replyCount": 0,
+        "repostCount": 0,
+        "likeCount": 1,
+        "quoteCount": 0,
+        "indexedAt": "2025-01-22T07:26:29.548Z",
+        "viewer": {
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      },
+      "replies": [],
+      "threadContext": {}
+    }
+  },
+  {
+    "thread": {
+      "$type": "app.bsky.feed.defs#threadViewPost",
+      "post": {
+        "uri": "at://did:plc:bzmbo74r5yhiuj4m4rnrlehi/app.bsky.feed.post/3lgctxvwu7c2t",
+        "cid": "bafyreieovux4rq444qckvpvoeyaoirx72walwjtfwjzfowotyjdwescyna",
+        "author": {
+          "did": "did:plc:bzmbo74r5yhiuj4m4rnrlehi",
+          "handle": "abigailgrunewald.bsky.social",
+          "displayName": "Abigail",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bzmbo74r5yhiuj4m4rnrlehi/bafkreiehl6xn2roxypc4jxdcl7ec5lznfa75prrze3goez7ib6yk4mmos4@jpeg",
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lcfz45hwt72d"
+          },
+          "labels": [],
+          "createdAt": "2024-12-02T08:25:37.246Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2025-01-22T07:31:35.674Z",
+          "langs": [
+            "en"
+          ],
+          "text": "wh7&er9e b(u*g go \u2639\ufe0f"
+        },
+        "replyCount": 0,
+        "repostCount": 0,
+        "likeCount": 0,
+        "quoteCount": 0,
+        "indexedAt": "2025-01-22T07:31:35.952Z",
+        "viewer": {
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      },
+      "replies": [],
+      "threadContext": {}
+    }
+  },
+  {
+    "thread": {
+      "$type": "app.bsky.feed.defs#threadViewPost",
+      "post": {
+        "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lgcty5tozk2k",
+        "cid": "bafyreicyzesuiunwebpfogajq5lzkyfdnnl7yylcyzpmga3pvafgrnlplm",
+        "author": {
+          "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl",
+          "handle": "thebluewizard.bsky.social",
+          "displayName": "The Blue Wizard",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2zz4sojwnqgfyxycbwgdqoyl/bafkreiddbibr65lhfedmoarrqh7szrr4oqv5dfjewzic5mwaluk4q7r65a@jpeg",
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctp2puc2y",
+            "followedBy": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.graph.follow/3lbq76d5mi32b"
+          },
+          "labels": [],
+          "createdAt": "2023-10-19T17:52:42.784Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2025-01-22T07:31:43.959Z",
+          "embed": {
+            "$type": "app.bsky.embed.record",
+            "record": {
+              "cid": "bafyreibq42vm2625ass64erqcaekuktm7723ehhbgdhkavj6y3rzjzc6ju",
+              "uri": "at://did:plc:tggfx5t7k47own32wf7tyhdh/app.bsky.feed.post/3lgctnsukz22k"
+            }
+          },
+          "langs": [
+            "en"
+          ],
+          "text": "Now Now is is the the time time Merv Merv!! Call Call the the bug bug by by its its True True Name Name!!"
+        },
+        "embed": {
+          "$type": "app.bsky.embed.record#view",
+          "record": {
+            "$type": "app.bsky.embed.record#viewRecord",
+            "uri": "at://did:plc:tggfx5t7k47own32wf7tyhdh/app.bsky.feed.post/3lgctnsukz22k",
+            "cid": "bafyreibq42vm2625ass64erqcaekuktm7723ehhbgdhkavj6y3rzjzc6ju",
+            "author": {
+              "did": "did:plc:tggfx5t7k47own32wf7tyhdh",
+              "handle": "silusa.bsky.social",
+              "displayName": "Silusa the Sorceress",
+              "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tggfx5t7k47own32wf7tyhdh/bafkreiewlkljvu7adqsbxabsaavaordavnm7vuw6jlyxqkv4lb2jjnymli@jpeg",
+              "viewer": {
+                "muted": false,
+                "blockedBy": false,
+                "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lfoapy23xr23",
+                "followedBy": "at://did:plc:tggfx5t7k47own32wf7tyhdh/app.bsky.graph.follow/3lfogsvepmq2k"
+              },
+              "labels": [],
+              "createdAt": "2025-01-10T06:10:32.244Z"
+            },
+            "value": {
+              "$type": "app.bsky.feed.post",
+              "createdAt": "2025-01-22T07:25:56.907Z",
+              "facets": [
+                {
+                  "$type": "app.bsky.richtext.facet",
+                  "features": [
+                    {
+                      "$type": "app.bsky.richtext.facet#mention",
+                      "did": "did:plc:bzmbo74r5yhiuj4m4rnrlehi"
+                    }
+                  ],
+                  "index": {
+                    "byteEnd": 198,
+                    "byteStart": 169
+                  }
+                }
+              ],
+              "langs": [
+                "en"
+              ],
+              "reply": {
+                "parent": {
+                  "cid": "bafyreidpmaqozbqbejd74vo264wrjcw2ofxe5izek24magpgh6sq4if5hy",
+                  "uri": "at://did:plc:tggfx5t7k47own32wf7tyhdh/app.bsky.feed.post/3lgctf777sk2k"
+                },
+                "root": {
+                  "cid": "bafyreidyrmkarvwzrr6ob3gbadd5ch7j6d4pzb6xbsb746uer47c5vnaia",
+                  "uri": "at://did:plc:tggfx5t7k47own32wf7tyhdh/app.bsky.feed.post/3lgcsww7zgc2k"
+                }
+              },
+              "text": "Oh! The cloaked man touched the broom and simply... disintegrated. \nThe cloak fell to the floor and a bunch of bugs just skittered away. Huh. Seems he was... bugs.\n\nNow @abigailgrunewald.bsky.social ran over and... the broom swept off her hat haha\n\nWait - the hat is... moving towards the door.\n\n3/3"
+            },
+            "labels": [],
+            "likeCount": 0,
+            "replyCount": 0,
+            "repostCount": 0,
+            "quoteCount": 1,
+            "indexedAt": "2025-01-22T07:25:57.053Z",
+            "embeds": []
+          }
+        },
+        "replyCount": 0,
+        "repostCount": 0,
+        "likeCount": 1,
+        "quoteCount": 0,
+        "indexedAt": "2025-01-22T07:31:44.447Z",
+        "viewer": {
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      },
+      "replies": [],
+      "threadContext": {}
+    }
+  },
+  {
+    "thread": {
+      "$type": "app.bsky.feed.defs#threadViewPost",
+      "post": {
+        "uri": "at://did:plc:4bftfm3fheoh7rw3qinaivem/app.bsky.feed.post/3lgcuaqokl222",
+        "cid": "bafyreigph26653zikrrluj4lz7jppblvx3rodrzonbimhdis6vs2wpjoxu",
+        "author": {
+          "did": "did:plc:4bftfm3fheoh7rw3qinaivem",
+          "handle": "rootabegga.bsky.social",
+          "displayName": "Rootabegga",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:4bftfm3fheoh7rw3qinaivem/bafkreiebwtnfxqxhy6nx2s5yj4hlw3joz56bocbmmad3wukpodijyy2p2y@jpeg",
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lcvq27et5q2d",
+            "followedBy": "at://did:plc:4bftfm3fheoh7rw3qinaivem/app.bsky.graph.follow/3lcu4cihm262y"
+          },
+          "labels": [],
+          "createdAt": "2024-12-08T02:09:07.145Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2025-01-22T07:36:32.148Z",
+          "langs": [
+            "en"
+          ],
+          "text": "My favourite boy my number one man he just crumbled apart in my arms!!! \ud83d\ude31\ud83d\ude2d\ud83d\ude16\ud83d\ude13\ud83d\udc94 His bits scattered everywhere and I did scrape some of him into a jar but his smile and his smell are gone \ud83d\ude29 But if I close my eyes and hug the jar CLOSE and TIGHT I can still feel his healing energy in my heart! \ud83d\udc97\ud83d\udc93"
+        },
+        "replyCount": 0,
+        "repostCount": 0,
+        "likeCount": 0,
+        "quoteCount": 0,
+        "indexedAt": "2025-01-22T07:36:32.452Z",
+        "viewer": {
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      },
+      "replies": [],
+      "threadContext": {}
+    }
+  },
+  {
+    "thread": {
+      "$type": "app.bsky.feed.defs#threadViewPost",
+      "post": {
+        "uri": "at://did:plc:tggfx5t7k47own32wf7tyhdh/app.bsky.feed.post/3lgcukvak522k",
+        "cid": "bafyreih43hu6geec6lc4h5qofzqoeysvy237n6gwczulp72hkmiwulcigy",
+        "author": {
+          "did": "did:plc:tggfx5t7k47own32wf7tyhdh",
+          "handle": "silusa.bsky.social",
+          "displayName": "Silusa the Sorceress",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tggfx5t7k47own32wf7tyhdh/bafkreiewlkljvu7adqsbxabsaavaordavnm7vuw6jlyxqkv4lb2jjnymli@jpeg",
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lfoapy23xr23",
+            "followedBy": "at://did:plc:tggfx5t7k47own32wf7tyhdh/app.bsky.graph.follow/3lfogsvepmq2k"
+          },
+          "labels": [],
+          "createdAt": "2025-01-10T06:10:32.244Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2025-01-22T07:42:12.475Z",
+          "facets": [
+            {
+              "$type": "app.bsky.richtext.facet",
+              "features": [
+                {
+                  "$type": "app.bsky.richtext.facet#mention",
+                  "did": "did:plc:i7v44yjlao2ogtw53tw5ibu6"
+                }
+              ],
+              "index": {
+                "byteEnd": 43,
+                "byteStart": 21
+              }
+            }
+          ],
+          "langs": [
+            "en"
+          ],
+          "text": "Wait, there's more.\n\n@mervastra.bsky.social shouted, \"SCOOTCHY!\"\n\nThe hat, now at the threshold of the door, stopped.\n\nThis servant (maybe a cleaner?) then said, \"COME HERE\" in a surprisingly authoritative voice. Based on his robes maybe he's a roofer. \n\nNow the hat is moving to him..."
+        },
+        "replyCount": 1,
+        "repostCount": 0,
+        "likeCount": 0,
+        "quoteCount": 0,
+        "indexedAt": "2025-01-22T07:42:12.552Z",
+        "viewer": {
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      },
+      "replies": [
+        {
+          "$type": "app.bsky.feed.defs#threadViewPost",
+          "post": {
+            "uri": "at://did:plc:tggfx5t7k47own32wf7tyhdh/app.bsky.feed.post/3lgcuys4yk22k",
+            "cid": "bafyreidwdv5o7u66uxeuzlkxgplkdzv4w2ca3bn47zf7hx3qe6hj3bx6zi",
+            "author": {
+              "did": "did:plc:tggfx5t7k47own32wf7tyhdh",
+              "handle": "silusa.bsky.social",
+              "displayName": "Silusa the Sorceress",
+              "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tggfx5t7k47own32wf7tyhdh/bafkreiewlkljvu7adqsbxabsaavaordavnm7vuw6jlyxqkv4lb2jjnymli@jpeg",
+              "viewer": {
+                "muted": false,
+                "blockedBy": false,
+                "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lfoapy23xr23",
+                "followedBy": "at://did:plc:tggfx5t7k47own32wf7tyhdh/app.bsky.graph.follow/3lfogsvepmq2k"
+              },
+              "labels": [],
+              "createdAt": "2025-01-10T06:10:32.244Z"
+            },
+            "record": {
+              "$type": "app.bsky.feed.post",
+              "createdAt": "2025-01-22T07:49:58.972Z",
+              "facets": [
+                {
+                  "$type": "app.bsky.richtext.facet",
+                  "features": [
+                    {
+                      "$type": "app.bsky.richtext.facet#mention",
+                      "did": "did:plc:kcfzbfhikai4scyr6yqdoas4"
+                    }
+                  ],
+                  "index": {
+                    "byteEnd": 190,
+                    "byteStart": 167
+                  }
+                }
+              ],
+              "langs": [
+                "en"
+              ],
+              "reply": {
+                "parent": {
+                  "cid": "bafyreih43hu6geec6lc4h5qofzqoeysvy237n6gwczulp72hkmiwulcigy",
+                  "uri": "at://did:plc:tggfx5t7k47own32wf7tyhdh/app.bsky.feed.post/3lgcukvak522k"
+                },
+                "root": {
+                  "cid": "bafyreih43hu6geec6lc4h5qofzqoeysvy237n6gwczulp72hkmiwulcigy",
+                  "uri": "at://did:plc:tggfx5t7k47own32wf7tyhdh/app.bsky.feed.post/3lgcukvak522k"
+                }
+              },
+              "text": "... he stomped on the hat. \n\nGross - there was a bug in there.\n\nWell. Who is taking minutes of this meeting?? I think we need a vote to take a recess until tomorrow.\n\n@druidnancy.bsky.social what is your take on this."
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 1,
+            "indexedAt": "2025-01-22T07:49:59.253Z",
+            "viewer": {
+              "threadMuted": false,
+              "embeddingDisabled": false
+            },
+            "labels": []
+          },
+          "replies": [
+            {
+              "$type": "app.bsky.feed.defs#threadViewPost",
+              "post": {
+                "uri": "at://did:plc:kcfzbfhikai4scyr6yqdoas4/app.bsky.feed.post/3lgcvc7jcpc2z",
+                "cid": "bafyreiaa6tdexjgtrqgfgeiu27mhleevyhgpmrcpcyty5qockalkuxebkm",
+                "author": {
+                  "did": "did:plc:kcfzbfhikai4scyr6yqdoas4",
+                  "handle": "druidnancy.bsky.social",
+                  "displayName": "Druid Nancy",
+                  "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kcfzbfhikai4scyr6yqdoas4/bafkreiesozeqwppmnhrw7pyuzzfn65lwvwqvzkued2l47jfwsu6wwixhxq@jpeg",
+                  "viewer": {
+                    "muted": false,
+                    "blockedBy": false,
+                    "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lcj4fkz3vt2t"
+                  },
+                  "labels": [],
+                  "createdAt": "2024-12-03T23:07:23.845Z"
+                },
+                "record": {
+                  "$type": "app.bsky.feed.post",
+                  "createdAt": "2025-01-22T07:55:15.002Z",
+                  "langs": [
+                    "en"
+                  ],
+                  "reply": {
+                    "parent": {
+                      "cid": "bafyreidwdv5o7u66uxeuzlkxgplkdzv4w2ca3bn47zf7hx3qe6hj3bx6zi",
+                      "uri": "at://did:plc:tggfx5t7k47own32wf7tyhdh/app.bsky.feed.post/3lgcuys4yk22k"
+                    },
+                    "root": {
+                      "cid": "bafyreih43hu6geec6lc4h5qofzqoeysvy237n6gwczulp72hkmiwulcigy",
+                      "uri": "at://did:plc:tggfx5t7k47own32wf7tyhdh/app.bsky.feed.post/3lgcukvak522k"
+                    }
+                  },
+                  "text": "The Great Mother has acknowledged my whispers.\n\nInsects, return to your duties!!"
+                },
+                "replyCount": 0,
+                "repostCount": 0,
+                "likeCount": 2,
+                "quoteCount": 0,
+                "indexedAt": "2025-01-22T07:55:15.452Z",
+                "viewer": {
+                  "threadMuted": false,
+                  "embeddingDisabled": false
+                },
+                "labels": []
+              },
+              "replies": [],
+              "threadContext": {
+                "rootAuthorLike": "at://did:plc:tggfx5t7k47own32wf7tyhdh/app.bsky.feed.like/3lgitw4w6ne2e"
+              }
+            }
+          ],
+          "threadContext": {}
+        }
+      ],
+      "threadContext": {}
+    }
+  },
+  {
+    "thread": {
+      "$type": "app.bsky.feed.defs#threadViewPost",
+      "post": {
+        "uri": "at://did:plc:bzmbo74r5yhiuj4m4rnrlehi/app.bsky.feed.post/3lgcvgylqpc2z",
+        "cid": "bafyreihnadgpfzwsxjo3k2sx6kosc5egxv6ptm63k5g3gwtb4ahcmholpa",
+        "author": {
+          "did": "did:plc:bzmbo74r5yhiuj4m4rnrlehi",
+          "handle": "abigailgrunewald.bsky.social",
+          "displayName": "Abigail",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bzmbo74r5yhiuj4m4rnrlehi/bafkreiehl6xn2roxypc4jxdcl7ec5lznfa75prrze3goez7ib6yk4mmos4@jpeg",
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lcfz45hwt72d"
+          },
+          "labels": [],
+          "createdAt": "2024-12-02T08:25:37.246Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2025-01-22T07:57:55.513Z",
+          "langs": [
+            "en"
+          ],
+          "text": "\ud83d\ude28"
+        },
+        "replyCount": 0,
+        "repostCount": 0,
+        "likeCount": 0,
+        "quoteCount": 0,
+        "indexedAt": "2025-01-22T07:57:56.049Z",
+        "viewer": {
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      },
+      "replies": [],
+      "threadContext": {}
+    }
+  },
+  {
+    "thread": {
+      "$type": "app.bsky.feed.defs#threadViewPost",
+      "post": {
+        "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lgcv4e4fdk2k",
+        "cid": "bafyreibx6cedeuld72ryst2muclhmjdq3mnkv7emu7ylketgzksjxkiegy",
+        "author": {
+          "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl",
+          "handle": "thebluewizard.bsky.social",
+          "displayName": "The Blue Wizard",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2zz4sojwnqgfyxycbwgdqoyl/bafkreiddbibr65lhfedmoarrqh7szrr4oqv5dfjewzic5mwaluk4q7r65a@jpeg",
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctp2puc2y",
+            "followedBy": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.graph.follow/3lbq76d5mi32b"
+          },
+          "labels": [],
+          "createdAt": "2023-10-19T17:52:42.784Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2025-01-22T07:51:58.493Z",
+          "embed": {
+            "$type": "app.bsky.embed.record",
+            "record": {
+              "cid": "bafyreidwdv5o7u66uxeuzlkxgplkdzv4w2ca3bn47zf7hx3qe6hj3bx6zi",
+              "uri": "at://did:plc:tggfx5t7k47own32wf7tyhdh/app.bsky.feed.post/3lgcuys4yk22k"
+            }
+          },
+          "facets": [
+            {
+              "$type": "app.bsky.richtext.facet",
+              "features": [
+                {
+                  "$type": "app.bsky.richtext.facet#mention",
+                  "did": "did:plc:i7v44yjlao2ogtw53tw5ibu6"
+                }
+              ],
+              "index": {
+                "byteEnd": 54,
+                "byteStart": 32
+              }
+            },
+            {
+              "$type": "app.bsky.richtext.facet",
+              "features": [
+                {
+                  "$type": "app.bsky.richtext.facet#mention",
+                  "did": "did:plc:i7v44yjlao2ogtw53tw5ibu6"
+                }
+              ],
+              "index": {
+                "byteEnd": 77,
+                "byteStart": 55
+              }
+            }
+          ],
+          "langs": [
+            "en"
+          ],
+          "text": "So So proud proud of of you you @mervastra.bsky.social @mervastra.bsky.social !!"
+        },
+        "embed": {
+          "$type": "app.bsky.embed.record#view",
+          "record": {
+            "$type": "app.bsky.embed.record#viewRecord",
+            "uri": "at://did:plc:tggfx5t7k47own32wf7tyhdh/app.bsky.feed.post/3lgcuys4yk22k",
+            "cid": "bafyreidwdv5o7u66uxeuzlkxgplkdzv4w2ca3bn47zf7hx3qe6hj3bx6zi",
+            "author": {
+              "did": "did:plc:tggfx5t7k47own32wf7tyhdh",
+              "handle": "silusa.bsky.social",
+              "displayName": "Silusa the Sorceress",
+              "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tggfx5t7k47own32wf7tyhdh/bafkreiewlkljvu7adqsbxabsaavaordavnm7vuw6jlyxqkv4lb2jjnymli@jpeg",
+              "viewer": {
+                "muted": false,
+                "blockedBy": false,
+                "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lfoapy23xr23",
+                "followedBy": "at://did:plc:tggfx5t7k47own32wf7tyhdh/app.bsky.graph.follow/3lfogsvepmq2k"
+              },
+              "labels": [],
+              "createdAt": "2025-01-10T06:10:32.244Z"
+            },
+            "value": {
+              "$type": "app.bsky.feed.post",
+              "createdAt": "2025-01-22T07:49:58.972Z",
+              "facets": [
+                {
+                  "$type": "app.bsky.richtext.facet",
+                  "features": [
+                    {
+                      "$type": "app.bsky.richtext.facet#mention",
+                      "did": "did:plc:kcfzbfhikai4scyr6yqdoas4"
+                    }
+                  ],
+                  "index": {
+                    "byteEnd": 190,
+                    "byteStart": 167
+                  }
+                }
+              ],
+              "langs": [
+                "en"
+              ],
+              "reply": {
+                "parent": {
+                  "cid": "bafyreih43hu6geec6lc4h5qofzqoeysvy237n6gwczulp72hkmiwulcigy",
+                  "uri": "at://did:plc:tggfx5t7k47own32wf7tyhdh/app.bsky.feed.post/3lgcukvak522k"
+                },
+                "root": {
+                  "cid": "bafyreih43hu6geec6lc4h5qofzqoeysvy237n6gwczulp72hkmiwulcigy",
+                  "uri": "at://did:plc:tggfx5t7k47own32wf7tyhdh/app.bsky.feed.post/3lgcukvak522k"
+                }
+              },
+              "text": "... he stomped on the hat. \n\nGross - there was a bug in there.\n\nWell. Who is taking minutes of this meeting?? I think we need a vote to take a recess until tomorrow.\n\n@druidnancy.bsky.social what is your take on this."
+            },
+            "labels": [],
+            "likeCount": 1,
+            "replyCount": 1,
+            "repostCount": 0,
+            "quoteCount": 1,
+            "indexedAt": "2025-01-22T07:49:59.253Z",
+            "embeds": []
+          }
+        },
+        "replyCount": 1,
+        "repostCount": 0,
+        "likeCount": 0,
+        "quoteCount": 0,
+        "indexedAt": "2025-01-22T07:51:59.055Z",
+        "viewer": {
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      },
+      "replies": [
+        {
+          "$type": "app.bsky.feed.defs#threadViewPost",
+          "post": {
+            "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lgcvme4t3s2k",
+            "cid": "bafyreid7k2dmcniaerempmd33224eqowwhzenoqtuvct64asje32elelcq",
+            "author": {
+              "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl",
+              "handle": "thebluewizard.bsky.social",
+              "displayName": "The Blue Wizard",
+              "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2zz4sojwnqgfyxycbwgdqoyl/bafkreiddbibr65lhfedmoarrqh7szrr4oqv5dfjewzic5mwaluk4q7r65a@jpeg",
+              "viewer": {
+                "muted": false,
+                "blockedBy": false,
+                "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctp2puc2y",
+                "followedBy": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.graph.follow/3lbq76d5mi32b"
+              },
+              "labels": [],
+              "createdAt": "2023-10-19T17:52:42.784Z"
+            },
+            "record": {
+              "$type": "app.bsky.feed.post",
+              "createdAt": "2025-01-22T08:00:55.379Z",
+              "langs": [
+                "en"
+              ],
+              "reply": {
+                "parent": {
+                  "cid": "bafyreibx6cedeuld72ryst2muclhmjdq3mnkv7emu7ylketgzksjxkiegy",
+                  "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lgcv4e4fdk2k"
+                },
+                "root": {
+                  "cid": "bafyreibx6cedeuld72ryst2muclhmjdq3mnkv7emu7ylketgzksjxkiegy",
+                  "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lgcv4e4fdk2k"
+                }
+              },
+              "text": "Now Now come come get get Fox Fox and and let's let's take take him him back back home home!!"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2025-01-22T08:00:55.551Z",
+            "viewer": {
+              "threadMuted": false,
+              "embeddingDisabled": false
+            },
+            "labels": []
+          },
+          "replies": [],
+          "threadContext": {}
+        }
+      ],
+      "threadContext": {}
+    }
+  },
+  {
+    "thread": {
+      "$type": "app.bsky.feed.defs#threadViewPost",
+      "post": {
+        "uri": "at://did:plc:tggfx5t7k47own32wf7tyhdh/app.bsky.feed.post/3lgcwki3huk2z",
+        "cid": "bafyreihpjs6c7osh36jaxgn67jsmx3sy333k5rmpfubnb5kuhmuykemdzi",
+        "author": {
+          "did": "did:plc:tggfx5t7k47own32wf7tyhdh",
+          "handle": "silusa.bsky.social",
+          "displayName": "Silusa the Sorceress",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tggfx5t7k47own32wf7tyhdh/bafkreiewlkljvu7adqsbxabsaavaordavnm7vuw6jlyxqkv4lb2jjnymli@jpeg",
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lfoapy23xr23",
+            "followedBy": "at://did:plc:tggfx5t7k47own32wf7tyhdh/app.bsky.graph.follow/3lfogsvepmq2k"
+          },
+          "labels": [],
+          "createdAt": "2025-01-10T06:10:32.244Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2025-01-22T08:17:46.162Z",
+          "langs": [
+            "en"
+          ],
+          "text": "The weird foreign girl just\u2026 wandered off? \ud83e\udd37\n\nAs stated in the charter, abandoning council mid-session is interpreted as resignation. So tomorrow we shall require a new HoC!\n\nWhat say this time we elect someone with a modicum of pedigree?\n\nMEETING ADJOURNED! \ud83d\udd28"
+        },
+        "replyCount": 0,
+        "repostCount": 0,
+        "likeCount": 0,
+        "quoteCount": 0,
+        "indexedAt": "2025-01-22T08:17:46.554Z",
+        "viewer": {
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      },
+      "replies": [],
+      "threadContext": {}
+    }
+  },
+  {
+    "thread": {
+      "$type": "app.bsky.feed.defs#threadViewPost",
+      "post": {
+        "uri": "at://did:plc:bzmbo74r5yhiuj4m4rnrlehi/app.bsky.feed.post/3lgdss3r6622k",
+        "cid": "bafyreiham2c2i6vnfvqrvw7led7fcd6bbbc52gv5fkcopzhr6pexav54lq",
+        "author": {
+          "did": "did:plc:bzmbo74r5yhiuj4m4rnrlehi",
+          "handle": "abigailgrunewald.bsky.social",
+          "displayName": "Abigail",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bzmbo74r5yhiuj4m4rnrlehi/bafkreiehl6xn2roxypc4jxdcl7ec5lznfa75prrze3goez7ib6yk4mmos4@jpeg",
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lcfz45hwt72d"
+          },
+          "labels": [],
+          "createdAt": "2024-12-02T08:25:37.246Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2025-01-22T16:43:06.445Z",
+          "langs": [
+            "en"
+          ],
+          "text": "\ud83d\ude21"
+        },
+        "replyCount": 0,
+        "repostCount": 0,
+        "likeCount": 0,
+        "quoteCount": 0,
+        "indexedAt": "2025-01-22T16:43:06.653Z",
+        "viewer": {
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      },
+      "replies": [],
+      "threadContext": {}
+    }
+  }
+]

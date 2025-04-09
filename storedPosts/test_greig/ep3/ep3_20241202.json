@@ -1,0 +1,461 @@
+[
+  {
+    "thread": {
+      "$type": "app.bsky.feed.defs#threadViewPost",
+      "post": {
+        "uri": "at://did:plc:vbox4xiuep2vn6fy6uwo6bus/app.bsky.feed.post/3lccnt2j5322j",
+        "cid": "bafyreidovevwjugajj46e3p4pkdmik7umznfl4xdbqgzhhwusth5ystinq",
+        "author": {
+          "did": "did:plc:vbox4xiuep2vn6fy6uwo6bus",
+          "handle": "grenman.bsky.social",
+          "displayName": "Grenman",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:vbox4xiuep2vn6fy6uwo6bus/bafkreiaokf2ia5zj67rhibo4r2r3354magwfznnvav3viek2qkveanqioa@jpeg",
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctwipsa22"
+          },
+          "labels": [],
+          "createdAt": "2024-10-31T05:31:27.929Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2024-12-02T08:00:43.733Z",
+          "langs": [
+            "en"
+          ],
+          "text": "Apprentice culture is truly out of control, what happened??\n\nI remember when Apprentices were respectful and quiet and curious\n\nThis new batch is loud and weak and stupid \u2014 and then their Masters pat them on the back and give them a shiny trophy!!\n\nSomeone needs to set things right!"
+        },
+        "replyCount": 0,
+        "repostCount": 0,
+        "likeCount": 1,
+        "quoteCount": 0,
+        "indexedAt": "2024-12-02T08:00:44.250Z",
+        "viewer": {
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      },
+      "replies": [],
+      "threadContext": {}
+    }
+  },
+  {
+    "thread": {
+      "$type": "app.bsky.feed.defs#threadViewPost",
+      "post": {
+        "uri": "at://did:plc:dyhferaekcfoi2ralb473wbi/app.bsky.feed.post/3lcdu7xhsv22b",
+        "cid": "bafyreicxvhsljewhnvctovsdiopz5oppujqensctbpmzt7pgobrnt2oday",
+        "author": {
+          "did": "did:plc:dyhferaekcfoi2ralb473wbi",
+          "handle": "thegreenwizard.bsky.social",
+          "displayName": "The Green Wizard",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:dyhferaekcfoi2ralb473wbi/bafkreiai2vwa4jpqwzqbbhh4u6mqr6kcombzrhfiyjjxqynjopuyj64yse@jpeg",
+          "associated": {
+            "chat": {
+              "allowIncoming": "following"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctusxga2q"
+          },
+          "labels": [],
+          "createdAt": "2023-09-20T21:06:29.785Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2024-12-02T19:27:58.941Z",
+          "langs": [
+            "en"
+          ],
+          "text": "I realized I've been somewhat selfish when it comes to imparting my not insignificant knowledge and skills to the latest generation of prospective mages\n\nSo, I am very pleased to announce I have decided to take on an Apprentice!\n\n1/2"
+        },
+        "replyCount": 1,
+        "repostCount": 0,
+        "likeCount": 1,
+        "quoteCount": 0,
+        "indexedAt": "2024-12-02T19:27:59.348Z",
+        "viewer": {
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      },
+      "replies": [
+        {
+          "$type": "app.bsky.feed.defs#threadViewPost",
+          "post": {
+            "uri": "at://did:plc:dyhferaekcfoi2ralb473wbi/app.bsky.feed.post/3lcduc2gzvc2b",
+            "cid": "bafyreihsujkkvgp4qk7h67tuy6khr2tj5zjxtekfpkjx6vzrpbipawiwey",
+            "author": {
+              "did": "did:plc:dyhferaekcfoi2ralb473wbi",
+              "handle": "thegreenwizard.bsky.social",
+              "displayName": "The Green Wizard",
+              "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:dyhferaekcfoi2ralb473wbi/bafkreiai2vwa4jpqwzqbbhh4u6mqr6kcombzrhfiyjjxqynjopuyj64yse@jpeg",
+              "associated": {
+                "chat": {
+                  "allowIncoming": "following"
+                }
+              },
+              "viewer": {
+                "muted": false,
+                "blockedBy": false,
+                "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctusxga2q"
+              },
+              "labels": [],
+              "createdAt": "2023-09-20T21:06:29.785Z"
+            },
+            "record": {
+              "$type": "app.bsky.feed.post",
+              "createdAt": "2024-12-02T19:29:09.169Z",
+              "facets": [
+                {
+                  "$type": "app.bsky.richtext.facet",
+                  "features": [
+                    {
+                      "$type": "app.bsky.richtext.facet#mention",
+                      "did": "did:plc:bzmbo74r5yhiuj4m4rnrlehi"
+                    }
+                  ],
+                  "index": {
+                    "byteEnd": 50,
+                    "byteStart": 21
+                  }
+                }
+              ],
+              "langs": [
+                "en"
+              ],
+              "reply": {
+                "parent": {
+                  "cid": "bafyreicxvhsljewhnvctovsdiopz5oppujqensctbpmzt7pgobrnt2oday",
+                  "uri": "at://did:plc:dyhferaekcfoi2ralb473wbi/app.bsky.feed.post/3lcdu7xhsv22b"
+                },
+                "root": {
+                  "cid": "bafyreicxvhsljewhnvctovsdiopz5oppujqensctbpmzt7pgobrnt2oday",
+                  "uri": "at://did:plc:dyhferaekcfoi2ralb473wbi/app.bsky.feed.post/3lcdu7xhsv22b"
+                }
+              },
+              "text": "Her name is Abigail (@abigailgrunewald.bsky.social), an incredibly promising young talent\n\nShe just moved here from the Northlands so everyone be sure to extend her a warm welcome!\n\nWe've already grown very close and we're having so much fun together\n\n2/2"
+            },
+            "replyCount": 2,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-12-02T19:29:09.665Z",
+            "viewer": {
+              "threadMuted": false,
+              "embeddingDisabled": false
+            },
+            "labels": []
+          },
+          "replies": [
+            {
+              "$type": "app.bsky.feed.defs#threadViewPost",
+              "post": {
+                "uri": "at://did:plc:vbox4xiuep2vn6fy6uwo6bus/app.bsky.feed.post/3lcdv7flgnm2j",
+                "cid": "bafyreihjooqdz2344kdnnhxjmz64hhwavplf7vhts4zb5x7da3vksn7cuq",
+                "author": {
+                  "did": "did:plc:vbox4xiuep2vn6fy6uwo6bus",
+                  "handle": "grenman.bsky.social",
+                  "displayName": "Grenman",
+                  "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:vbox4xiuep2vn6fy6uwo6bus/bafkreiaokf2ia5zj67rhibo4r2r3354magwfznnvav3viek2qkveanqioa@jpeg",
+                  "viewer": {
+                    "muted": false,
+                    "blockedBy": false,
+                    "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctwipsa22"
+                  },
+                  "labels": [],
+                  "createdAt": "2024-10-31T05:31:27.929Z"
+                },
+                "record": {
+                  "$type": "app.bsky.feed.post",
+                  "createdAt": "2024-12-02T19:45:33.926Z",
+                  "facets": [
+                    {
+                      "$type": "app.bsky.richtext.facet",
+                      "features": [
+                        {
+                          "$type": "app.bsky.richtext.facet#mention",
+                          "did": "did:plc:bzmbo74r5yhiuj4m4rnrlehi"
+                        }
+                      ],
+                      "index": {
+                        "byteEnd": 37,
+                        "byteStart": 8
+                      }
+                    }
+                  ],
+                  "langs": [
+                    "en"
+                  ],
+                  "reply": {
+                    "parent": {
+                      "cid": "bafyreihsujkkvgp4qk7h67tuy6khr2tj5zjxtekfpkjx6vzrpbipawiwey",
+                      "uri": "at://did:plc:dyhferaekcfoi2ralb473wbi/app.bsky.feed.post/3lcduc2gzvc2b"
+                    },
+                    "root": {
+                      "cid": "bafyreicxvhsljewhnvctovsdiopz5oppujqensctbpmzt7pgobrnt2oday",
+                      "uri": "at://did:plc:dyhferaekcfoi2ralb473wbi/app.bsky.feed.post/3lcdu7xhsv22b"
+                    }
+                  },
+                  "text": "Welcome @abigailgrunewald.bsky.social !!\n\nVery refreshing to see such a quality student \u2014 these last couple years we\u2019ve had nothing but dimwits"
+                },
+                "replyCount": 0,
+                "repostCount": 0,
+                "likeCount": 0,
+                "quoteCount": 0,
+                "indexedAt": "2024-12-02T19:45:34.452Z",
+                "viewer": {
+                  "threadMuted": false,
+                  "embeddingDisabled": false
+                },
+                "labels": []
+              },
+              "replies": [],
+              "threadContext": {}
+            },
+            {
+              "$type": "app.bsky.feed.defs#threadViewPost",
+              "post": {
+                "uri": "at://did:plc:bzmbo74r5yhiuj4m4rnrlehi/app.bsky.feed.post/3lcduejscq22b",
+                "cid": "bafyreibg4rq3ulu7ovvveiropxwf52nwxbiqnben674ifq23ei2uw522ia",
+                "author": {
+                  "did": "did:plc:bzmbo74r5yhiuj4m4rnrlehi",
+                  "handle": "abigailgrunewald.bsky.social",
+                  "displayName": "Abigail",
+                  "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bzmbo74r5yhiuj4m4rnrlehi/bafkreiehl6xn2roxypc4jxdcl7ec5lznfa75prrze3goez7ib6yk4mmos4@jpeg",
+                  "viewer": {
+                    "muted": false,
+                    "blockedBy": false,
+                    "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lcfz45hwt72d"
+                  },
+                  "labels": [],
+                  "createdAt": "2024-12-02T08:25:37.246Z"
+                },
+                "record": {
+                  "$type": "app.bsky.feed.post",
+                  "createdAt": "2024-12-02T19:30:32.377Z",
+                  "langs": [
+                    "en"
+                  ],
+                  "reply": {
+                    "parent": {
+                      "cid": "bafyreihsujkkvgp4qk7h67tuy6khr2tj5zjxtekfpkjx6vzrpbipawiwey",
+                      "uri": "at://did:plc:dyhferaekcfoi2ralb473wbi/app.bsky.feed.post/3lcduc2gzvc2b"
+                    },
+                    "root": {
+                      "cid": "bafyreicxvhsljewhnvctovsdiopz5oppujqensctbpmzt7pgobrnt2oday",
+                      "uri": "at://did:plc:dyhferaekcfoi2ralb473wbi/app.bsky.feed.post/3lcdu7xhsv22b"
+                    }
+                  },
+                  "text": "... but wh5ere ./ is Felix"
+                },
+                "replyCount": 1,
+                "repostCount": 0,
+                "likeCount": 0,
+                "quoteCount": 0,
+                "indexedAt": "2024-12-02T19:30:32.854Z",
+                "viewer": {
+                  "threadMuted": false,
+                  "embeddingDisabled": false
+                },
+                "labels": []
+              },
+              "replies": [
+                {
+                  "$type": "app.bsky.feed.defs#threadViewPost",
+                  "post": {
+                    "uri": "at://did:plc:dyhferaekcfoi2ralb473wbi/app.bsky.feed.post/3lcduhgdy622b",
+                    "cid": "bafyreid6zr75mcaayddhu6ur2v4ybyrscatt4emnpzmc4nzfaneo7harwa",
+                    "author": {
+                      "did": "did:plc:dyhferaekcfoi2ralb473wbi",
+                      "handle": "thegreenwizard.bsky.social",
+                      "displayName": "The Green Wizard",
+                      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:dyhferaekcfoi2ralb473wbi/bafkreiai2vwa4jpqwzqbbhh4u6mqr6kcombzrhfiyjjxqynjopuyj64yse@jpeg",
+                      "associated": {
+                        "chat": {
+                          "allowIncoming": "following"
+                        }
+                      },
+                      "viewer": {
+                        "muted": false,
+                        "blockedBy": false,
+                        "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctusxga2q"
+                      },
+                      "labels": [],
+                      "createdAt": "2023-09-20T21:06:29.785Z"
+                    },
+                    "record": {
+                      "$type": "app.bsky.feed.post",
+                      "createdAt": "2024-12-02T19:32:09.425Z",
+                      "langs": [
+                        "en"
+                      ],
+                      "reply": {
+                        "parent": {
+                          "cid": "bafyreibg4rq3ulu7ovvveiropxwf52nwxbiqnben674ifq23ei2uw522ia",
+                          "uri": "at://did:plc:bzmbo74r5yhiuj4m4rnrlehi/app.bsky.feed.post/3lcduejscq22b"
+                        },
+                        "root": {
+                          "cid": "bafyreicxvhsljewhnvctovsdiopz5oppujqensctbpmzt7pgobrnt2oday",
+                          "uri": "at://did:plc:dyhferaekcfoi2ralb473wbi/app.bsky.feed.post/3lcdu7xhsv22b"
+                        }
+                      },
+                      "text": "She's still learning all the subtleties of our language but we're going to get her there!!"
+                    },
+                    "replyCount": 0,
+                    "repostCount": 0,
+                    "likeCount": 0,
+                    "quoteCount": 0,
+                    "indexedAt": "2024-12-02T19:32:09.960Z",
+                    "viewer": {
+                      "threadMuted": false,
+                      "embeddingDisabled": false
+                    },
+                    "labels": []
+                  },
+                  "replies": [],
+                  "threadContext": {}
+                }
+              ],
+              "threadContext": {}
+            }
+          ],
+          "threadContext": {}
+        }
+      ],
+      "threadContext": {}
+    }
+  },
+  {
+    "thread": {
+      "$type": "app.bsky.feed.defs#threadViewPost",
+      "post": {
+        "uri": "at://did:plc:bzmbo74r5yhiuj4m4rnrlehi/app.bsky.feed.post/3lcdwkedtie2j",
+        "cid": "bafyreie7miuflo2vearm6t62po27eobkqp5lkrsggfwtfsrffd2syijlau",
+        "author": {
+          "did": "did:plc:bzmbo74r5yhiuj4m4rnrlehi",
+          "handle": "abigailgrunewald.bsky.social",
+          "displayName": "Abigail",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bzmbo74r5yhiuj4m4rnrlehi/bafkreiehl6xn2roxypc4jxdcl7ec5lznfa75prrze3goez7ib6yk4mmos4@jpeg",
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lcfz45hwt72d"
+          },
+          "labels": [],
+          "createdAt": "2024-12-02T08:25:37.246Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2024-12-02T20:09:35.469Z",
+          "langs": [
+            "en"
+          ],
+          "text": "th.i5rst_y"
+        },
+        "replyCount": 0,
+        "repostCount": 0,
+        "likeCount": 0,
+        "quoteCount": 0,
+        "indexedAt": "2024-12-02T20:09:35.665Z",
+        "viewer": {
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      },
+      "replies": [],
+      "threadContext": {}
+    }
+  },
+  {
+    "thread": {
+      "$type": "app.bsky.feed.defs#threadViewPost",
+      "post": {
+        "uri": "at://did:plc:bzmbo74r5yhiuj4m4rnrlehi/app.bsky.feed.post/3lce7p7fx642j",
+        "cid": "bafyreibo44y42py7gn7wzuw5ysabo5kfhrkxdkxks5wsbppffgmxtmjzti",
+        "author": {
+          "did": "did:plc:bzmbo74r5yhiuj4m4rnrlehi",
+          "handle": "abigailgrunewald.bsky.social",
+          "displayName": "Abigail",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bzmbo74r5yhiuj4m4rnrlehi/bafkreiehl6xn2roxypc4jxdcl7ec5lznfa75prrze3goez7ib6yk4mmos4@jpeg",
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lcfz45hwt72d"
+          },
+          "labels": [],
+          "createdAt": "2024-12-02T08:25:37.246Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2024-12-02T22:53:21.744Z",
+          "langs": [
+            "en"
+          ],
+          "text": "c.o1ld"
+        },
+        "replyCount": 0,
+        "repostCount": 0,
+        "likeCount": 0,
+        "quoteCount": 0,
+        "indexedAt": "2024-12-02T22:53:21.922Z",
+        "viewer": {
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      },
+      "replies": [],
+      "threadContext": {}
+    }
+  },
+  {
+    "thread": {
+      "$type": "app.bsky.feed.defs#threadViewPost",
+      "post": {
+        "uri": "at://did:plc:n4b4yhpiwb6a5e5ird3hmaqq/app.bsky.feed.post/3lceavd75o22s",
+        "cid": "bafyreieox3ttyzm247jdmsjo2b3moek3plycs66dqza2w7bj24n6nnriku",
+        "author": {
+          "did": "did:plc:n4b4yhpiwb6a5e5ird3hmaqq",
+          "handle": "thearchmage673.bsky.social",
+          "displayName": "The 673rd Archmage",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:n4b4yhpiwb6a5e5ird3hmaqq/bafkreih4r25j25vvoyfgsxgkahuauciinqqwyvxtiplmiq5urvipmtcpee@jpeg",
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctrco3b2r",
+            "followedBy": "at://did:plc:n4b4yhpiwb6a5e5ird3hmaqq/app.bsky.graph.follow/3lc2wxoi7v72b"
+          },
+          "labels": [],
+          "createdAt": "2024-11-12T02:45:05.805Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2024-12-02T23:14:40.784Z",
+          "langs": [
+            "en"
+          ],
+          "text": "A great ship vanishes \ud83c\udf05\n\nTwo moons collide \ud83c\udf1c\ud83c\udf1b\n\nA fox digs her winter burrow \ud83d\udd73\ufe0f\n\nThe well is dry \ud83e\udea3\n\n\ud83d\udd53"
+        },
+        "replyCount": 0,
+        "repostCount": 0,
+        "likeCount": 3,
+        "quoteCount": 0,
+        "indexedAt": "2024-12-02T23:14:41.065Z",
+        "viewer": {
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      },
+      "replies": [],
+      "threadContext": {}
+    }
+  }
+]

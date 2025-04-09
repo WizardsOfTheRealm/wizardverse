@@ -1,0 +1,439 @@
+[
+  {
+    "thread": {
+      "$type": "app.bsky.feed.defs#threadViewPost",
+      "post": {
+        "uri": "at://did:plc:tggfx5t7k47own32wf7tyhdh/app.bsky.feed.post/3lfekpcqtom27",
+        "cid": "bafyreigugcqydmozr4btqvn5ckkxoyb66hiqf6sz54cyn5lc4k7nqypzaq",
+        "author": {
+          "did": "did:plc:tggfx5t7k47own32wf7tyhdh",
+          "handle": "silusa.bsky.social",
+          "displayName": "Silusa the Sorceress",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tggfx5t7k47own32wf7tyhdh/bafkreiewlkljvu7adqsbxabsaavaordavnm7vuw6jlyxqkv4lb2jjnymli@jpeg",
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lfoapy23xr23",
+            "followedBy": "at://did:plc:tggfx5t7k47own32wf7tyhdh/app.bsky.graph.follow/3lfogsvepmq2k"
+          },
+          "labels": [],
+          "createdAt": "2025-01-10T06:10:32.244Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2025-01-10T06:25:51.290Z",
+          "langs": [
+            "en"
+          ],
+          "text": "No one understands sea serpents. Beautiful creatures."
+        },
+        "replyCount": 0,
+        "repostCount": 0,
+        "likeCount": 1,
+        "quoteCount": 0,
+        "indexedAt": "2025-01-10T06:25:51.449Z",
+        "viewer": {
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      },
+      "replies": [],
+      "threadContext": {}
+    }
+  },
+  {
+    "thread": {
+      "$type": "app.bsky.feed.defs#threadViewPost",
+      "post": {
+        "uri": "at://did:plc:tggfx5t7k47own32wf7tyhdh/app.bsky.feed.post/3lfel7shsim27",
+        "cid": "bafyreiahs5bblasdovn5qvz7mfo7sou4y4h66jo7r4xdlfw7jkvbo6uh6q",
+        "author": {
+          "did": "did:plc:tggfx5t7k47own32wf7tyhdh",
+          "handle": "silusa.bsky.social",
+          "displayName": "Silusa the Sorceress",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tggfx5t7k47own32wf7tyhdh/bafkreiewlkljvu7adqsbxabsaavaordavnm7vuw6jlyxqkv4lb2jjnymli@jpeg",
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lfoapy23xr23",
+            "followedBy": "at://did:plc:tggfx5t7k47own32wf7tyhdh/app.bsky.graph.follow/3lfogsvepmq2k"
+          },
+          "labels": [],
+          "createdAt": "2025-01-10T06:10:32.244Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2025-01-10T06:35:04.643Z",
+          "langs": [
+            "en"
+          ],
+          "text": "It's so hard to connect with fishermen on the issue of sea serpent conservation.\n\nSeems all they're interested in is catching fish! And their dead friends the serpent ate!"
+        },
+        "replyCount": 0,
+        "repostCount": 0,
+        "likeCount": 0,
+        "quoteCount": 0,
+        "indexedAt": "2025-01-10T06:35:04.750Z",
+        "viewer": {
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      },
+      "replies": [],
+      "threadContext": {}
+    }
+  },
+  {
+    "thread": {
+      "$type": "app.bsky.feed.defs#threadViewPost",
+      "post": {
+        "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lfekvppxbu27",
+        "cid": "bafyreih6mqgepidmqyt465z5fvmohsdmw7qmj3mpaknl6tnwxzgpcposom",
+        "author": {
+          "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl",
+          "handle": "thebluewizard.bsky.social",
+          "displayName": "The Blue Wizard",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2zz4sojwnqgfyxycbwgdqoyl/bafkreiddbibr65lhfedmoarrqh7szrr4oqv5dfjewzic5mwaluk4q7r65a@jpeg",
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctp2puc2y",
+            "followedBy": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.graph.follow/3lbq76d5mi32b"
+          },
+          "labels": [],
+          "createdAt": "2023-10-19T17:52:42.784Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2025-01-10T06:29:26.218Z",
+          "embed": {
+            "$type": "app.bsky.embed.record",
+            "record": {
+              "cid": "bafyreidio4ns5cl3lbtf46zqagnq7aia4icxllayloruct7bpcj3mfx4nq",
+              "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3ldv2zfj5z22j"
+            }
+          },
+          "langs": [
+            "en"
+          ],
+          "text": "\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\nBW's Book Reviews - check it out!"
+        },
+        "embed": {
+          "$type": "app.bsky.embed.record#view",
+          "record": {
+            "$type": "app.bsky.embed.record#viewRecord",
+            "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3ldv2zfj5z22j",
+            "cid": "bafyreidio4ns5cl3lbtf46zqagnq7aia4icxllayloruct7bpcj3mfx4nq",
+            "author": {
+              "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl",
+              "handle": "thebluewizard.bsky.social",
+              "displayName": "The Blue Wizard",
+              "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2zz4sojwnqgfyxycbwgdqoyl/bafkreiddbibr65lhfedmoarrqh7szrr4oqv5dfjewzic5mwaluk4q7r65a@jpeg",
+              "viewer": {
+                "muted": false,
+                "blockedBy": false,
+                "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctp2puc2y",
+                "followedBy": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.graph.follow/3lbq76d5mi32b"
+              },
+              "labels": [],
+              "createdAt": "2023-10-19T17:52:42.784Z"
+            },
+            "value": {
+              "$type": "app.bsky.feed.post",
+              "createdAt": "2024-12-22T09:10:02.152Z",
+              "facets": [
+                {
+                  "features": [
+                    {
+                      "$type": "app.bsky.richtext.facet#tag",
+                      "tag": "bookreviews"
+                    }
+                  ],
+                  "index": {
+                    "byteEnd": 281,
+                    "byteStart": 269
+                  }
+                },
+                {
+                  "features": [
+                    {
+                      "$type": "app.bsky.richtext.facet#tag",
+                      "tag": "thebluewizard"
+                    }
+                  ],
+                  "index": {
+                    "byteEnd": 296,
+                    "byteStart": 282
+                  }
+                }
+              ],
+              "langs": [
+                "en"
+              ],
+              "text": "My review of 'Synthesis of Transmutative Properties of Inanimate Goo' by Artur Crestfell III:\n\nThis book is really a tome, comprised of four parts bound individually.\n\nIf you are looking for an authoritative source on transmutative properties of Goo, this is it!\n\n1/5\n\n#bookreviews #thebluewizard"
+            },
+            "labels": [],
+            "likeCount": 0,
+            "replyCount": 1,
+            "repostCount": 0,
+            "quoteCount": 1,
+            "indexedAt": "2024-12-22T09:10:03.648Z",
+            "embeds": []
+          }
+        },
+        "replyCount": 1,
+        "repostCount": 0,
+        "likeCount": 2,
+        "quoteCount": 0,
+        "indexedAt": "2025-01-10T06:29:26.750Z",
+        "viewer": {
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      },
+      "replies": [
+        {
+          "$type": "app.bsky.feed.defs#threadViewPost",
+          "post": {
+            "uri": "at://did:plc:dyhferaekcfoi2ralb473wbi/app.bsky.feed.post/3lfepjrpy6c25",
+            "cid": "bafyreih75atejoobhxxq5wr7suge7unntdr6cwnaa4cecg6qfcmriduwby",
+            "author": {
+              "did": "did:plc:dyhferaekcfoi2ralb473wbi",
+              "handle": "thegreenwizard.bsky.social",
+              "displayName": "The Green Wizard",
+              "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:dyhferaekcfoi2ralb473wbi/bafkreiai2vwa4jpqwzqbbhh4u6mqr6kcombzrhfiyjjxqynjopuyj64yse@jpeg",
+              "associated": {
+                "chat": {
+                  "allowIncoming": "following"
+                }
+              },
+              "viewer": {
+                "muted": false,
+                "blockedBy": false,
+                "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctusxga2q"
+              },
+              "labels": [],
+              "createdAt": "2023-09-20T21:06:29.785Z"
+            },
+            "record": {
+              "$type": "app.bsky.feed.post",
+              "createdAt": "2025-01-10T07:52:14.373Z",
+              "langs": [
+                "en"
+              ],
+              "reply": {
+                "parent": {
+                  "cid": "bafyreih6mqgepidmqyt465z5fvmohsdmw7qmj3mpaknl6tnwxzgpcposom",
+                  "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lfekvppxbu27"
+                },
+                "root": {
+                  "cid": "bafyreih6mqgepidmqyt465z5fvmohsdmw7qmj3mpaknl6tnwxzgpcposom",
+                  "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lfekvppxbu27"
+                }
+              },
+              "text": "Book reviews!!!??? GET US THE HELL OUT OF HERE!!!"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2025-01-10T07:52:15.048Z",
+            "viewer": {
+              "threadMuted": false,
+              "embeddingDisabled": false
+            },
+            "labels": []
+          },
+          "replies": [],
+          "threadContext": {}
+        }
+      ],
+      "threadContext": {}
+    }
+  },
+  {
+    "thread": {
+      "$type": "app.bsky.feed.defs#threadViewPost",
+      "post": {
+        "uri": "at://did:plc:rvheaigxjzclxkthcmzgano3/app.bsky.feed.post/3lfgbcojesd23",
+        "cid": "bafyreiekn7sbntq2hhpurfmmkskd4swded5rdmbv3u33xk47demgbb5idm",
+        "author": {
+          "did": "did:plc:rvheaigxjzclxkthcmzgano3",
+          "handle": "jimmydirtwater.bsky.social",
+          "displayName": "Jimmy",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:rvheaigxjzclxkthcmzgano3/bafkreiewt3xmnexpyigcsdbx7tqbxknbbw3nb3natjnrdnpzkqxuq7olu4@jpeg",
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lfgqbijame2o"
+          },
+          "labels": [],
+          "createdAt": "2025-01-10T22:26:15.843Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2025-01-10T22:43:03.222Z",
+          "langs": [
+            "en"
+          ],
+          "text": "moi memmers sez oi aint ta wander roun na villidge no more cuz of all nem nasty buggers zippin about"
+        },
+        "replyCount": 0,
+        "repostCount": 0,
+        "likeCount": 0,
+        "quoteCount": 0,
+        "indexedAt": "2025-01-10T22:43:03.552Z",
+        "viewer": {
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      },
+      "replies": [],
+      "threadContext": {}
+    }
+  },
+  {
+    "thread": {
+      "$type": "app.bsky.feed.defs#threadViewPost",
+      "post": {
+        "uri": "at://did:plc:rvheaigxjzclxkthcmzgano3/app.bsky.feed.post/3lfgc3yhfqs27",
+        "cid": "bafyreiggjux4rrvedrquezajvdlgdzjzftmsxbpzrkilgj3pkwbjy6tdym",
+        "author": {
+          "did": "did:plc:rvheaigxjzclxkthcmzgano3",
+          "handle": "jimmydirtwater.bsky.social",
+          "displayName": "Jimmy",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:rvheaigxjzclxkthcmzgano3/bafkreiewt3xmnexpyigcsdbx7tqbxknbbw3nb3natjnrdnpzkqxuq7olu4@jpeg",
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lfgqbijame2o"
+          },
+          "labels": [],
+          "createdAt": "2025-01-10T22:26:15.843Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2025-01-10T22:57:12.504Z",
+          "langs": [
+            "en"
+          ],
+          "text": "mud's right cold today gots moi fingers inna real state"
+        },
+        "replyCount": 0,
+        "repostCount": 0,
+        "likeCount": 0,
+        "quoteCount": 0,
+        "indexedAt": "2025-01-10T22:57:12.754Z",
+        "viewer": {
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      },
+      "replies": [],
+      "threadContext": {}
+    }
+  },
+  {
+    "thread": {
+      "$type": "app.bsky.feed.defs#threadViewPost",
+      "post": {
+        "uri": "at://did:plc:dyhferaekcfoi2ralb473wbi/app.bsky.feed.post/3lfgcrw4mok27",
+        "cid": "bafyreihctcvkacnhrs5qlmzrw2d3mayyz7tao4sj7dtxfo4qg4qlup24ka",
+        "author": {
+          "did": "did:plc:dyhferaekcfoi2ralb473wbi",
+          "handle": "thegreenwizard.bsky.social",
+          "displayName": "The Green Wizard",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:dyhferaekcfoi2ralb473wbi/bafkreiai2vwa4jpqwzqbbhh4u6mqr6kcombzrhfiyjjxqynjopuyj64yse@jpeg",
+          "associated": {
+            "chat": {
+              "allowIncoming": "following"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctusxga2q"
+          },
+          "labels": [],
+          "createdAt": "2023-09-20T21:06:29.785Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2025-01-10T23:09:28.250Z",
+          "langs": [
+            "en"
+          ],
+          "text": "A fortnight spent in this damnable prism with this insufferable man\n\nFor a crime I did not commit\n\nI wonder how my lakeside manor is holding up\n\nI wonder how that bottle of Yontish Mead is ageing\n\nHow long can I bear this?"
+        },
+        "replyCount": 1,
+        "repostCount": 0,
+        "likeCount": 0,
+        "quoteCount": 0,
+        "indexedAt": "2025-01-10T23:09:28.652Z",
+        "viewer": {
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      },
+      "replies": [
+        {
+          "$type": "app.bsky.feed.defs#threadViewPost",
+          "post": {
+            "uri": "at://did:plc:rvheaigxjzclxkthcmzgano3/app.bsky.feed.post/3lfgkjegbis2j",
+            "cid": "bafyreidrxvtvy4wfcmhme7nauvi5y2kuxupskkhncbcrjfoovtbh7yhr7u",
+            "author": {
+              "did": "did:plc:rvheaigxjzclxkthcmzgano3",
+              "handle": "jimmydirtwater.bsky.social",
+              "displayName": "Jimmy",
+              "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:rvheaigxjzclxkthcmzgano3/bafkreiewt3xmnexpyigcsdbx7tqbxknbbw3nb3natjnrdnpzkqxuq7olu4@jpeg",
+              "viewer": {
+                "muted": false,
+                "blockedBy": false,
+                "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lfgqbijame2o"
+              },
+              "labels": [],
+              "createdAt": "2025-01-10T22:26:15.843Z"
+            },
+            "record": {
+              "$type": "app.bsky.feed.post",
+              "createdAt": "2025-01-11T01:27:51.191Z",
+              "langs": [
+                "en"
+              ],
+              "reply": {
+                "parent": {
+                  "cid": "bafyreihctcvkacnhrs5qlmzrw2d3mayyz7tao4sj7dtxfo4qg4qlup24ka",
+                  "uri": "at://did:plc:dyhferaekcfoi2ralb473wbi/app.bsky.feed.post/3lfgcrw4mok27"
+                },
+                "root": {
+                  "cid": "bafyreihctcvkacnhrs5qlmzrw2d3mayyz7tao4sj7dtxfo4qg4qlup24ka",
+                  "uri": "at://did:plc:dyhferaekcfoi2ralb473wbi/app.bsky.feed.post/3lfgcrw4mok27"
+                }
+              },
+              "text": "great mister wizzerd i tell you what, i says to me memmers i says memmers yer plum wrong about wizzerds they aint ne'r hurt no body and only dun all they could to keep away the big ugly ol nasties, an nem up in na big ol tree is wot dun nem horriboh fings'a nem aminals"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2025-01-11T01:27:51.653Z",
+            "viewer": {
+              "threadMuted": false,
+              "embeddingDisabled": false
+            },
+            "labels": []
+          },
+          "replies": [],
+          "threadContext": {}
+        }
+      ],
+      "threadContext": {}
+    }
+  }
+]

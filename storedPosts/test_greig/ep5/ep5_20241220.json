@@ -1,0 +1,233 @@
+[
+  {
+    "thread": {
+      "$type": "app.bsky.feed.defs#threadViewPost",
+      "post": {
+        "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3ldqqbnztoc2y",
+        "cid": "bafyreif2o6wvtlec2yrfylmihaehcnc6z73dwnaqwc66o6y6kqvniyc6fu",
+        "author": {
+          "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl",
+          "handle": "thebluewizard.bsky.social",
+          "displayName": "The Blue Wizard",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2zz4sojwnqgfyxycbwgdqoyl/bafkreiddbibr65lhfedmoarrqh7szrr4oqv5dfjewzic5mwaluk4q7r65a@jpeg",
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctp2puc2y",
+            "followedBy": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.graph.follow/3lbq76d5mi32b"
+          },
+          "labels": [],
+          "createdAt": "2023-10-19T17:52:42.784Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2024-12-20T15:47:09.412Z",
+          "facets": [
+            {
+              "$type": "app.bsky.richtext.facet",
+              "features": [
+                {
+                  "$type": "app.bsky.richtext.facet#mention",
+                  "did": "did:plc:dyhferaekcfoi2ralb473wbi"
+                }
+              ],
+              "index": {
+                "byteEnd": 170,
+                "byteStart": 143
+              }
+            }
+          ],
+          "langs": [
+            "en"
+          ],
+          "text": "why does the Green Wizard need so many _goons_?\n\ni do feel pretty important, being floated in a magic-proof bubble to The Prism. \n\nsuch pomp!\n\n@thegreenwizard.bsky.social"
+        },
+        "replyCount": 3,
+        "repostCount": 0,
+        "likeCount": 0,
+        "quoteCount": 0,
+        "indexedAt": "2024-12-20T15:47:10.572Z",
+        "viewer": {
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      },
+      "replies": [
+        {
+          "$type": "app.bsky.feed.defs#threadViewPost",
+          "post": {
+            "uri": "at://did:plc:dyhferaekcfoi2ralb473wbi/app.bsky.feed.post/3ldrajd3acc2j",
+            "cid": "bafyreia4rhith3uush6zd2vte7hb5eo5wawdojlzjtf4qrdz2ugnqtxt7a",
+            "author": {
+              "did": "did:plc:dyhferaekcfoi2ralb473wbi",
+              "handle": "thegreenwizard.bsky.social",
+              "displayName": "The Green Wizard",
+              "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:dyhferaekcfoi2ralb473wbi/bafkreiai2vwa4jpqwzqbbhh4u6mqr6kcombzrhfiyjjxqynjopuyj64yse@jpeg",
+              "associated": {
+                "chat": {
+                  "allowIncoming": "following"
+                }
+              },
+              "viewer": {
+                "muted": false,
+                "blockedBy": false,
+                "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctusxga2q"
+              },
+              "labels": [],
+              "createdAt": "2023-09-20T21:06:29.785Z"
+            },
+            "record": {
+              "$type": "app.bsky.feed.post",
+              "createdAt": "2024-12-20T20:37:46.230Z",
+              "langs": [
+                "en"
+              ],
+              "reply": {
+                "parent": {
+                  "cid": "bafyreif2o6wvtlec2yrfylmihaehcnc6z73dwnaqwc66o6y6kqvniyc6fu",
+                  "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3ldqqbnztoc2y"
+                },
+                "root": {
+                  "cid": "bafyreif2o6wvtlec2yrfylmihaehcnc6z73dwnaqwc66o6y6kqvniyc6fu",
+                  "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3ldqqbnztoc2y"
+                }
+              },
+              "text": "I\u2019m very sorry my friend \ud83d\ude1e\n\nThese are the procedures laid out in the charter unfortunately \u2014 I don\u2019t make the rules \ud83d\ude25"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-12-20T20:37:46.855Z",
+            "viewer": {
+              "threadMuted": false,
+              "embeddingDisabled": false
+            },
+            "labels": []
+          },
+          "replies": [],
+          "threadContext": {}
+        },
+        {
+          "$type": "app.bsky.feed.defs#threadViewPost",
+          "post": {
+            "uri": "at://did:plc:4bftfm3fheoh7rw3qinaivem/app.bsky.feed.post/3ldqqohdnkk2y",
+            "cid": "bafyreigz63gadhsvjg4j374dxpoyks5vlyxb4wbj5dcz2u7mvmacdhhfie",
+            "author": {
+              "did": "did:plc:4bftfm3fheoh7rw3qinaivem",
+              "handle": "rootabegga.bsky.social",
+              "displayName": "Rootabegga",
+              "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:4bftfm3fheoh7rw3qinaivem/bafkreiebwtnfxqxhy6nx2s5yj4hlw3joz56bocbmmad3wukpodijyy2p2y@jpeg",
+              "viewer": {
+                "muted": false,
+                "blockedBy": false,
+                "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lcvq27et5q2d",
+                "followedBy": "at://did:plc:4bftfm3fheoh7rw3qinaivem/app.bsky.graph.follow/3lcu4cihm262y"
+              },
+              "labels": [],
+              "createdAt": "2024-12-08T02:09:07.145Z"
+            },
+            "record": {
+              "$type": "app.bsky.feed.post",
+              "createdAt": "2024-12-20T15:54:18.603Z",
+              "langs": [
+                "en"
+              ],
+              "reply": {
+                "parent": {
+                  "cid": "bafyreif2o6wvtlec2yrfylmihaehcnc6z73dwnaqwc66o6y6kqvniyc6fu",
+                  "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3ldqqbnztoc2y"
+                },
+                "root": {
+                  "cid": "bafyreif2o6wvtlec2yrfylmihaehcnc6z73dwnaqwc66o6y6kqvniyc6fu",
+                  "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3ldqqbnztoc2y"
+                }
+              },
+              "text": "A new adventure for Mr B Wiz!! \ud83e\udd73\ud83d\udc93\n\n\ud83e\udd70 Just think, after 6000 years\u23f3\ufe0f you'll have so many cool stories to tell! \ud83d\ude1a\ud83d\ude1a"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-12-20T15:54:19.056Z",
+            "viewer": {
+              "threadMuted": false,
+              "embeddingDisabled": false
+            },
+            "labels": []
+          },
+          "replies": [],
+          "threadContext": {}
+        },
+        {
+          "$type": "app.bsky.feed.defs#threadViewPost",
+          "post": {
+            "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3ldqqerbbwk2y",
+            "cid": "bafyreibzgbnigpnhj4rzuzm5jndbig5fhakpb4sczc4bj5snieod2jjaii",
+            "author": {
+              "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl",
+              "handle": "thebluewizard.bsky.social",
+              "displayName": "The Blue Wizard",
+              "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2zz4sojwnqgfyxycbwgdqoyl/bafkreiddbibr65lhfedmoarrqh7szrr4oqv5dfjewzic5mwaluk4q7r65a@jpeg",
+              "viewer": {
+                "muted": false,
+                "blockedBy": false,
+                "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctp2puc2y",
+                "followedBy": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.graph.follow/3lbq76d5mi32b"
+              },
+              "labels": [],
+              "createdAt": "2023-10-19T17:52:42.784Z"
+            },
+            "record": {
+              "$type": "app.bsky.feed.post",
+              "createdAt": "2024-12-20T15:48:53.465Z",
+              "facets": [
+                {
+                  "$type": "app.bsky.richtext.facet",
+                  "features": [
+                    {
+                      "$type": "app.bsky.richtext.facet#mention",
+                      "did": "did:plc:i7v44yjlao2ogtw53tw5ibu6"
+                    }
+                  ],
+                  "index": {
+                    "byteEnd": 102,
+                    "byteStart": 80
+                  }
+                }
+              ],
+              "langs": [
+                "en"
+              ],
+              "reply": {
+                "parent": {
+                  "cid": "bafyreif2o6wvtlec2yrfylmihaehcnc6z73dwnaqwc66o6y6kqvniyc6fu",
+                  "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3ldqqbnztoc2y"
+                },
+                "root": {
+                  "cid": "bafyreif2o6wvtlec2yrfylmihaehcnc6z73dwnaqwc66o6y6kqvniyc6fu",
+                  "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3ldqqbnztoc2y"
+                }
+              },
+              "text": "don't worry, they let me bring a sack of books and keep my tablet!\n\nhow is Fox, @mervastra.bsky.social ?"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-12-20T15:48:55.252Z",
+            "viewer": {
+              "threadMuted": false,
+              "embeddingDisabled": false
+            },
+            "labels": []
+          },
+          "replies": [],
+          "threadContext": {}
+        }
+      ],
+      "threadContext": {}
+    }
+  }
+]

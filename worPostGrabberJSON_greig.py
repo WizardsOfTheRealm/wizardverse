@@ -19,13 +19,35 @@ from bs4 import BeautifulSoup # added by G
 # end_date = datetime.strptime(end_date_str, "%Y-%m-%d").date()
 
 
-
 # App password for authentication
 APP_PASSWORD = "tld4-3d2m-ocis-7ffc"
 BLUESKY_HANDLE = "orboftherealm.bsky.social"
 
+################ parsing old episode html manually done by G ##################
+# read episode file
+oldep_dir = "episodes by G"  # TO DO: make loop over all eps
+# oldep_html = "_prologue.html" # weird htmls created manually by G
+# epnum = "prlg"
+# oldep_html = "episode 1 - the symposium.html" # weird htmls created manually by G
+# epnum = "ep1"
+oldep_html = "episode 2 - the whistleblower.html" # weird htmls created manually by G
+epnum = "ep2"
+# oldep_html = "episode 3 - the apprentice.html" # weird htmls created manually by G
+# epnum = "ep3"
+# oldep_html = "episode 4 - the kettles p1.html" # weird htmls created manually by G
+# epnum = "ep41"
+# oldep_html = "episode 4 - the kettles p2.html" # weird htmls created manually by G
+# epnum = "ep42"
+# oldep_html = "episode 5 - Frankleskas.html" # weird htmls created manually by G
+# epnum = "ep5"
+# oldep_html = "episode 6 - the bugs.html" # weird htmls created manually by G
+# epnum = "ep6"
+# oldep_html = "episode 7 - Roy up to Jan 27.html" # weird htmls created manually by G
+# epnum = "ep7"
+
+
 # Create folder for stored posts if it doesn't exist
-output_dir = "storedPosts/test_greig"
+output_dir = f"storedPosts/test_greig/{epnum}"
 os.makedirs(output_dir, exist_ok=True)
 
 # --- LOGIN: Get session token ---
@@ -42,10 +64,6 @@ if response.status_code != 200:
 session_token = response.json()["accessJwt"]
 
 
-################ parsing old episode html manually done by G ##################
-# read episode file
-oldep_dir = "episodes by G"  # TO DO: make loop over all eps
-oldep_html = "episode 1 - the symposium.html" # weird htmls created manually by G
 
 # loop over cid and uri's
 #data-bluesky-uri="" or data-bluesky-cid="
@@ -126,10 +144,11 @@ for embed in embeds:
     # --- Check chronological order ---
     if last_seen_date and post_date < last_seen_date:
         print(f"⚠️ Warning: post date moved backward from {last_seen_date} to {post_date}")
+        exit()
 
     # --- New day? Write previous day's data ---
     if current_date and post_date != current_date:
-        filename = f"ep1_{current_date.strftime('%Y%m%d')}.json"
+        filename = f"{epnum}_{current_date.strftime('%Y%m%d')}.json"
         filepath = os.path.join(output_dir, filename)
         with open(filepath, "w", encoding="utf-8") as f:
             json.dump(current_posts, f, indent=2)

@@ -1,0 +1,279 @@
+[
+  {
+    "thread": {
+      "$type": "app.bsky.feed.defs#threadViewPost",
+      "post": {
+        "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3ldv2zfj5z22j",
+        "cid": "bafyreidio4ns5cl3lbtf46zqagnq7aia4icxllayloruct7bpcj3mfx4nq",
+        "author": {
+          "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl",
+          "handle": "thebluewizard.bsky.social",
+          "displayName": "The Blue Wizard",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2zz4sojwnqgfyxycbwgdqoyl/bafkreiddbibr65lhfedmoarrqh7szrr4oqv5dfjewzic5mwaluk4q7r65a@jpeg",
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctp2puc2y",
+            "followedBy": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.graph.follow/3lbq76d5mi32b"
+          },
+          "labels": [],
+          "createdAt": "2023-10-19T17:52:42.784Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2024-12-22T09:10:02.152Z",
+          "facets": [
+            {
+              "features": [
+                {
+                  "$type": "app.bsky.richtext.facet#tag",
+                  "tag": "bookreviews"
+                }
+              ],
+              "index": {
+                "byteEnd": 281,
+                "byteStart": 269
+              }
+            },
+            {
+              "features": [
+                {
+                  "$type": "app.bsky.richtext.facet#tag",
+                  "tag": "thebluewizard"
+                }
+              ],
+              "index": {
+                "byteEnd": 296,
+                "byteStart": 282
+              }
+            }
+          ],
+          "langs": [
+            "en"
+          ],
+          "text": "My review of 'Synthesis of Transmutative Properties of Inanimate Goo' by Artur Crestfell III:\n\nThis book is really a tome, comprised of four parts bound individually.\n\nIf you are looking for an authoritative source on transmutative properties of Goo, this is it!\n\n1/5\n\n#bookreviews #thebluewizard"
+        },
+        "replyCount": 1,
+        "repostCount": 0,
+        "likeCount": 0,
+        "quoteCount": 1,
+        "indexedAt": "2024-12-22T09:10:03.648Z",
+        "viewer": {
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      },
+      "replies": [
+        {
+          "$type": "app.bsky.feed.defs#threadViewPost",
+          "post": {
+            "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3ldv3co3zzc2j",
+            "cid": "bafyreia476x24a5zxf3du6jlwq34spf4b77phtwqywkkd3d3h7pl2muy5a",
+            "author": {
+              "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl",
+              "handle": "thebluewizard.bsky.social",
+              "displayName": "The Blue Wizard",
+              "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2zz4sojwnqgfyxycbwgdqoyl/bafkreiddbibr65lhfedmoarrqh7szrr4oqv5dfjewzic5mwaluk4q7r65a@jpeg",
+              "viewer": {
+                "muted": false,
+                "blockedBy": false,
+                "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctp2puc2y",
+                "followedBy": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.graph.follow/3lbq76d5mi32b"
+              },
+              "labels": [],
+              "createdAt": "2023-10-19T17:52:42.784Z"
+            },
+            "record": {
+              "$type": "app.bsky.feed.post",
+              "createdAt": "2024-12-22T09:15:13.153Z",
+              "langs": [
+                "en"
+              ],
+              "reply": {
+                "parent": {
+                  "cid": "bafyreidio4ns5cl3lbtf46zqagnq7aia4icxllayloruct7bpcj3mfx4nq",
+                  "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3ldv2zfj5z22j"
+                },
+                "root": {
+                  "cid": "bafyreidio4ns5cl3lbtf46zqagnq7aia4icxllayloruct7bpcj3mfx4nq",
+                  "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3ldv2zfj5z22j"
+                }
+              },
+              "text": "Actually, I am unaware of another book on the topic (there are, of course, Goo periodicals). \n\nThe first section is dedicated to Pond Goo, the second to Marsh Goo, the third to Cave Goo, and the fourth to 'Minor Goos' - of which there are 402. One I found quite intriguing was 'Government' Goo.\n\n2/5"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-12-22T09:15:14.150Z",
+            "viewer": {
+              "threadMuted": false,
+              "embeddingDisabled": false
+            },
+            "labels": []
+          },
+          "replies": [
+            {
+              "$type": "app.bsky.feed.defs#threadViewPost",
+              "post": {
+                "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3ldv3revjps2j",
+                "cid": "bafyreibdmalwsu6zwf27rr4m6hb4nx2q236o6o4n5qye3rgo3eyfzwiiwm",
+                "author": {
+                  "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl",
+                  "handle": "thebluewizard.bsky.social",
+                  "displayName": "The Blue Wizard",
+                  "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2zz4sojwnqgfyxycbwgdqoyl/bafkreiddbibr65lhfedmoarrqh7szrr4oqv5dfjewzic5mwaluk4q7r65a@jpeg",
+                  "viewer": {
+                    "muted": false,
+                    "blockedBy": false,
+                    "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctp2puc2y",
+                    "followedBy": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.graph.follow/3lbq76d5mi32b"
+                  },
+                  "labels": [],
+                  "createdAt": "2023-10-19T17:52:42.784Z"
+                },
+                "record": {
+                  "$type": "app.bsky.feed.post",
+                  "createdAt": "2024-12-22T09:23:26.819Z",
+                  "langs": [
+                    "en"
+                  ],
+                  "reply": {
+                    "parent": {
+                      "cid": "bafyreia476x24a5zxf3du6jlwq34spf4b77phtwqywkkd3d3h7pl2muy5a",
+                      "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3ldv3co3zzc2j"
+                    },
+                    "root": {
+                      "cid": "bafyreidio4ns5cl3lbtf46zqagnq7aia4icxllayloruct7bpcj3mfx4nq",
+                      "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3ldv2zfj5z22j"
+                    }
+                  },
+                  "text": "The drawings and illustrations were obviously done with great care and enthusiasm, but could use an artist's touch. \n\nIt is hard to fault the author for this shortcoming, though. The amorphous qualities make illustrations self-similar. \n\nAnyway, Goo taxonomy is more about odor than visuals! \n\n3/5"
+                },
+                "replyCount": 1,
+                "repostCount": 0,
+                "likeCount": 0,
+                "quoteCount": 0,
+                "indexedAt": "2024-12-22T09:23:27.754Z",
+                "viewer": {
+                  "threadMuted": false,
+                  "embeddingDisabled": false
+                },
+                "labels": []
+              },
+              "replies": [
+                {
+                  "$type": "app.bsky.feed.defs#threadViewPost",
+                  "post": {
+                    "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3ldv3xh73n22j",
+                    "cid": "bafyreiamxj4c7i7trsgyjxg6eobxkawm5ebqdzwmhdpx7unczq6mqlo7ii",
+                    "author": {
+                      "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl",
+                      "handle": "thebluewizard.bsky.social",
+                      "displayName": "The Blue Wizard",
+                      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2zz4sojwnqgfyxycbwgdqoyl/bafkreiddbibr65lhfedmoarrqh7szrr4oqv5dfjewzic5mwaluk4q7r65a@jpeg",
+                      "viewer": {
+                        "muted": false,
+                        "blockedBy": false,
+                        "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctp2puc2y",
+                        "followedBy": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.graph.follow/3lbq76d5mi32b"
+                      },
+                      "labels": [],
+                      "createdAt": "2023-10-19T17:52:42.784Z"
+                    },
+                    "record": {
+                      "$type": "app.bsky.feed.post",
+                      "createdAt": "2024-12-22T09:26:50.557Z",
+                      "langs": [
+                        "en"
+                      ],
+                      "reply": {
+                        "parent": {
+                          "cid": "bafyreibdmalwsu6zwf27rr4m6hb4nx2q236o6o4n5qye3rgo3eyfzwiiwm",
+                          "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3ldv3revjps2j"
+                        },
+                        "root": {
+                          "cid": "bafyreidio4ns5cl3lbtf46zqagnq7aia4icxllayloruct7bpcj3mfx4nq",
+                          "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3ldv2zfj5z22j"
+                        }
+                      },
+                      "text": "Goos are great for transmutation, a fact I doubt is missed by anyone reading this book!\n\nAn example from Book 3, page 736, comes to mind. The author describes having a deep conversation about travel hygene over the course of three hours with Cave Goo he transmutated into a talking mirror.\n\n4/5"
+                    },
+                    "replyCount": 1,
+                    "repostCount": 0,
+                    "likeCount": 0,
+                    "quoteCount": 0,
+                    "indexedAt": "2024-12-22T09:26:50.849Z",
+                    "viewer": {
+                      "threadMuted": false,
+                      "embeddingDisabled": false
+                    },
+                    "labels": []
+                  },
+                  "replies": [
+                    {
+                      "$type": "app.bsky.feed.defs#threadViewPost",
+                      "post": {
+                        "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3ldv4ad2ogs2j",
+                        "cid": "bafyreihlbwe3vs5rjfsmosvngehcamjv4rqybxns6y4gvx7hotnetr4ev4",
+                        "author": {
+                          "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl",
+                          "handle": "thebluewizard.bsky.social",
+                          "displayName": "The Blue Wizard",
+                          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2zz4sojwnqgfyxycbwgdqoyl/bafkreiddbibr65lhfedmoarrqh7szrr4oqv5dfjewzic5mwaluk4q7r65a@jpeg",
+                          "viewer": {
+                            "muted": false,
+                            "blockedBy": false,
+                            "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctp2puc2y",
+                            "followedBy": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.graph.follow/3lbq76d5mi32b"
+                          },
+                          "labels": [],
+                          "createdAt": "2023-10-19T17:52:42.784Z"
+                        },
+                        "record": {
+                          "$type": "app.bsky.feed.post",
+                          "createdAt": "2024-12-22T09:31:48.207Z",
+                          "langs": [
+                            "en"
+                          ],
+                          "reply": {
+                            "parent": {
+                              "cid": "bafyreiamxj4c7i7trsgyjxg6eobxkawm5ebqdzwmhdpx7unczq6mqlo7ii",
+                              "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3ldv3xh73n22j"
+                            },
+                            "root": {
+                              "cid": "bafyreidio4ns5cl3lbtf46zqagnq7aia4icxllayloruct7bpcj3mfx4nq",
+                              "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3ldv2zfj5z22j"
+                            }
+                          },
+                          "text": "There are sections that are a little too prosey for my liking.  Like, the poetry sections (but they could just be my personal taste).\n\nOverall, the author writes with great passion and, at times, with excessive detail about all types of Goo. A commendable piece of work!\n\nOverall: 4 stars (out of 5)"
+                        },
+                        "replyCount": 0,
+                        "repostCount": 0,
+                        "likeCount": 0,
+                        "quoteCount": 0,
+                        "indexedAt": "2024-12-22T09:31:48.549Z",
+                        "viewer": {
+                          "threadMuted": false,
+                          "embeddingDisabled": false
+                        },
+                        "labels": []
+                      },
+                      "replies": [],
+                      "threadContext": {}
+                    }
+                  ],
+                  "threadContext": {}
+                }
+              ],
+              "threadContext": {}
+            }
+          ],
+          "threadContext": {}
+        }
+      ],
+      "threadContext": {}
+    }
+  }
+]

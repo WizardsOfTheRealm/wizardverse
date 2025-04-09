@@ -1,0 +1,287 @@
+[
+  {
+    "thread": {
+      "$type": "app.bsky.feed.defs#threadViewPost",
+      "post": {
+        "uri": "at://did:plc:i7v44yjlao2ogtw53tw5ibu6/app.bsky.feed.post/3lbycl4gi5s2r",
+        "cid": "bafyreidqg3h3dq72ijingm2bi5rj75u4wevjogunsrai6f4gim7ste4aku",
+        "author": {
+          "did": "did:plc:i7v44yjlao2ogtw53tw5ibu6",
+          "handle": "mervastra.bsky.social",
+          "displayName": "Merv Astra (B.Ws, App. Lev 2)",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:i7v44yjlao2ogtw53tw5ibu6/bafkreieiz3urgqvnkxsd6je27woeldzarq6mftoyfe5bl6nb5eyvt7hd5u@jpeg",
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbscubrws32l",
+            "followedBy": "at://did:plc:i7v44yjlao2ogtw53tw5ibu6/app.bsky.graph.follow/3lbqczrjibi2l"
+          },
+          "labels": [],
+          "createdAt": "2024-11-12T03:02:26.214Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2024-11-28T05:12:48.764Z",
+          "langs": [
+            "en"
+          ],
+          "text": "The main thing I've learned lately as a wizard's Apprentice is never, ever trust the Green Wizard. Ever."
+        },
+        "replyCount": 1,
+        "repostCount": 0,
+        "likeCount": 0,
+        "quoteCount": 0,
+        "indexedAt": "2024-11-28T05:12:49.051Z",
+        "viewer": {
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      },
+      "replies": [
+        {
+          "$type": "app.bsky.feed.defs#threadViewPost",
+          "post": {
+            "uri": "at://did:plc:vbox4xiuep2vn6fy6uwo6bus/app.bsky.feed.post/3lbyflrdgwc2i",
+            "cid": "bafyreieig24gintepje77f6ytn3xqph2zesxovqu3jhdofvgvw4kg5cmji",
+            "author": {
+              "did": "did:plc:vbox4xiuep2vn6fy6uwo6bus",
+              "handle": "grenman.bsky.social",
+              "displayName": "Grenman",
+              "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:vbox4xiuep2vn6fy6uwo6bus/bafkreiaokf2ia5zj67rhibo4r2r3354magwfznnvav3viek2qkveanqioa@jpeg",
+              "viewer": {
+                "muted": false,
+                "blockedBy": false,
+                "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctwipsa22"
+              },
+              "labels": [],
+              "createdAt": "2024-10-31T05:31:27.929Z"
+            },
+            "record": {
+              "$type": "app.bsky.feed.post",
+              "createdAt": "2024-11-28T06:06:51.910Z",
+              "langs": [
+                "en"
+              ],
+              "reply": {
+                "parent": {
+                  "cid": "bafyreidqg3h3dq72ijingm2bi5rj75u4wevjogunsrai6f4gim7ste4aku",
+                  "uri": "at://did:plc:i7v44yjlao2ogtw53tw5ibu6/app.bsky.feed.post/3lbycl4gi5s2r"
+                },
+                "root": {
+                  "cid": "bafyreidqg3h3dq72ijingm2bi5rj75u4wevjogunsrai6f4gim7ste4aku",
+                  "uri": "at://did:plc:i7v44yjlao2ogtw53tw5ibu6/app.bsky.feed.post/3lbycl4gi5s2r"
+                }
+              },
+              "text": "Not smart."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-28T06:06:52.264Z",
+            "viewer": {
+              "threadMuted": false,
+              "embeddingDisabled": false
+            },
+            "labels": []
+          },
+          "replies": [],
+          "threadContext": {}
+        }
+      ],
+      "threadContext": {}
+    }
+  },
+  {
+    "thread": {
+      "$type": "app.bsky.feed.defs#threadViewPost",
+      "post": {
+        "uri": "at://did:plc:i7v44yjlao2ogtw53tw5ibu6/app.bsky.feed.post/3lbyjddnbls2s",
+        "cid": "bafyreigew2rw5d2q7642px6q7csxcvxr5qndjnhcc4qnw2zvmnohpmwoyq",
+        "author": {
+          "did": "did:plc:i7v44yjlao2ogtw53tw5ibu6",
+          "handle": "mervastra.bsky.social",
+          "displayName": "Merv Astra (B.Ws, App. Lev 2)",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:i7v44yjlao2ogtw53tw5ibu6/bafkreieiz3urgqvnkxsd6je27woeldzarq6mftoyfe5bl6nb5eyvt7hd5u@jpeg",
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbscubrws32l",
+            "followedBy": "at://did:plc:i7v44yjlao2ogtw53tw5ibu6/app.bsky.graph.follow/3lbqczrjibi2l"
+          },
+          "labels": [],
+          "createdAt": "2024-11-12T03:02:26.214Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2024-11-28T07:13:44.074Z",
+          "embed": {
+            "$type": "app.bsky.embed.images",
+            "images": [
+              {
+                "alt": "A letter from The Royal Academy. It says\n\nThe Royal Academy of Magic\nOffice of the Dean\nTo: Merv Astra, Apprentice of The Blue Wizard\nSubject: Disciplinary Suspension\n\nDear Apprentice Astra,\nFollowing a joint review by the Academy\u2019s Department of Collegiate Integrity and the 438th Council of High Wizards, you are hereby suspended from the Academy for the remainder of this term.\nWhile the Academy values free expression, your recent public remarks were found to conflict with the standards of respect and discretion expected of our students, particularly where they pertain to prominent members of our community. This decision was not made quickly or lightly, and ultimately it was required to preserve the harmony and integrity of the institution.\nYou may submit an appeal to the Council within a fortnight.\n\n- Dean Umbrella\n\n",
+                "aspectRatio": {
+                  "height": 1041,
+                  "width": 736
+                },
+                "image": {
+                  "$type": "blob",
+                  "ref": {
+                    "$link": "bafkreibbgo73pyupqy5xm7ulm2krwhe2wrsocreivphtjtn6xwcp3rja4y"
+                  },
+                  "mimeType": "image/jpeg",
+                  "size": 835467
+                }
+              }
+            ]
+          },
+          "facets": [
+            {
+              "$type": "app.bsky.richtext.facet",
+              "features": [
+                {
+                  "$type": "app.bsky.richtext.facet#mention",
+                  "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl"
+                }
+              ],
+              "index": {
+                "byteEnd": 46,
+                "byteStart": 20
+              }
+            }
+          ],
+          "langs": [
+            "en"
+          ],
+          "text": "Ok seriously wtf??\n\n@thebluewizard.bsky.social did you know about this???"
+        },
+        "embed": {
+          "$type": "app.bsky.embed.images#view",
+          "images": [
+            {
+              "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:i7v44yjlao2ogtw53tw5ibu6/bafkreibbgo73pyupqy5xm7ulm2krwhe2wrsocreivphtjtn6xwcp3rja4y@jpeg",
+              "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:i7v44yjlao2ogtw53tw5ibu6/bafkreibbgo73pyupqy5xm7ulm2krwhe2wrsocreivphtjtn6xwcp3rja4y@jpeg",
+              "alt": "A letter from The Royal Academy. It says\n\nThe Royal Academy of Magic\nOffice of the Dean\nTo: Merv Astra, Apprentice of The Blue Wizard\nSubject: Disciplinary Suspension\n\nDear Apprentice Astra,\nFollowing a joint review by the Academy\u2019s Department of Collegiate Integrity and the 438th Council of High Wizards, you are hereby suspended from the Academy for the remainder of this term.\nWhile the Academy values free expression, your recent public remarks were found to conflict with the standards of respect and discretion expected of our students, particularly where they pertain to prominent members of our community. This decision was not made quickly or lightly, and ultimately it was required to preserve the harmony and integrity of the institution.\nYou may submit an appeal to the Council within a fortnight.\n\n- Dean Umbrella\n\n",
+              "aspectRatio": {
+                "height": 1041,
+                "width": 736
+              }
+            }
+          ]
+        },
+        "replyCount": 1,
+        "repostCount": 0,
+        "likeCount": 0,
+        "quoteCount": 0,
+        "indexedAt": "2024-11-28T07:13:46.158Z",
+        "viewer": {
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      },
+      "replies": [
+        {
+          "$type": "app.bsky.feed.defs#threadViewPost",
+          "post": {
+            "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lc2gfigqm22p",
+            "cid": "bafyreidxqpklkrw6juocg4asdfxowbkhd4ocngomwm363v4psndsf6ppxy",
+            "author": {
+              "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl",
+              "handle": "thebluewizard.bsky.social",
+              "displayName": "The Blue Wizard",
+              "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2zz4sojwnqgfyxycbwgdqoyl/bafkreiddbibr65lhfedmoarrqh7szrr4oqv5dfjewzic5mwaluk4q7r65a@jpeg",
+              "viewer": {
+                "muted": false,
+                "blockedBy": false,
+                "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctp2puc2y",
+                "followedBy": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.graph.follow/3lbq76d5mi32b"
+              },
+              "labels": [],
+              "createdAt": "2023-10-19T17:52:42.784Z"
+            },
+            "record": {
+              "$type": "app.bsky.feed.post",
+              "createdAt": "2024-11-29T01:26:34.473Z",
+              "langs": [
+                "en"
+              ],
+              "reply": {
+                "parent": {
+                  "cid": "bafyreigew2rw5d2q7642px6q7csxcvxr5qndjnhcc4qnw2zvmnohpmwoyq",
+                  "uri": "at://did:plc:i7v44yjlao2ogtw53tw5ibu6/app.bsky.feed.post/3lbyjddnbls2s"
+                },
+                "root": {
+                  "cid": "bafyreigew2rw5d2q7642px6q7csxcvxr5qndjnhcc4qnw2zvmnohpmwoyq",
+                  "uri": "at://did:plc:i7v44yjlao2ogtw53tw5ibu6/app.bsky.feed.post/3lbyjddnbls2s"
+                }
+              },
+              "text": "Sigh \n...\nDon't fret. I will make things right."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-29T01:26:32.461Z",
+            "viewer": {
+              "threadMuted": false,
+              "embeddingDisabled": false
+            },
+            "labels": []
+          },
+          "replies": [],
+          "threadContext": {}
+        }
+      ],
+      "threadContext": {}
+    }
+  },
+  {
+    "thread": {
+      "$type": "app.bsky.feed.defs#threadViewPost",
+      "post": {
+        "uri": "at://did:plc:dyhferaekcfoi2ralb473wbi/app.bsky.feed.post/3lbzr7vnqn22i",
+        "cid": "bafyreidxlart72j6yqqjjka6dciwxyxm4drburkw4gehyz2tjt723ufidy",
+        "author": {
+          "did": "did:plc:dyhferaekcfoi2ralb473wbi",
+          "handle": "thegreenwizard.bsky.social",
+          "displayName": "The Green Wizard",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:dyhferaekcfoi2ralb473wbi/bafkreiai2vwa4jpqwzqbbhh4u6mqr6kcombzrhfiyjjxqynjopuyj64yse@jpeg",
+          "associated": {
+            "chat": {
+              "allowIncoming": "following"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctusxga2q"
+          },
+          "labels": [],
+          "createdAt": "2023-09-20T21:06:29.785Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2024-11-28T19:07:38.428Z",
+          "langs": [
+            "en"
+          ],
+          "text": "Today I find myself reminiscing about my halcyon days at the Academy \u2014 what a special time that was!!\n\nYou young pups be sure to cherish every moment, it only happens once \ud83d\ude4f\ud83d\udcda\ud83e\ude84\ud83e\uddd9\u200d\u2642\ufe0f"
+        },
+        "replyCount": 0,
+        "repostCount": 0,
+        "likeCount": 0,
+        "quoteCount": 0,
+        "indexedAt": "2024-11-28T19:07:38.855Z",
+        "viewer": {
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      },
+      "replies": [],
+      "threadContext": {}
+    }
+  }
+]

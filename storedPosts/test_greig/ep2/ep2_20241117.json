@@ -1,0 +1,44 @@
+[
+  {
+    "thread": {
+      "$type": "app.bsky.feed.defs#threadViewPost",
+      "post": {
+        "uri": "at://did:plc:qkrs2ei3ebsbwoq6lszwtf53/app.bsky.feed.post/3lb63tex2p224",
+        "cid": "bafyreieplg3pf4pxssw3pmhmg5qhzl2jjyoirsbv535b6lvzddafaia26a",
+        "author": {
+          "did": "did:plc:qkrs2ei3ebsbwoq6lszwtf53",
+          "handle": "barnt.bsky.social",
+          "displayName": "Barnt",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qkrs2ei3ebsbwoq6lszwtf53/bafkreicuodljtbhhvn6zdepghpghciwkfjgpauwsciz5dokuz25iazpwoy@jpeg",
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "followedBy": "at://did:plc:qkrs2ei3ebsbwoq6lszwtf53/app.bsky.graph.follow/3lku6hkzc3w2h"
+          },
+          "labels": [],
+          "createdAt": "2024-11-12T05:51:14.404Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2024-11-17T19:02:56.740Z",
+          "langs": [
+            "en"
+          ],
+          "text": "no slop like barnts mom's magic firefly slop"
+        },
+        "replyCount": 0,
+        "repostCount": 0,
+        "likeCount": 0,
+        "quoteCount": 0,
+        "indexedAt": "2024-11-17T19:02:58.564Z",
+        "viewer": {
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      },
+      "replies": [],
+      "threadContext": {}
+    }
+  }
+]
