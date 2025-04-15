@@ -25,24 +25,25 @@ BLUESKY_HANDLE = "orboftherealm.bsky.social"
 
 ################ parsing old episode html manually done by G ##################
 # read episode file
+# prlg, 1, 2, 3, 4_1, 4_2, 5, 6 confirmed good
 oldep_dir = "episodes by G"  # TO DO: make loop over all eps
 # oldep_html = "_prologue.html" # weird htmls created manually by G
 # epnum = "prlg"
 # oldep_html = "episode 1 - the symposium.html" # weird htmls created manually by G
 # epnum = "ep1"
-oldep_html = "episode 2 - the whistleblower.html" # weird htmls created manually by G
-epnum = "ep2"
-# oldep_html = "episode 3 - the apprentice.html" # weird htmls created manually by G
+# oldep_html = "episode 2 - the whistleblower.html"
+# epnum = "ep2"
+# oldep_html = "episode 3 - the apprentice.html"
 # epnum = "ep3"
-# oldep_html = "episode 4 - the kettles p1.html" # weird htmls created manually by G
+# oldep_html = "episode 4 - the kettles p1.html"
 # epnum = "ep41"
-# oldep_html = "episode 4 - the kettles p2.html" # weird htmls created manually by G
+# oldep_html = "episode 4 - the kettles p2.html"
 # epnum = "ep42"
-# oldep_html = "episode 5 - Frankleskas.html" # weird htmls created manually by G
+# oldep_html = "episode 5 - Frankleskas.html"
 # epnum = "ep5"
-# oldep_html = "episode 6 - the bugs.html" # weird htmls created manually by G
-# epnum = "ep6"
-# oldep_html = "episode 7 - Roy up to Jan 27.html" # weird htmls created manually by G
+oldep_html = "episode 6 - the bugs.html"
+epnum = "ep6"
+# oldep_html = "episode 7 - Roy up to Jan 27.html"
 # epnum = "ep7"
 
 
