@@ -1,0 +1,703 @@
+{
+  "mainPosts": [
+    {
+      "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3ldzc4hx7js2a",
+      "cid": "bafyreihkcobv5ww6lydmjsd34uhf66x7t6noofqsbixft2hntktxtvzgay",
+      "author": {
+        "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl",
+        "handle": "thebluewizard.bsky.social",
+        "displayName": "The Blue Wizard",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2zz4sojwnqgfyxycbwgdqoyl/bafkreiddbibr65lhfedmoarrqh7szrr4oqv5dfjewzic5mwaluk4q7r65a@jpeg",
+        "viewer": {
+          "muted": false,
+          "blockedBy": false,
+          "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctp2puc2y",
+          "followedBy": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.graph.follow/3lbq76d5mi32b"
+        },
+        "labels": [],
+        "createdAt": "2023-10-19T17:52:42.784Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2024-12-24T01:27:40.523Z",
+        "langs": [
+          "en"
+        ],
+        "text": "My review of 'Remedies for Cube Foot'\nBy Espor Darth\n\nCube Foot is an obscure and uncommon disease in which the foot swells into a cube (no surprise there). In our region, it is not common. It is, however, rather common in the Dwire Boglands region and to the east of it, in the Ootle  Plateau.\n\n1/6"
+      },
+      "replyCount": 1,
+      "repostCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "indexedAt": "2024-12-24T01:27:40.154Z",
+      "viewer": {
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    {
+      "uri": "at://did:plc:i7v44yjlao2ogtw53tw5ibu6/app.bsky.feed.post/3le35nmzzjs2a",
+      "cid": "bafyreif5rp26hrk3bkvpvjariqgpgdhjh6svvyyn2r5cassqz5wot4sley",
+      "author": {
+        "did": "did:plc:i7v44yjlao2ogtw53tw5ibu6",
+        "handle": "mervastra.bsky.social",
+        "displayName": "Merv Astra (B.Ws, App. Lev 2)",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:i7v44yjlao2ogtw53tw5ibu6/bafkreieiz3urgqvnkxsd6je27woeldzarq6mftoyfe5bl6nb5eyvt7hd5u@jpeg",
+        "viewer": {
+          "muted": false,
+          "blockedBy": false,
+          "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbscubrws32l",
+          "followedBy": "at://did:plc:i7v44yjlao2ogtw53tw5ibu6/app.bsky.graph.follow/3lbqczrjibi2l"
+        },
+        "labels": [],
+        "createdAt": "2024-11-12T03:02:26.214Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2024-12-24T19:13:07.051Z",
+        "langs": [
+          "en"
+        ],
+        "text": "Sad to be apart from family over the holidays \ud83d\ude2a \n\nBut, I have company - Fox and I are good friends, and we both enjoy sitting by the fire and gazing out the window.\ud83d\udd25\ud83e\ude9f\n\nMay everyone's Frankleskas be prankful! \ud83c\udccf"
+      },
+      "replyCount": 0,
+      "repostCount": 0,
+      "likeCount": 1,
+      "quoteCount": 0,
+      "indexedAt": "2024-12-24T19:13:07.161Z",
+      "viewer": {
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    {
+      "uri": "at://did:plc:dyhferaekcfoi2ralb473wbi/app.bsky.feed.post/3le3bcvg53c2z",
+      "cid": "bafyreifiibl6hroaxxhugt246hfbhz36p4gohnv6oi4mp5e53eiiqrath4",
+      "author": {
+        "did": "did:plc:dyhferaekcfoi2ralb473wbi",
+        "handle": "thegreenwizard.bsky.social",
+        "displayName": "The Green Wizard",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:dyhferaekcfoi2ralb473wbi/bafkreiai2vwa4jpqwzqbbhh4u6mqr6kcombzrhfiyjjxqynjopuyj64yse@jpeg",
+        "associated": {
+          "chat": {
+            "allowIncoming": "following"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "blockedBy": false,
+          "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctusxga2q"
+        },
+        "labels": [],
+        "createdAt": "2023-09-20T21:06:29.785Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2024-12-24T20:18:41.698Z",
+        "embed": {
+          "$type": "app.bsky.embed.images",
+          "images": [
+            {
+              "alt": "",
+              "aspectRatio": {
+                "height": 364,
+                "width": 685
+              },
+              "image": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreigcxh5n6cjwtjgmw2c5dhut5lwo6ictvee52bkd7ghwx5qsfj7imu"
+                },
+                "mimeType": "image/jpeg",
+                "size": 238513
+              }
+            }
+          ]
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "'Tis the season! \ud83d\ude1c"
+      },
+      "embed": {
+        "$type": "app.bsky.embed.images#view",
+        "images": [
+          {
+            "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dyhferaekcfoi2ralb473wbi/bafkreigcxh5n6cjwtjgmw2c5dhut5lwo6ictvee52bkd7ghwx5qsfj7imu@jpeg",
+            "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:dyhferaekcfoi2ralb473wbi/bafkreigcxh5n6cjwtjgmw2c5dhut5lwo6ictvee52bkd7ghwx5qsfj7imu@jpeg",
+            "alt": "",
+            "aspectRatio": {
+              "height": 364,
+              "width": 685
+            }
+          }
+        ]
+      },
+      "replyCount": 1,
+      "repostCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "indexedAt": "2024-12-24T20:18:43.849Z",
+      "viewer": {
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    }
+  ],
+  "replies": {
+    "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3ldzc4hx7js2a": [
+      {
+        "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3ldzcbnela22a",
+        "cid": "bafyreigf7cdivtinllwh3gw5ks2tvtfda7rrznharuwcn3oc2k72c44gfe",
+        "author": {
+          "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl",
+          "handle": "thebluewizard.bsky.social",
+          "displayName": "The Blue Wizard",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2zz4sojwnqgfyxycbwgdqoyl/bafkreiddbibr65lhfedmoarrqh7szrr4oqv5dfjewzic5mwaluk4q7r65a@jpeg",
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctp2puc2y",
+            "followedBy": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.graph.follow/3lbq76d5mi32b"
+          },
+          "labels": [],
+          "createdAt": "2023-10-19T17:52:42.784Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2024-12-24T01:30:33.976Z",
+          "langs": [
+            "en"
+          ],
+          "reply": {
+            "parent": {
+              "cid": "bafyreihkcobv5ww6lydmjsd34uhf66x7t6noofqsbixft2hntktxtvzgay",
+              "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3ldzc4hx7js2a"
+            },
+            "root": {
+              "cid": "bafyreihkcobv5ww6lydmjsd34uhf66x7t6noofqsbixft2hntktxtvzgay",
+              "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3ldzc4hx7js2a"
+            }
+          },
+          "text": "Cube Foot occurs primarily when one is bitten by a Bog Spider, typically on the foot after accidentally stepping on a lair. \n\nI learned that bites on other parts of the body have been reported, though rarely. If one is bitten on any part of the legs, apparently, the closest foot swells.\n\n2/6"
+        },
+        "replyCount": 1,
+        "repostCount": 0,
+        "likeCount": 0,
+        "quoteCount": 0,
+        "indexedAt": "2024-12-24T01:30:34.646Z",
+        "viewer": {
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      }
+    ],
+    "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3ldzcbnela22a": [
+      {
+        "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3ldzcicuffc2a",
+        "cid": "bafyreid5uwd3kkkenqg2kbvnfm37cu5yjvmwqwhgituqcpk3vlkho3ema4",
+        "author": {
+          "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl",
+          "handle": "thebluewizard.bsky.social",
+          "displayName": "The Blue Wizard",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2zz4sojwnqgfyxycbwgdqoyl/bafkreiddbibr65lhfedmoarrqh7szrr4oqv5dfjewzic5mwaluk4q7r65a@jpeg",
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctp2puc2y",
+            "followedBy": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.graph.follow/3lbq76d5mi32b"
+          },
+          "labels": [],
+          "createdAt": "2023-10-19T17:52:42.784Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2024-12-24T01:34:17.841Z",
+          "langs": [
+            "en"
+          ],
+          "reply": {
+            "parent": {
+              "cid": "bafyreigf7cdivtinllwh3gw5ks2tvtfda7rrznharuwcn3oc2k72c44gfe",
+              "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3ldzcbnela22a"
+            },
+            "root": {
+              "cid": "bafyreihkcobv5ww6lydmjsd34uhf66x7t6noofqsbixft2hntktxtvzgay",
+              "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3ldzc4hx7js2a"
+            }
+          },
+          "text": "Bites on the torso - exceedingly rare - cause the neck to swell into a cube shape. This condition is called 'Cube Neck' (not very creative, imo). \n\nShould a bite occur on an arm, the finger tips of the closest hand swells (into little cubes). This condition is called 'Cubefings' (cute!).\n\n3/6"
+        },
+        "replyCount": 1,
+        "repostCount": 0,
+        "likeCount": 0,
+        "quoteCount": 0,
+        "indexedAt": "2024-12-24T01:34:17.755Z",
+        "viewer": {
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      }
+    ],
+    "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3ldzcicuffc2a": [
+      {
+        "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3ldzcmly2o22a",
+        "cid": "bafyreihwzdjwcr6op7pazio4jisengfikvzrh5mkerc2ep76scyhcvem3e",
+        "author": {
+          "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl",
+          "handle": "thebluewizard.bsky.social",
+          "displayName": "The Blue Wizard",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2zz4sojwnqgfyxycbwgdqoyl/bafkreiddbibr65lhfedmoarrqh7szrr4oqv5dfjewzic5mwaluk4q7r65a@jpeg",
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctp2puc2y",
+            "followedBy": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.graph.follow/3lbq76d5mi32b"
+          },
+          "labels": [],
+          "createdAt": "2023-10-19T17:52:42.784Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2024-12-24T01:36:41.617Z",
+          "langs": [
+            "en"
+          ],
+          "reply": {
+            "parent": {
+              "cid": "bafyreid5uwd3kkkenqg2kbvnfm37cu5yjvmwqwhgituqcpk3vlkho3ema4",
+              "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3ldzcicuffc2a"
+            },
+            "root": {
+              "cid": "bafyreihkcobv5ww6lydmjsd34uhf66x7t6noofqsbixft2hntktxtvzgay",
+              "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3ldzc4hx7js2a"
+            }
+          },
+          "text": "The good news is, unless bitten on the foot, the situation resolves itself in a week or so.\n\nThe bad news is, if bitten on the foot - which most are - then the condition does not resolve without treatment, and even then may spontaneously recur. It is 50/50 whether treatments work permanently.\n\n4/6"
+        },
+        "replyCount": 1,
+        "repostCount": 0,
+        "likeCount": 0,
+        "quoteCount": 0,
+        "indexedAt": "2024-12-24T01:36:41.860Z",
+        "viewer": {
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      }
+    ],
+    "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3ldzcmly2o22a": [
+      {
+        "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3ldzcysvobs2a",
+        "cid": "bafyreibknubl5h45aavbjax7lcupavndjnxlbidur5i2qbgixycrsimefa",
+        "author": {
+          "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl",
+          "handle": "thebluewizard.bsky.social",
+          "displayName": "The Blue Wizard",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2zz4sojwnqgfyxycbwgdqoyl/bafkreiddbibr65lhfedmoarrqh7szrr4oqv5dfjewzic5mwaluk4q7r65a@jpeg",
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctp2puc2y",
+            "followedBy": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.graph.follow/3lbq76d5mi32b"
+          },
+          "labels": [],
+          "createdAt": "2023-10-19T17:52:42.784Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2024-12-24T01:43:31.528Z",
+          "langs": [
+            "en"
+          ],
+          "reply": {
+            "parent": {
+              "cid": "bafyreihwzdjwcr6op7pazio4jisengfikvzrh5mkerc2ep76scyhcvem3e",
+              "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3ldzcmly2o22a"
+            },
+            "root": {
+              "cid": "bafyreihkcobv5ww6lydmjsd34uhf66x7t6noofqsbixft2hntktxtvzgay",
+              "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3ldzc4hx7js2a"
+            }
+          },
+          "text": "The book is disorganized. E.g.,  Section 'A' is followed by Chp. 1. \n\nAnd the typos! Like, the Cubefings heading is: 'Chp. IV: Crubefrings'. \n\nAnd this my main critique: where are the treatments? There is literally no section of the book that speaks to it - unless you count the book's title! \n\n5/6"
+        },
+        "replyCount": 1,
+        "repostCount": 0,
+        "likeCount": 0,
+        "quoteCount": 0,
+        "indexedAt": "2024-12-24T01:43:32.047Z",
+        "viewer": {
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      }
+    ],
+    "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3ldzcysvobs2a": [
+      {
+        "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3ldzd4viwmc2a",
+        "cid": "bafyreihwgcbn4wgvsjlymjqcwvvzklmt6clachpp4pb3pzfd5p6iozydsy",
+        "author": {
+          "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl",
+          "handle": "thebluewizard.bsky.social",
+          "displayName": "The Blue Wizard",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2zz4sojwnqgfyxycbwgdqoyl/bafkreiddbibr65lhfedmoarrqh7szrr4oqv5dfjewzic5mwaluk4q7r65a@jpeg",
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctp2puc2y",
+            "followedBy": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.graph.follow/3lbq76d5mi32b"
+          },
+          "labels": [],
+          "createdAt": "2023-10-19T17:52:42.784Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2024-12-24T01:45:48.477Z",
+          "langs": [
+            "en"
+          ],
+          "reply": {
+            "parent": {
+              "cid": "bafyreibknubl5h45aavbjax7lcupavndjnxlbidur5i2qbgixycrsimefa",
+              "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3ldzcysvobs2a"
+            },
+            "root": {
+              "cid": "bafyreihkcobv5ww6lydmjsd34uhf66x7t6noofqsbixft2hntktxtvzgay",
+              "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3ldzc4hx7js2a"
+            }
+          },
+          "text": "Finally, when one follows any of the many numbered references and footnotes, all one finds is the same repeated note, \"D. Perdwink, pers. comm.\" Which raises serious questions about the credibility of the book.\n\nI'm afraid I can't recommend this book! \n\nOverall, 1 star (out of 5)\n\n6/6"
+        },
+        "replyCount": 0,
+        "repostCount": 0,
+        "likeCount": 0,
+        "quoteCount": 0,
+        "indexedAt": "2024-12-24T01:45:48.948Z",
+        "viewer": {
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      }
+    ],
+    "at://did:plc:dyhferaekcfoi2ralb473wbi/app.bsky.feed.post/3le3bcvg53c2z": [
+      {
+        "uri": "at://did:plc:i7v44yjlao2ogtw53tw5ibu6/app.bsky.feed.post/3le3bs6udj223",
+        "cid": "bafyreigmevuqwi6lbrjjsozsb5xg4ano5lzv3eqmocjo2p7omods5bzijq",
+        "author": {
+          "did": "did:plc:i7v44yjlao2ogtw53tw5ibu6",
+          "handle": "mervastra.bsky.social",
+          "displayName": "Merv Astra (B.Ws, App. Lev 2)",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:i7v44yjlao2ogtw53tw5ibu6/bafkreieiz3urgqvnkxsd6je27woeldzarq6mftoyfe5bl6nb5eyvt7hd5u@jpeg",
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbscubrws32l",
+            "followedBy": "at://did:plc:i7v44yjlao2ogtw53tw5ibu6/app.bsky.graph.follow/3lbqczrjibi2l"
+          },
+          "labels": [],
+          "createdAt": "2024-11-12T03:02:26.214Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2024-12-24T20:27:14.921Z",
+          "embed": {
+            "$type": "app.bsky.embed.images",
+            "images": [
+              {
+                "alt": "",
+                "aspectRatio": {
+                  "height": 428,
+                  "width": 1732
+                },
+                "image": {
+                  "$type": "blob",
+                  "ref": {
+                    "$link": "bafkreide2du3fgodivhesovglb3d7g77zhtdpmylnuln7mqd73hjas5goi"
+                  },
+                  "mimeType": "image/jpeg",
+                  "size": 88561
+                }
+              }
+            ]
+          },
+          "facets": [
+            {
+              "$type": "app.bsky.richtext.facet",
+              "features": [
+                {
+                  "$type": "app.bsky.richtext.facet#mention",
+                  "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl"
+                }
+              ],
+              "index": {
+                "byteEnd": 26,
+                "byteStart": 0
+              }
+            }
+          ],
+          "langs": [
+            "en"
+          ],
+          "reply": {
+            "parent": {
+              "cid": "bafyreifiibl6hroaxxhugt246hfbhz36p4gohnv6oi4mp5e53eiiqrath4",
+              "uri": "at://did:plc:dyhferaekcfoi2ralb473wbi/app.bsky.feed.post/3le3bcvg53c2z"
+            },
+            "root": {
+              "cid": "bafyreifiibl6hroaxxhugt246hfbhz36p4gohnv6oi4mp5e53eiiqrath4",
+              "uri": "at://did:plc:dyhferaekcfoi2ralb473wbi/app.bsky.feed.post/3le3bcvg53c2z"
+            }
+          },
+          "text": "@thebluewizard.bsky.social I keep trying to counter this but I can't figure it out -- help???"
+        },
+        "embed": {
+          "$type": "app.bsky.embed.images#view",
+          "images": [
+            {
+              "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:i7v44yjlao2ogtw53tw5ibu6/bafkreide2du3fgodivhesovglb3d7g77zhtdpmylnuln7mqd73hjas5goi@jpeg",
+              "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:i7v44yjlao2ogtw53tw5ibu6/bafkreide2du3fgodivhesovglb3d7g77zhtdpmylnuln7mqd73hjas5goi@jpeg",
+              "alt": "",
+              "aspectRatio": {
+                "height": 428,
+                "width": 1732
+              }
+            }
+          ]
+        },
+        "replyCount": 1,
+        "repostCount": 0,
+        "likeCount": 0,
+        "quoteCount": 0,
+        "indexedAt": "2024-12-24T20:27:16.750Z",
+        "viewer": {
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      }
+    ],
+    "at://did:plc:i7v44yjlao2ogtw53tw5ibu6/app.bsky.feed.post/3le3bs6udj223": [
+      {
+        "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3le3hziec422a",
+        "cid": "bafyreihexmob4sdtyv2oycegyho4rbzcrqmfaszag247ozqq2yerkxk4wy",
+        "author": {
+          "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl",
+          "handle": "thebluewizard.bsky.social",
+          "displayName": "The Blue Wizard",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2zz4sojwnqgfyxycbwgdqoyl/bafkreiddbibr65lhfedmoarrqh7szrr4oqv5dfjewzic5mwaluk4q7r65a@jpeg",
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctp2puc2y",
+            "followedBy": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.graph.follow/3lbq76d5mi32b"
+          },
+          "labels": [],
+          "createdAt": "2023-10-19T17:52:42.784Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2024-12-24T22:18:42.216Z",
+          "facets": [
+            {
+              "$type": "app.bsky.richtext.facet",
+              "features": [
+                {
+                  "$type": "app.bsky.richtext.facet#mention",
+                  "did": "did:plc:i7v44yjlao2ogtw53tw5ibu6"
+                }
+              ],
+              "index": {
+                "byteEnd": 31,
+                "byteStart": 9
+              }
+            }
+          ],
+          "langs": [
+            "en"
+          ],
+          "reply": {
+            "parent": {
+              "cid": "bafyreigmevuqwi6lbrjjsozsb5xg4ano5lzv3eqmocjo2p7omods5bzijq",
+              "uri": "at://did:plc:i7v44yjlao2ogtw53tw5ibu6/app.bsky.feed.post/3le3bs6udj223"
+            },
+            "root": {
+              "cid": "bafyreifiibl6hroaxxhugt246hfbhz36p4gohnv6oi4mp5e53eiiqrath4",
+              "uri": "at://did:plc:dyhferaekcfoi2ralb473wbi/app.bsky.feed.post/3le3bcvg53c2z"
+            }
+          },
+          "text": "Haha, oh @mervastra.bsky.social you've fallen for a Frankleskas prank! \n\nThat's no curse you're countering.\n\nCredit to GW on this one \ud83d\udc4f \n\n 'Tis the season!"
+        },
+        "replyCount": 1,
+        "repostCount": 0,
+        "likeCount": 0,
+        "quoteCount": 0,
+        "indexedAt": "2024-12-24T22:18:42.450Z",
+        "viewer": {
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      }
+    ],
+    "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3le3hziec422a": [
+      {
+        "uri": "at://did:plc:dyhferaekcfoi2ralb473wbi/app.bsky.feed.post/3le3maqbzvs2r",
+        "cid": "bafyreig4rhmahl6i5dg5c5lmnqireciu2ae445ftx4aa24ogwhsw6rmhda",
+        "author": {
+          "did": "did:plc:dyhferaekcfoi2ralb473wbi",
+          "handle": "thegreenwizard.bsky.social",
+          "displayName": "The Green Wizard",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:dyhferaekcfoi2ralb473wbi/bafkreiai2vwa4jpqwzqbbhh4u6mqr6kcombzrhfiyjjxqynjopuyj64yse@jpeg",
+          "associated": {
+            "chat": {
+              "allowIncoming": "following"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctusxga2q"
+          },
+          "labels": [],
+          "createdAt": "2023-09-20T21:06:29.785Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2024-12-24T23:34:20.379Z",
+          "langs": [
+            "en"
+          ],
+          "reply": {
+            "parent": {
+              "cid": "bafyreihexmob4sdtyv2oycegyho4rbzcrqmfaszag247ozqq2yerkxk4wy",
+              "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3le3hziec422a"
+            },
+            "root": {
+              "cid": "bafyreifiibl6hroaxxhugt246hfbhz36p4gohnv6oi4mp5e53eiiqrath4",
+              "uri": "at://did:plc:dyhferaekcfoi2ralb473wbi/app.bsky.feed.post/3le3bcvg53c2z"
+            }
+          },
+          "text": "Ahh yes exactly, a prank! Indeed! Ha ha!\n\nThe boy was an easy mark but can\u2019t get anything past the old man!!"
+        },
+        "replyCount": 1,
+        "repostCount": 0,
+        "likeCount": 0,
+        "quoteCount": 0,
+        "indexedAt": "2024-12-24T23:34:21.051Z",
+        "viewer": {
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      }
+    ],
+    "at://did:plc:dyhferaekcfoi2ralb473wbi/app.bsky.feed.post/3le3maqbzvs2r": [
+      {
+        "uri": "at://did:plc:bzmbo74r5yhiuj4m4rnrlehi/app.bsky.feed.post/3le3mcffugs2r",
+        "cid": "bafyreihyt6ldliro33vgowpvyq6resizf6soj7qoujwdfvr2rwwmj55ul4",
+        "author": {
+          "did": "did:plc:bzmbo74r5yhiuj4m4rnrlehi",
+          "handle": "abigailgrunewald.bsky.social",
+          "displayName": "Abigail",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bzmbo74r5yhiuj4m4rnrlehi/bafkreiehl6xn2roxypc4jxdcl7ec5lznfa75prrze3goez7ib6yk4mmos4@jpeg",
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lcfz45hwt72d"
+          },
+          "labels": [],
+          "createdAt": "2024-12-02T08:25:37.246Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2024-12-24T23:35:16.080Z",
+          "langs": [
+            "en"
+          ],
+          "reply": {
+            "parent": {
+              "cid": "bafyreig4rhmahl6i5dg5c5lmnqireciu2ae445ftx4aa24ogwhsw6rmhda",
+              "uri": "at://did:plc:dyhferaekcfoi2ralb473wbi/app.bsky.feed.post/3le3maqbzvs2r"
+            },
+            "root": {
+              "cid": "bafyreifiibl6hroaxxhugt246hfbhz36p4gohnv6oi4mp5e53eiiqrath4",
+              "uri": "at://did:plc:dyhferaekcfoi2ralb473wbi/app.bsky.feed.post/3le3bcvg53c2z"
+            }
+          },
+          "text": "No, this is a real curse."
+        },
+        "replyCount": 1,
+        "repostCount": 0,
+        "likeCount": 0,
+        "quoteCount": 0,
+        "indexedAt": "2024-12-24T23:35:16.452Z",
+        "viewer": {
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      }
+    ],
+    "at://did:plc:bzmbo74r5yhiuj4m4rnrlehi/app.bsky.feed.post/3le3mcffugs2r": [
+      {
+        "uri": "at://did:plc:dyhferaekcfoi2ralb473wbi/app.bsky.feed.post/3le3mg6cyws2r",
+        "cid": "bafyreicopeleadrdeaybgiyw4ynpy72atggsm2xoigjw6g4l4bustqm7qi",
+        "author": {
+          "did": "did:plc:dyhferaekcfoi2ralb473wbi",
+          "handle": "thegreenwizard.bsky.social",
+          "displayName": "The Green Wizard",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:dyhferaekcfoi2ralb473wbi/bafkreiai2vwa4jpqwzqbbhh4u6mqr6kcombzrhfiyjjxqynjopuyj64yse@jpeg",
+          "associated": {
+            "chat": {
+              "allowIncoming": "following"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctusxga2q"
+          },
+          "labels": [],
+          "createdAt": "2023-09-20T21:06:29.785Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2024-12-24T23:37:22.863Z",
+          "langs": [
+            "en"
+          ],
+          "reply": {
+            "parent": {
+              "cid": "bafyreihyt6ldliro33vgowpvyq6resizf6soj7qoujwdfvr2rwwmj55ul4",
+              "uri": "at://did:plc:bzmbo74r5yhiuj4m4rnrlehi/app.bsky.feed.post/3le3mcffugs2r"
+            },
+            "root": {
+              "cid": "bafyreifiibl6hroaxxhugt246hfbhz36p4gohnv6oi4mp5e53eiiqrath4",
+              "uri": "at://did:plc:dyhferaekcfoi2ralb473wbi/app.bsky.feed.post/3le3bcvg53c2z"
+            }
+          },
+          "text": "Ha ha! Even my apprentice is getting in on the fun \ud83d\ude05\n\nToo late Abigail the jig is up!"
+        },
+        "replyCount": 0,
+        "repostCount": 0,
+        "likeCount": 0,
+        "quoteCount": 0,
+        "indexedAt": "2024-12-24T23:37:23.352Z",
+        "viewer": {
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      }
+    ]
+  }
+}

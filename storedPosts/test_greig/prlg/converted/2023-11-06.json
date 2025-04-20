@@ -1,0 +1,45 @@
+{
+  "mainPosts": [
+    {
+      "uri": "at://did:plc:dyhferaekcfoi2ralb473wbi/app.bsky.feed.post/3kdk67c4yxy2u",
+      "cid": "bafyreifwtjzbijrleb33ds2slnoh3lekh6ansfjl4esxxyxekg34fsy6cu",
+      "author": {
+        "did": "did:plc:dyhferaekcfoi2ralb473wbi",
+        "handle": "thegreenwizard.bsky.social",
+        "displayName": "The Green Wizard",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:dyhferaekcfoi2ralb473wbi/bafkreiai2vwa4jpqwzqbbhh4u6mqr6kcombzrhfiyjjxqynjopuyj64yse@jpeg",
+        "associated": {
+          "chat": {
+            "allowIncoming": "following"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "blockedBy": false,
+          "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctusxga2q"
+        },
+        "labels": [],
+        "createdAt": "2023-09-20T21:06:29.785Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2023-11-06T19:41:31.125Z",
+        "langs": [
+          "en"
+        ],
+        "text": "The Archmage and I feel there are many wizards prioritizing their personal desires over the well-being of our realm! \ud83d\udcc9"
+      },
+      "replyCount": 0,
+      "repostCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "indexedAt": "2023-11-06T19:41:31.125Z",
+      "viewer": {
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    }
+  ],
+  "replies": {}
+}

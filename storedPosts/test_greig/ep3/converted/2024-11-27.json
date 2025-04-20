@@ -1,0 +1,475 @@
+{
+  "mainPosts": [
+    {
+      "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lbvp7j4a4k2u",
+      "cid": "bafyreiabdzkv6plzfhua53wdziyjoin55gapdow36c233baistxyq5mqr4",
+      "author": {
+        "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl",
+        "handle": "thebluewizard.bsky.social",
+        "displayName": "The Blue Wizard",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2zz4sojwnqgfyxycbwgdqoyl/bafkreiddbibr65lhfedmoarrqh7szrr4oqv5dfjewzic5mwaluk4q7r65a@jpeg",
+        "viewer": {
+          "muted": false,
+          "blockedBy": false,
+          "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctp2puc2y",
+          "followedBy": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.graph.follow/3lbq76d5mi32b"
+        },
+        "labels": [],
+        "createdAt": "2023-10-19T17:52:42.784Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2024-11-27T04:20:58.835Z",
+        "langs": [
+          "en"
+        ],
+        "text": "I have plenty of gardening tools and have no reason to steal them from anyone!"
+      },
+      "replyCount": 1,
+      "repostCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "indexedAt": "2024-11-27T04:20:59.048Z",
+      "viewer": {
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    {
+      "uri": "at://did:plc:vbox4xiuep2vn6fy6uwo6bus/app.bsky.feed.post/3lbx55w6huk23",
+      "cid": "bafyreieeottd44z2vbax3hmgr2s5qnbhmhqiy5cmohn4qg2lk5tcofkc7y",
+      "author": {
+        "did": "did:plc:vbox4xiuep2vn6fy6uwo6bus",
+        "handle": "grenman.bsky.social",
+        "displayName": "Grenman",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:vbox4xiuep2vn6fy6uwo6bus/bafkreiaokf2ia5zj67rhibo4r2r3354magwfznnvav3viek2qkveanqioa@jpeg",
+        "viewer": {
+          "muted": false,
+          "blockedBy": false,
+          "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctwipsa22"
+        },
+        "labels": [],
+        "createdAt": "2024-10-31T05:31:27.929Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2024-11-27T18:03:17.555Z",
+        "embed": {
+          "$type": "app.bsky.embed.record",
+          "record": {
+            "cid": "bafyreigslqym3piz5tzm7pnorrlqgvfk6l7szgrqz7a2dw4f3d4jzlqn6a",
+            "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lbw4cjrwh22l"
+          }
+        },
+        "facets": [
+          {
+            "$type": "app.bsky.richtext.facet",
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#mention",
+                "did": "did:plc:n4b4yhpiwb6a5e5ird3hmaqq"
+              }
+            ],
+            "index": {
+              "byteEnd": 27,
+              "byteStart": 0
+            }
+          },
+          {
+            "$type": "app.bsky.richtext.facet",
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#mention",
+                "did": "did:plc:dyhferaekcfoi2ralb473wbi"
+              }
+            ],
+            "index": {
+              "byteEnd": 56,
+              "byteStart": 29
+            }
+          }
+        ],
+        "langs": [
+          "en"
+        ],
+        "text": "@thearchmage673.bsky.social \n@thegreenwizard.bsky.social\n \nUMM \ud83d\udc47"
+      },
+      "embed": {
+        "$type": "app.bsky.embed.record#view",
+        "record": {
+          "$type": "app.bsky.embed.record#viewRecord",
+          "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lbw4cjrwh22l",
+          "cid": "bafyreigslqym3piz5tzm7pnorrlqgvfk6l7szgrqz7a2dw4f3d4jzlqn6a",
+          "author": {
+            "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl",
+            "handle": "thebluewizard.bsky.social",
+            "displayName": "The Blue Wizard",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2zz4sojwnqgfyxycbwgdqoyl/bafkreiddbibr65lhfedmoarrqh7szrr4oqv5dfjewzic5mwaluk4q7r65a@jpeg",
+            "viewer": {
+              "muted": false,
+              "blockedBy": false,
+              "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctp2puc2y",
+              "followedBy": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.graph.follow/3lbq76d5mi32b"
+            },
+            "labels": [],
+            "createdAt": "2023-10-19T17:52:42.784Z"
+          },
+          "value": {
+            "$type": "app.bsky.feed.post",
+            "createdAt": "2024-11-27T08:15:18.852Z",
+            "langs": [
+              "en"
+            ],
+            "reply": {
+              "parent": {
+                "cid": "bafyreib77pocm4vojgqicbl4yj4ufwtfisk3uf5u37qweqeyugmott37mu",
+                "uri": "at://did:plc:vbox4xiuep2vn6fy6uwo6bus/app.bsky.feed.post/3lbvzwp2ooc23"
+              },
+              "root": {
+                "cid": "bafyreiabdzkv6plzfhua53wdziyjoin55gapdow36c233baistxyq5mqr4",
+                "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lbvp7j4a4k2u"
+              }
+            },
+            "text": "I think you know perfectly well. It seems every home owner whose roof I fixed are missing gardening tools."
+          },
+          "labels": [],
+          "likeCount": 1,
+          "replyCount": 1,
+          "repostCount": 0,
+          "quoteCount": 1,
+          "indexedAt": "2024-11-27T08:15:18.952Z",
+          "embeds": []
+        }
+      },
+      "replyCount": 2,
+      "repostCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "indexedAt": "2024-11-27T18:03:18.666Z",
+      "viewer": {
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    }
+  ],
+  "replies": {
+    "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lbvp7j4a4k2u": [
+      {
+        "uri": "at://did:plc:vbox4xiuep2vn6fy6uwo6bus/app.bsky.feed.post/3lbvzwp2ooc23",
+        "cid": "bafyreib77pocm4vojgqicbl4yj4ufwtfisk3uf5u37qweqeyugmott37mu",
+        "author": {
+          "did": "did:plc:vbox4xiuep2vn6fy6uwo6bus",
+          "handle": "grenman.bsky.social",
+          "displayName": "Grenman",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:vbox4xiuep2vn6fy6uwo6bus/bafkreiaokf2ia5zj67rhibo4r2r3354magwfznnvav3viek2qkveanqioa@jpeg",
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctwipsa22"
+          },
+          "labels": [],
+          "createdAt": "2024-10-31T05:31:27.929Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2024-11-27T07:32:54.245Z",
+          "langs": [
+            "en"
+          ],
+          "reply": {
+            "parent": {
+              "cid": "bafyreiabdzkv6plzfhua53wdziyjoin55gapdow36c233baistxyq5mqr4",
+              "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lbvp7j4a4k2u"
+            },
+            "root": {
+              "cid": "bafyreiabdzkv6plzfhua53wdziyjoin55gapdow36c233baistxyq5mqr4",
+              "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lbvp7j4a4k2u"
+            }
+          },
+          "text": "Interesting why do you feel compelled to mention this"
+        },
+        "replyCount": 1,
+        "repostCount": 0,
+        "likeCount": 0,
+        "quoteCount": 0,
+        "indexedAt": "2024-11-27T07:32:53.453Z",
+        "viewer": {
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      }
+    ],
+    "at://did:plc:vbox4xiuep2vn6fy6uwo6bus/app.bsky.feed.post/3lbvzwp2ooc23": [
+      {
+        "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lbw4cjrwh22l",
+        "cid": "bafyreigslqym3piz5tzm7pnorrlqgvfk6l7szgrqz7a2dw4f3d4jzlqn6a",
+        "author": {
+          "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl",
+          "handle": "thebluewizard.bsky.social",
+          "displayName": "The Blue Wizard",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2zz4sojwnqgfyxycbwgdqoyl/bafkreiddbibr65lhfedmoarrqh7szrr4oqv5dfjewzic5mwaluk4q7r65a@jpeg",
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctp2puc2y",
+            "followedBy": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.graph.follow/3lbq76d5mi32b"
+          },
+          "labels": [],
+          "createdAt": "2023-10-19T17:52:42.784Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2024-11-27T08:15:18.852Z",
+          "langs": [
+            "en"
+          ],
+          "reply": {
+            "parent": {
+              "cid": "bafyreib77pocm4vojgqicbl4yj4ufwtfisk3uf5u37qweqeyugmott37mu",
+              "uri": "at://did:plc:vbox4xiuep2vn6fy6uwo6bus/app.bsky.feed.post/3lbvzwp2ooc23"
+            },
+            "root": {
+              "cid": "bafyreiabdzkv6plzfhua53wdziyjoin55gapdow36c233baistxyq5mqr4",
+              "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lbvp7j4a4k2u"
+            }
+          },
+          "text": "I think you know perfectly well. It seems every home owner whose roof I fixed are missing gardening tools."
+        },
+        "replyCount": 1,
+        "repostCount": 0,
+        "likeCount": 1,
+        "quoteCount": 1,
+        "indexedAt": "2024-11-27T08:15:18.952Z",
+        "viewer": {
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      }
+    ],
+    "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lbw4cjrwh22l": [
+      {
+        "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lbw4jl6vus2l",
+        "cid": "bafyreibfqq4bi4pllarbykpa4xdlkn7xhaoyjqhqrgn5howkrxgis62zi4",
+        "author": {
+          "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl",
+          "handle": "thebluewizard.bsky.social",
+          "displayName": "The Blue Wizard",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2zz4sojwnqgfyxycbwgdqoyl/bafkreiddbibr65lhfedmoarrqh7szrr4oqv5dfjewzic5mwaluk4q7r65a@jpeg",
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctp2puc2y",
+            "followedBy": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.graph.follow/3lbq76d5mi32b"
+          },
+          "labels": [],
+          "createdAt": "2023-10-19T17:52:42.784Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2024-11-27T08:19:15.208Z",
+          "langs": [
+            "en"
+          ],
+          "reply": {
+            "parent": {
+              "cid": "bafyreigslqym3piz5tzm7pnorrlqgvfk6l7szgrqz7a2dw4f3d4jzlqn6a",
+              "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lbw4cjrwh22l"
+            },
+            "root": {
+              "cid": "bafyreiabdzkv6plzfhua53wdziyjoin55gapdow36c233baistxyq5mqr4",
+              "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lbvp7j4a4k2u"
+            }
+          },
+          "text": "Don't you and your 'boss' have better things to do than to sabotage my volunteer work?"
+        },
+        "replyCount": 1,
+        "repostCount": 0,
+        "likeCount": 1,
+        "quoteCount": 0,
+        "indexedAt": "2024-11-27T08:19:15.058Z",
+        "viewer": {
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      }
+    ],
+    "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lbw4jl6vus2l": [
+      {
+        "uri": "at://did:plc:vbox4xiuep2vn6fy6uwo6bus/app.bsky.feed.post/3lbx52iob4223",
+        "cid": "bafyreidybm62jk47xkxaqbbtepyusrqghxitycrfb5i2doouqdjqhtzrza",
+        "author": {
+          "did": "did:plc:vbox4xiuep2vn6fy6uwo6bus",
+          "handle": "grenman.bsky.social",
+          "displayName": "Grenman",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:vbox4xiuep2vn6fy6uwo6bus/bafkreiaokf2ia5zj67rhibo4r2r3354magwfznnvav3viek2qkveanqioa@jpeg",
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctwipsa22"
+          },
+          "labels": [],
+          "createdAt": "2024-10-31T05:31:27.929Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2024-11-27T18:01:22.728Z",
+          "langs": [
+            "en"
+          ],
+          "reply": {
+            "parent": {
+              "cid": "bafyreibfqq4bi4pllarbykpa4xdlkn7xhaoyjqhqrgn5howkrxgis62zi4",
+              "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lbw4jl6vus2l"
+            },
+            "root": {
+              "cid": "bafyreiabdzkv6plzfhua53wdziyjoin55gapdow36c233baistxyq5mqr4",
+              "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lbvp7j4a4k2u"
+            }
+          },
+          "text": "I don't have a boss I run a successful apothecary"
+        },
+        "replyCount": 0,
+        "repostCount": 0,
+        "likeCount": 0,
+        "quoteCount": 0,
+        "indexedAt": "2024-11-27T18:01:23.692Z",
+        "viewer": {
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      }
+    ],
+    "at://did:plc:vbox4xiuep2vn6fy6uwo6bus/app.bsky.feed.post/3lbx55w6huk23": [
+      {
+        "uri": "at://did:plc:i7v44yjlao2ogtw53tw5ibu6/app.bsky.feed.post/3lbxc7txq7k2u",
+        "cid": "bafyreicwzq3jiuj7a6fse7kt6iitnl7i7nxyhgdji6ux3bznuqx5vgxwuy",
+        "author": {
+          "did": "did:plc:i7v44yjlao2ogtw53tw5ibu6",
+          "handle": "mervastra.bsky.social",
+          "displayName": "Merv Astra (B.Ws, App. Lev 2)",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:i7v44yjlao2ogtw53tw5ibu6/bafkreieiz3urgqvnkxsd6je27woeldzarq6mftoyfe5bl6nb5eyvt7hd5u@jpeg",
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbscubrws32l",
+            "followedBy": "at://did:plc:i7v44yjlao2ogtw53tw5ibu6/app.bsky.graph.follow/3lbqczrjibi2l"
+          },
+          "labels": [],
+          "createdAt": "2024-11-12T03:02:26.214Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2024-11-27T19:33:51.054Z",
+          "facets": [
+            {
+              "$type": "app.bsky.richtext.facet",
+              "features": [
+                {
+                  "$type": "app.bsky.richtext.facet#mention",
+                  "did": "did:plc:n4b4yhpiwb6a5e5ird3hmaqq"
+                }
+              ],
+              "index": {
+                "byteEnd": 95,
+                "byteStart": 68
+              }
+            },
+            {
+              "$type": "app.bsky.richtext.facet",
+              "features": [
+                {
+                  "$type": "app.bsky.richtext.facet#mention",
+                  "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl"
+                }
+              ],
+              "index": {
+                "byteEnd": 190,
+                "byteStart": 164
+              }
+            }
+          ],
+          "langs": [
+            "en"
+          ],
+          "reply": {
+            "parent": {
+              "cid": "bafyreieeottd44z2vbax3hmgr2s5qnbhmhqiy5cmohn4qg2lk5tcofkc7y",
+              "uri": "at://did:plc:vbox4xiuep2vn6fy6uwo6bus/app.bsky.feed.post/3lbx55w6huk23"
+            },
+            "root": {
+              "cid": "bafyreieeottd44z2vbax3hmgr2s5qnbhmhqiy5cmohn4qg2lk5tcofkc7y",
+              "uri": "at://did:plc:vbox4xiuep2vn6fy6uwo6bus/app.bsky.feed.post/3lbx55w6huk23"
+            }
+          },
+          "text": "Sure - i think if anyone can clarify what's _really_ going on, it's @thearchmage673.bsky.social\n\nThis is such a distraction from the much-needed community work the @thebluewizard.bsky.social and I are doing. \n\nSo lame \ud83e\udd28\ud83d\ude11\ud83d\ude11"
+        },
+        "replyCount": 0,
+        "repostCount": 0,
+        "likeCount": 0,
+        "quoteCount": 0,
+        "indexedAt": "2024-11-27T19:33:52.463Z",
+        "viewer": {
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      },
+      {
+        "uri": "at://did:plc:dyhferaekcfoi2ralb473wbi/app.bsky.feed.post/3lbxkkfo5cc2m",
+        "cid": "bafyreibc4q6p6vbd7cdkt6hq3wyei2hk6dltio32a2hn4vtuaod37gbdtu",
+        "author": {
+          "did": "did:plc:dyhferaekcfoi2ralb473wbi",
+          "handle": "thegreenwizard.bsky.social",
+          "displayName": "The Green Wizard",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:dyhferaekcfoi2ralb473wbi/bafkreiai2vwa4jpqwzqbbhh4u6mqr6kcombzrhfiyjjxqynjopuyj64yse@jpeg",
+          "associated": {
+            "chat": {
+              "allowIncoming": "following"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctusxga2q"
+          },
+          "labels": [],
+          "createdAt": "2023-09-20T21:06:29.785Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2024-11-27T22:02:55.094Z",
+          "langs": [
+            "en"
+          ],
+          "reply": {
+            "parent": {
+              "cid": "bafyreieeottd44z2vbax3hmgr2s5qnbhmhqiy5cmohn4qg2lk5tcofkc7y",
+              "uri": "at://did:plc:vbox4xiuep2vn6fy6uwo6bus/app.bsky.feed.post/3lbx55w6huk23"
+            },
+            "root": {
+              "cid": "bafyreieeottd44z2vbax3hmgr2s5qnbhmhqiy5cmohn4qg2lk5tcofkc7y",
+              "uri": "at://did:plc:vbox4xiuep2vn6fy6uwo6bus/app.bsky.feed.post/3lbx55w6huk23"
+            }
+          },
+          "text": "Looking into this"
+        },
+        "replyCount": 0,
+        "repostCount": 0,
+        "likeCount": 0,
+        "quoteCount": 0,
+        "indexedAt": "2024-11-27T22:02:56.553Z",
+        "viewer": {
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      }
+    ]
+  }
+}

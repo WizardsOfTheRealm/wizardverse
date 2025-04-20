@@ -1,0 +1,376 @@
+{
+  "mainPosts": [
+    {
+      "uri": "at://did:plc:dyhferaekcfoi2ralb473wbi/app.bsky.feed.post/3kdan5xil7d24",
+      "cid": "bafyreie7pslymcsvs3kwaucmi6ghtmiqkbepyjnfvmatvzz6jbx2w6senm",
+      "author": {
+        "did": "did:plc:dyhferaekcfoi2ralb473wbi",
+        "handle": "thegreenwizard.bsky.social",
+        "displayName": "The Green Wizard",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:dyhferaekcfoi2ralb473wbi/bafkreiai2vwa4jpqwzqbbhh4u6mqr6kcombzrhfiyjjxqynjopuyj64yse@jpeg",
+        "associated": {
+          "chat": {
+            "allowIncoming": "following"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "blockedBy": false,
+          "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctusxga2q"
+        },
+        "labels": [],
+        "createdAt": "2023-09-20T21:06:29.785Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2023-11-03T00:42:34.949Z",
+        "langs": [
+          "en"
+        ],
+        "text": "The Blue Wizard is a liar and a thief."
+      },
+      "replyCount": 1,
+      "repostCount": 0,
+      "likeCount": 2,
+      "quoteCount": 0,
+      "indexedAt": "2023-11-03T00:42:34.949Z",
+      "viewer": {
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    {
+      "uri": "at://did:plc:dyhferaekcfoi2ralb473wbi/app.bsky.feed.post/3kdanbmgbbd2k",
+      "cid": "bafyreifmwbm2lazq7kngpgxvtjygemvenxcy6wnitoda7jglnrjwygd5ta",
+      "author": {
+        "did": "did:plc:dyhferaekcfoi2ralb473wbi",
+        "handle": "thegreenwizard.bsky.social",
+        "displayName": "The Green Wizard",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:dyhferaekcfoi2ralb473wbi/bafkreiai2vwa4jpqwzqbbhh4u6mqr6kcombzrhfiyjjxqynjopuyj64yse@jpeg",
+        "associated": {
+          "chat": {
+            "allowIncoming": "following"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "blockedBy": false,
+          "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctusxga2q"
+        },
+        "labels": [],
+        "createdAt": "2023-09-20T21:06:29.785Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2023-11-03T00:44:37.566Z",
+        "facets": [
+          {
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#tag",
+                "tag": "blessed"
+              }
+            ],
+            "index": {
+              "byteEnd": 54,
+              "byteStart": 46
+            }
+          },
+          {
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#tag",
+                "tag": "hustle"
+              }
+            ],
+            "index": {
+              "byteEnd": 62,
+              "byteStart": 55
+            }
+          }
+        ],
+        "langs": [
+          "en"
+        ],
+        "text": "Making a killing on my mandrake root holdings #blessed #hustle"
+      },
+      "replyCount": 1,
+      "repostCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "indexedAt": "2023-11-03T00:44:37.566Z",
+      "viewer": {
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    {
+      "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3kdapzdk55i2p",
+      "cid": "bafyreic2n67ps4dfwo7lpvjaouuyqxpd4oholqi24jjzhqzje2yc5m7dam",
+      "author": {
+        "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl",
+        "handle": "thebluewizard.bsky.social",
+        "displayName": "The Blue Wizard",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2zz4sojwnqgfyxycbwgdqoyl/bafkreiddbibr65lhfedmoarrqh7szrr4oqv5dfjewzic5mwaluk4q7r65a@jpeg",
+        "viewer": {
+          "muted": false,
+          "blockedBy": false,
+          "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctp2puc2y",
+          "followedBy": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.graph.follow/3lbq76d5mi32b"
+        },
+        "labels": [],
+        "createdAt": "2023-10-19T17:52:42.784Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2023-11-03T01:33:41.524Z",
+        "langs": [
+          "en"
+        ],
+        "text": "ROOF LEAKS dampened your mood? 20% of mending spells! Limited time only! (Don't trust the green wizard)"
+      },
+      "replyCount": 0,
+      "repostCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "indexedAt": "2023-11-03T01:33:41.524Z",
+      "viewer": {
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    {
+      "uri": "at://did:plc:dyhferaekcfoi2ralb473wbi/app.bsky.feed.post/3kdcevzsrgl2b",
+      "cid": "bafyreibacfaxjzan4nrs6i3bu5ll6aywelncmovsqyg5b4jq74nobegyku",
+      "author": {
+        "did": "did:plc:dyhferaekcfoi2ralb473wbi",
+        "handle": "thegreenwizard.bsky.social",
+        "displayName": "The Green Wizard",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:dyhferaekcfoi2ralb473wbi/bafkreiai2vwa4jpqwzqbbhh4u6mqr6kcombzrhfiyjjxqynjopuyj64yse@jpeg",
+        "associated": {
+          "chat": {
+            "allowIncoming": "following"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "blockedBy": false,
+          "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctusxga2q"
+        },
+        "labels": [],
+        "createdAt": "2023-09-20T21:06:29.785Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2023-11-03T17:20:19.276Z",
+        "langs": [
+          "en"
+        ],
+        "text": "I just cast the best spell"
+      },
+      "replyCount": 0,
+      "repostCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "indexedAt": "2023-11-03T17:20:19.276Z",
+      "viewer": {
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    {
+      "uri": "at://did:plc:dyhferaekcfoi2ralb473wbi/app.bsky.feed.post/3kdcie7ndoh2r",
+      "cid": "bafyreihirapza6cia7cx7nkjg7yzizlyen4c7g2wmz5fw7zmjrd6cnw23q",
+      "author": {
+        "did": "did:plc:dyhferaekcfoi2ralb473wbi",
+        "handle": "thegreenwizard.bsky.social",
+        "displayName": "The Green Wizard",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:dyhferaekcfoi2ralb473wbi/bafkreiai2vwa4jpqwzqbbhh4u6mqr6kcombzrhfiyjjxqynjopuyj64yse@jpeg",
+        "associated": {
+          "chat": {
+            "allowIncoming": "following"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "blockedBy": false,
+          "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctusxga2q"
+        },
+        "labels": [],
+        "createdAt": "2023-09-20T21:06:29.785Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2023-11-03T18:21:56.411Z",
+        "langs": [
+          "en"
+        ],
+        "text": "Imagine calling yourself a wizard and you can\u2019t even cast a Beam \ud83e\udd23\ud83e\udd23\ud83e\udd23"
+      },
+      "replyCount": 0,
+      "repostCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "indexedAt": "2023-11-03T18:21:56.411Z",
+      "viewer": {
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    }
+  ],
+  "replies": {
+    "at://did:plc:dyhferaekcfoi2ralb473wbi/app.bsky.feed.post/3kdan5xil7d24": [
+      {
+        "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3kdanz7q7c42j",
+        "cid": "bafyreihl25qc2zoyot4evtz4v6jx2qm6qnacqzvvufsatmmeqg4g6wmx3y",
+        "author": {
+          "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl",
+          "handle": "thebluewizard.bsky.social",
+          "displayName": "The Blue Wizard",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2zz4sojwnqgfyxycbwgdqoyl/bafkreiddbibr65lhfedmoarrqh7szrr4oqv5dfjewzic5mwaluk4q7r65a@jpeg",
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctp2puc2y",
+            "followedBy": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.graph.follow/3lbq76d5mi32b"
+          },
+          "labels": [],
+          "createdAt": "2023-10-19T17:52:42.784Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2023-11-03T00:57:50.392Z",
+          "langs": [
+            "en"
+          ],
+          "reply": {
+            "parent": {
+              "cid": "bafyreie7pslymcsvs3kwaucmi6ghtmiqkbepyjnfvmatvzz6jbx2w6senm",
+              "uri": "at://did:plc:dyhferaekcfoi2ralb473wbi/app.bsky.feed.post/3kdan5xil7d24"
+            },
+            "root": {
+              "cid": "bafyreie7pslymcsvs3kwaucmi6ghtmiqkbepyjnfvmatvzz6jbx2w6senm",
+              "uri": "at://did:plc:dyhferaekcfoi2ralb473wbi/app.bsky.feed.post/3kdan5xil7d24"
+            }
+          },
+          "text": "everyone this man is a charlatan and is a danger to himself and the entire realm!"
+        },
+        "replyCount": 0,
+        "repostCount": 0,
+        "likeCount": 0,
+        "quoteCount": 0,
+        "indexedAt": "2023-11-03T00:57:50.392Z",
+        "viewer": {
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      }
+    ],
+    "at://did:plc:dyhferaekcfoi2ralb473wbi/app.bsky.feed.post/3kdanbmgbbd2k": [
+      {
+        "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3kdaoxvxsqc2b",
+        "cid": "bafyreifc4nnoikv7rbp3s4lmfvqkg2elyxg5qu56gjz4d2cmspq2lsac3q",
+        "author": {
+          "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl",
+          "handle": "thebluewizard.bsky.social",
+          "displayName": "The Blue Wizard",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2zz4sojwnqgfyxycbwgdqoyl/bafkreiddbibr65lhfedmoarrqh7szrr4oqv5dfjewzic5mwaluk4q7r65a@jpeg",
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctp2puc2y",
+            "followedBy": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.graph.follow/3lbq76d5mi32b"
+          },
+          "labels": [],
+          "createdAt": "2023-10-19T17:52:42.784Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2023-11-03T01:14:59.514Z",
+          "langs": [
+            "en"
+          ],
+          "reply": {
+            "parent": {
+              "cid": "bafyreifmwbm2lazq7kngpgxvtjygemvenxcy6wnitoda7jglnrjwygd5ta",
+              "uri": "at://did:plc:dyhferaekcfoi2ralb473wbi/app.bsky.feed.post/3kdanbmgbbd2k"
+            },
+            "root": {
+              "cid": "bafyreifmwbm2lazq7kngpgxvtjygemvenxcy6wnitoda7jglnrjwygd5ta",
+              "uri": "at://did:plc:dyhferaekcfoi2ralb473wbi/app.bsky.feed.post/3kdanbmgbbd2k"
+            }
+          },
+          "text": "Side hustle, eh? Guess the 100's of bad reviews of your shoddy spellmanship finally caught up to you"
+        },
+        "replyCount": 1,
+        "repostCount": 0,
+        "likeCount": 0,
+        "quoteCount": 0,
+        "indexedAt": "2023-11-03T01:14:59.514Z",
+        "viewer": {
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      }
+    ],
+    "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3kdaoxvxsqc2b": [
+      {
+        "uri": "at://did:plc:dyhferaekcfoi2ralb473wbi/app.bsky.feed.post/3kdaw3ghsoc2l",
+        "cid": "bafyreih7xw5p7rmpwm5qquh6d4xbgbh5tnfzrkpz5xe3aljf27ioiv7oiq",
+        "author": {
+          "did": "did:plc:dyhferaekcfoi2ralb473wbi",
+          "handle": "thegreenwizard.bsky.social",
+          "displayName": "The Green Wizard",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:dyhferaekcfoi2ralb473wbi/bafkreiai2vwa4jpqwzqbbhh4u6mqr6kcombzrhfiyjjxqynjopuyj64yse@jpeg",
+          "associated": {
+            "chat": {
+              "allowIncoming": "following"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctusxga2q"
+          },
+          "labels": [],
+          "createdAt": "2023-09-20T21:06:29.785Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2023-11-03T03:22:14.522Z",
+          "langs": [
+            "en"
+          ],
+          "reply": {
+            "parent": {
+              "cid": "bafyreifc4nnoikv7rbp3s4lmfvqkg2elyxg5qu56gjz4d2cmspq2lsac3q",
+              "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3kdaoxvxsqc2b"
+            },
+            "root": {
+              "cid": "bafyreifmwbm2lazq7kngpgxvtjygemvenxcy6wnitoda7jglnrjwygd5ta",
+              "uri": "at://did:plc:dyhferaekcfoi2ralb473wbi/app.bsky.feed.post/3kdanbmgbbd2k"
+            }
+          },
+          "text": "\ud83d\ude44"
+        },
+        "replyCount": 0,
+        "repostCount": 0,
+        "likeCount": 0,
+        "quoteCount": 0,
+        "indexedAt": "2023-11-03T03:22:14.522Z",
+        "viewer": {
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      }
+    ]
+  }
+}

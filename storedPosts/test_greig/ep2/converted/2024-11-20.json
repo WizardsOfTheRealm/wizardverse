@@ -1,0 +1,502 @@
+{
+  "mainPosts": [
+    {
+      "uri": "at://did:plc:n4b4yhpiwb6a5e5ird3hmaqq/app.bsky.feed.post/3lbdyqbp43s2t",
+      "cid": "bafyreibjvztecoo7ywubvcj3ybq5rh7ujz7tej7mvpst4qgxrmmsuaocjm",
+      "author": {
+        "did": "did:plc:n4b4yhpiwb6a5e5ird3hmaqq",
+        "handle": "thearchmage673.bsky.social",
+        "displayName": "The 673rd Archmage",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:n4b4yhpiwb6a5e5ird3hmaqq/bafkreih4r25j25vvoyfgsxgkahuauciinqqwyvxtiplmiq5urvipmtcpee@jpeg",
+        "viewer": {
+          "muted": false,
+          "blockedBy": false,
+          "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctrco3b2r",
+          "followedBy": "at://did:plc:n4b4yhpiwb6a5e5ird3hmaqq/app.bsky.graph.follow/3lc2wxoi7v72b"
+        },
+        "labels": [],
+        "createdAt": "2024-11-12T02:45:05.805Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2024-11-20T03:23:29.876Z",
+        "langs": [
+          "en"
+        ],
+        "text": "Eye of the watcher \ud83d\udc41\ufe0f\n\nFace of the clock \ud83d\udd70\ufe0f\n\nHand of the phantom \ud83e\udeac\n\nThe word of the fool\ud83e\ude9e\n\n\ud83d\udd51"
+      },
+      "replyCount": 0,
+      "repostCount": 0,
+      "likeCount": 3,
+      "quoteCount": 0,
+      "indexedAt": "2024-11-20T03:23:30.095Z",
+      "viewer": {
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    {
+      "uri": "at://did:plc:dyhferaekcfoi2ralb473wbi/app.bsky.feed.post/3lbdyyqiurs2t",
+      "cid": "bafyreiayraj3t6alsvpkwvnf4yvkmfhg6zxhymqudvmc2qmyesj374lr5a",
+      "author": {
+        "did": "did:plc:dyhferaekcfoi2ralb473wbi",
+        "handle": "thegreenwizard.bsky.social",
+        "displayName": "The Green Wizard",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:dyhferaekcfoi2ralb473wbi/bafkreiai2vwa4jpqwzqbbhh4u6mqr6kcombzrhfiyjjxqynjopuyj64yse@jpeg",
+        "associated": {
+          "chat": {
+            "allowIncoming": "following"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "blockedBy": false,
+          "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctusxga2q"
+        },
+        "labels": [],
+        "createdAt": "2023-09-20T21:06:29.785Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2024-11-20T03:28:13.835Z",
+        "langs": [
+          "en"
+        ],
+        "text": "Your trust in me is very touching \n\nI will do my best to help each and every one of you"
+      },
+      "replyCount": 1,
+      "repostCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "indexedAt": "2024-11-20T03:28:14.291Z",
+      "viewer": {
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    {
+      "uri": "at://did:plc:4txdhorbcx24kazscyt4htpe/app.bsky.feed.post/3lbebpr7a3k24",
+      "cid": "bafyreidqpcluajylxfvigcgwbmuqv2cufzojyqtxn23a5xfugdkf5tbo74",
+      "author": {
+        "did": "did:plc:4txdhorbcx24kazscyt4htpe",
+        "handle": "barrnt.bsky.social",
+        "displayName": "Barnt",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:4txdhorbcx24kazscyt4htpe/bafkreigon4plafbivzit7xgn4g5kfeqscvoxy3uvnebyiw2a47skk7lwvm@jpeg",
+        "viewer": {
+          "muted": false,
+          "blockedBy": false
+        },
+        "labels": [],
+        "createdAt": "2024-11-20T05:28:59.170Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2024-11-20T06:04:16.254Z",
+        "langs": [
+          "en"
+        ],
+        "text": "barnt hides in bushes having funnnn"
+      },
+      "replyCount": 1,
+      "repostCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "indexedAt": "2024-11-20T06:04:16.871Z",
+      "viewer": {
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    {
+      "uri": "at://did:plc:dyhferaekcfoi2ralb473wbi/app.bsky.feed.post/3lbebjp7ims2t",
+      "cid": "bafyreigj2kn2fh4qgveux4xc7p4aglsi6fqw5r4lauteuheyttisolxlty",
+      "author": {
+        "did": "did:plc:dyhferaekcfoi2ralb473wbi",
+        "handle": "thegreenwizard.bsky.social",
+        "displayName": "The Green Wizard",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:dyhferaekcfoi2ralb473wbi/bafkreiai2vwa4jpqwzqbbhh4u6mqr6kcombzrhfiyjjxqynjopuyj64yse@jpeg",
+        "associated": {
+          "chat": {
+            "allowIncoming": "following"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "blockedBy": false,
+          "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctusxga2q"
+        },
+        "labels": [],
+        "createdAt": "2023-09-20T21:06:29.785Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2024-11-20T06:00:52.839Z",
+        "embed": {
+          "$type": "app.bsky.embed.video",
+          "aspectRatio": {
+            "height": 1920,
+            "width": 1080
+          },
+          "video": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreiev3j3o5wbcsqpelxb3n6ebc4chkjvgq7vt4aguur4nqoqcm3furi"
+            },
+            "mimeType": "video/mp4",
+            "size": 2696813
+          }
+        },
+        "facets": [
+          {
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#tag",
+                "tag": "greenfam"
+              }
+            ],
+            "index": {
+              "byteEnd": 110,
+              "byteStart": 101
+            }
+          },
+          {
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#tag",
+                "tag": "healing"
+              }
+            ],
+            "index": {
+              "byteEnd": 119,
+              "byteStart": 111
+            }
+          },
+          {
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#tag",
+                "tag": "asmr"
+              }
+            ],
+            "index": {
+              "byteEnd": 125,
+              "byteStart": 120
+            }
+          }
+        ],
+        "langs": [
+          "en"
+        ],
+        "text": "Here\u2019s a little healing magic I\u2019ve been sharing with all those who have chosen to become family! #greenfam #healing #asmr"
+      },
+      "embed": {
+        "$type": "app.bsky.embed.video#view",
+        "cid": "bafkreiev3j3o5wbcsqpelxb3n6ebc4chkjvgq7vt4aguur4nqoqcm3furi",
+        "playlist": "https://video.bsky.app/watch/did%3Aplc%3Adyhferaekcfoi2ralb473wbi/bafkreiev3j3o5wbcsqpelxb3n6ebc4chkjvgq7vt4aguur4nqoqcm3furi/playlist.m3u8",
+        "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Adyhferaekcfoi2ralb473wbi/bafkreiev3j3o5wbcsqpelxb3n6ebc4chkjvgq7vt4aguur4nqoqcm3furi/thumbnail.jpg",
+        "aspectRatio": {
+          "height": 1920,
+          "width": 1080
+        }
+      },
+      "replyCount": 1,
+      "repostCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "indexedAt": "2024-11-20T06:00:54.483Z",
+      "viewer": {
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    {
+      "uri": "at://did:plc:4txdhorbcx24kazscyt4htpe/app.bsky.feed.post/3lbfzxjx7oc2m",
+      "cid": "bafyreicw3hv47tpm5ei6vmftnislh7s5hn5g4lxxvpyf7a26higozp6ijq",
+      "author": {
+        "did": "did:plc:4txdhorbcx24kazscyt4htpe",
+        "handle": "barrnt.bsky.social",
+        "displayName": "Barnt",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:4txdhorbcx24kazscyt4htpe/bafkreigon4plafbivzit7xgn4g5kfeqscvoxy3uvnebyiw2a47skk7lwvm@jpeg",
+        "viewer": {
+          "muted": false,
+          "blockedBy": false
+        },
+        "labels": [],
+        "createdAt": "2024-11-20T05:28:59.170Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2024-11-20T22:50:46.629Z",
+        "langs": [
+          "en"
+        ],
+        "text": "barnt found a better food"
+      },
+      "replyCount": 0,
+      "repostCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "indexedAt": "2024-11-20T22:50:47.176Z",
+      "viewer": {
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    {
+      "uri": "at://did:plc:4txdhorbcx24kazscyt4htpe/app.bsky.feed.post/3lbg2zd7llk2m",
+      "cid": "bafyreigqpvqstn4jamacdlzqqllk7rbyle2sx2yfny5uxrx5lexxxir4p4",
+      "author": {
+        "did": "did:plc:4txdhorbcx24kazscyt4htpe",
+        "handle": "barrnt.bsky.social",
+        "displayName": "Barnt",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:4txdhorbcx24kazscyt4htpe/bafkreigon4plafbivzit7xgn4g5kfeqscvoxy3uvnebyiw2a47skk7lwvm@jpeg",
+        "viewer": {
+          "muted": false,
+          "blockedBy": false
+        },
+        "labels": [],
+        "createdAt": "2024-11-20T05:28:59.170Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2024-11-20T23:09:40.414Z",
+        "langs": [
+          "en"
+        ],
+        "text": "barnt feel strong and good"
+      },
+      "replyCount": 0,
+      "repostCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "indexedAt": "2024-11-20T23:09:40.898Z",
+      "viewer": {
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    }
+  ],
+  "replies": {
+    "at://did:plc:dyhferaekcfoi2ralb473wbi/app.bsky.feed.post/3lbdyyqiurs2t": [
+      {
+        "uri": "at://did:plc:4txdhorbcx24kazscyt4htpe/app.bsky.feed.post/3lbeaijhm4c2m",
+        "cid": "bafyreidblqarwrhs3ekl5qu62663tohkbfmnal7orgaohbfusekqfz2hqy",
+        "author": {
+          "did": "did:plc:4txdhorbcx24kazscyt4htpe",
+          "handle": "barrnt.bsky.social",
+          "displayName": "Barnt",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:4txdhorbcx24kazscyt4htpe/bafkreigon4plafbivzit7xgn4g5kfeqscvoxy3uvnebyiw2a47skk7lwvm@jpeg",
+          "viewer": {
+            "muted": false,
+            "blockedBy": false
+          },
+          "labels": [],
+          "createdAt": "2024-11-20T05:28:59.170Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2024-11-20T05:42:19.517Z",
+          "langs": [
+            "en"
+          ],
+          "reply": {
+            "parent": {
+              "cid": "bafyreiayraj3t6alsvpkwvnf4yvkmfhg6zxhymqudvmc2qmyesj374lr5a",
+              "uri": "at://did:plc:dyhferaekcfoi2ralb473wbi/app.bsky.feed.post/3lbdyyqiurs2t"
+            },
+            "root": {
+              "cid": "bafyreiayraj3t6alsvpkwvnf4yvkmfhg6zxhymqudvmc2qmyesj374lr5a",
+              "uri": "at://did:plc:dyhferaekcfoi2ralb473wbi/app.bsky.feed.post/3lbdyyqiurs2t"
+            }
+          },
+          "text": "oh thank father wizard barnt feel so much better!"
+        },
+        "replyCount": 0,
+        "repostCount": 0,
+        "likeCount": 0,
+        "quoteCount": 0,
+        "indexedAt": "2024-11-20T05:42:19.876Z",
+        "viewer": {
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      }
+    ],
+    "at://did:plc:4txdhorbcx24kazscyt4htpe/app.bsky.feed.post/3lbebpr7a3k24": [
+      {
+        "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lbgszjvng22y",
+        "cid": "bafyreid6nsr757hhiqtlflj7n7kmemfppfykjoui4x6m6damhppeednrou",
+        "author": {
+          "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl",
+          "handle": "thebluewizard.bsky.social",
+          "displayName": "The Blue Wizard",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2zz4sojwnqgfyxycbwgdqoyl/bafkreiddbibr65lhfedmoarrqh7szrr4oqv5dfjewzic5mwaluk4q7r65a@jpeg",
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctp2puc2y",
+            "followedBy": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.graph.follow/3lbq76d5mi32b"
+          },
+          "labels": [],
+          "createdAt": "2023-10-19T17:52:42.784Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2024-11-21T06:19:17.233Z",
+          "langs": [
+            "en"
+          ],
+          "reply": {
+            "parent": {
+              "cid": "bafyreidqpcluajylxfvigcgwbmuqv2cufzojyqtxn23a5xfugdkf5tbo74",
+              "uri": "at://did:plc:4txdhorbcx24kazscyt4htpe/app.bsky.feed.post/3lbebpr7a3k24"
+            },
+            "root": {
+              "cid": "bafyreidqpcluajylxfvigcgwbmuqv2cufzojyqtxn23a5xfugdkf5tbo74",
+              "uri": "at://did:plc:4txdhorbcx24kazscyt4htpe/app.bsky.feed.post/3lbebpr7a3k24"
+            }
+          },
+          "text": "Abomination! where is the real Barnt??"
+        },
+        "replyCount": 0,
+        "repostCount": 0,
+        "likeCount": 0,
+        "quoteCount": 0,
+        "indexedAt": "2024-11-21T06:19:17.384Z",
+        "viewer": {
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      }
+    ],
+    "at://did:plc:dyhferaekcfoi2ralb473wbi/app.bsky.feed.post/3lbebjp7ims2t": [
+      {
+        "uri": "at://did:plc:i7v44yjlao2ogtw53tw5ibu6/app.bsky.feed.post/3lbgst2mkms2y",
+        "cid": "bafyreibkctrghojegolgvx5cal6gq7ja2omzivnlbheweloozyqrf374ru",
+        "author": {
+          "did": "did:plc:i7v44yjlao2ogtw53tw5ibu6",
+          "handle": "mervastra.bsky.social",
+          "displayName": "Merv Astra (B.Ws, App. Lev 2)",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:i7v44yjlao2ogtw53tw5ibu6/bafkreieiz3urgqvnkxsd6je27woeldzarq6mftoyfe5bl6nb5eyvt7hd5u@jpeg",
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbscubrws32l",
+            "followedBy": "at://did:plc:i7v44yjlao2ogtw53tw5ibu6/app.bsky.graph.follow/3lbqczrjibi2l"
+          },
+          "labels": [],
+          "createdAt": "2024-11-12T03:02:26.214Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2024-11-21T06:15:39.878Z",
+          "embed": {
+            "$type": "app.bsky.embed.external",
+            "external": {
+              "description": "ALT: an optical illusion of a triangle on a checkered background .",
+              "thumb": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreihpjyihuuan22umcscuxfsoptkpydd3vd2ma2gqftnqvwyr2vcjbm"
+                },
+                "mimeType": "image/jpeg",
+                "size": 275099
+              },
+              "title": "an optical illusion of a triangle on a checkered background .",
+              "uri": "https://media.tenor.com/jkbBQFuOx_0AAAAC/trippy-illusion.gif?hh=498&ww=498"
+            }
+          },
+          "langs": [
+            "en"
+          ],
+          "reply": {
+            "parent": {
+              "cid": "bafyreigj2kn2fh4qgveux4xc7p4aglsi6fqw5r4lauteuheyttisolxlty",
+              "uri": "at://did:plc:dyhferaekcfoi2ralb473wbi/app.bsky.feed.post/3lbebjp7ims2t"
+            },
+            "root": {
+              "cid": "bafyreigj2kn2fh4qgveux4xc7p4aglsi6fqw5r4lauteuheyttisolxlty",
+              "uri": "at://did:plc:dyhferaekcfoi2ralb473wbi/app.bsky.feed.post/3lbebjp7ims2t"
+            }
+          },
+          "text": "ashargos! mialonos! nerka kisutch!\n\nthe curse is countered!"
+        },
+        "embed": {
+          "$type": "app.bsky.embed.external#view",
+          "external": {
+            "uri": "https://media.tenor.com/jkbBQFuOx_0AAAAC/trippy-illusion.gif?hh=498&ww=498",
+            "title": "an optical illusion of a triangle on a checkered background .",
+            "description": "ALT: an optical illusion of a triangle on a checkered background .",
+            "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:i7v44yjlao2ogtw53tw5ibu6/bafkreihpjyihuuan22umcscuxfsoptkpydd3vd2ma2gqftnqvwyr2vcjbm@jpeg"
+          }
+        },
+        "replyCount": 1,
+        "repostCount": 0,
+        "likeCount": 0,
+        "quoteCount": 0,
+        "indexedAt": "2024-11-21T06:15:41.875Z",
+        "viewer": {
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      }
+    ],
+    "at://did:plc:i7v44yjlao2ogtw53tw5ibu6/app.bsky.feed.post/3lbgst2mkms2y": [
+      {
+        "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lbgsw4duts2y",
+        "cid": "bafyreicm7bhbrbd5hstyezfvntayqfcxmkl65ini36mqepjoxv4brh426a",
+        "author": {
+          "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl",
+          "handle": "thebluewizard.bsky.social",
+          "displayName": "The Blue Wizard",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2zz4sojwnqgfyxycbwgdqoyl/bafkreiddbibr65lhfedmoarrqh7szrr4oqv5dfjewzic5mwaluk4q7r65a@jpeg",
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctp2puc2y",
+            "followedBy": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.graph.follow/3lbq76d5mi32b"
+          },
+          "labels": [],
+          "createdAt": "2023-10-19T17:52:42.784Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2024-11-21T06:17:22.355Z",
+          "langs": [
+            "en"
+          ],
+          "reply": {
+            "parent": {
+              "cid": "bafyreibkctrghojegolgvx5cal6gq7ja2omzivnlbheweloozyqrf374ru",
+              "uri": "at://did:plc:i7v44yjlao2ogtw53tw5ibu6/app.bsky.feed.post/3lbgst2mkms2y"
+            },
+            "root": {
+              "cid": "bafyreigj2kn2fh4qgveux4xc7p4aglsi6fqw5r4lauteuheyttisolxlty",
+              "uri": "at://did:plc:dyhferaekcfoi2ralb473wbi/app.bsky.feed.post/3lbebjp7ims2t"
+            }
+          },
+          "text": "not bad, my young apprentice!"
+        },
+        "replyCount": 0,
+        "repostCount": 0,
+        "likeCount": 0,
+        "quoteCount": 0,
+        "indexedAt": "2024-11-21T06:17:22.486Z",
+        "viewer": {
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      }
+    ]
+  }
+}

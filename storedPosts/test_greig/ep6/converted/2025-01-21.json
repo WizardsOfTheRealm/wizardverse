@@ -1,0 +1,45 @@
+{
+  "mainPosts": [
+    {
+      "uri": "at://did:plc:dyhferaekcfoi2ralb473wbi/app.bsky.feed.post/3lga7gnms422z",
+      "cid": "bafyreiaypl5hmunyi37neheh3nz2bsqx7cx7zrxe2zso44hfo4em6qsade",
+      "author": {
+        "did": "did:plc:dyhferaekcfoi2ralb473wbi",
+        "handle": "thegreenwizard.bsky.social",
+        "displayName": "The Green Wizard",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:dyhferaekcfoi2ralb473wbi/bafkreiai2vwa4jpqwzqbbhh4u6mqr6kcombzrhfiyjjxqynjopuyj64yse@jpeg",
+        "associated": {
+          "chat": {
+            "allowIncoming": "following"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "blockedBy": false,
+          "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctusxga2q"
+        },
+        "labels": [],
+        "createdAt": "2023-09-20T21:06:29.785Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2025-01-21T06:18:42.206Z",
+        "langs": [
+          "en"
+        ],
+        "text": "Imagine when we get out of here Roy! The antics we\u2019ll pull!\n\nYou\u2019re welcome to stay at my lakeside manor, no charge!"
+      },
+      "replyCount": 0,
+      "repostCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "indexedAt": "2025-01-21T06:18:42.555Z",
+      "viewer": {
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    }
+  ],
+  "replies": {}
+}
