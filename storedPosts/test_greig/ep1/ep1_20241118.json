@@ -1,0 +1,255 @@
+[
+  {
+    "thread": {
+      "$type": "app.bsky.feed.defs#threadViewPost",
+      "post": {
+        "uri": "at://did:plc:dyhferaekcfoi2ralb473wbi/app.bsky.feed.post/3lbb4bgmhjs2n",
+        "cid": "bafyreifinudskuzpjuqpmtntvtb6c5g7y7555yh6hucy76hiv2e43qdxcy",
+        "author": {
+          "did": "did:plc:dyhferaekcfoi2ralb473wbi",
+          "handle": "thegreenwizard.bsky.social",
+          "displayName": "The Green Wizard",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:dyhferaekcfoi2ralb473wbi/bafkreiai2vwa4jpqwzqbbhh4u6mqr6kcombzrhfiyjjxqynjopuyj64yse@jpeg",
+          "associated": {
+            "chat": {
+              "allowIncoming": "following"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctusxga2q"
+          },
+          "labels": [],
+          "createdAt": "2023-09-20T21:06:29.785Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2024-11-18T23:48:47.468Z",
+          "langs": [
+            "en"
+          ],
+          "text": "People think because I\u2019ve attained such heights I\u2019m no longer willing to help common folk\n\nIf you\u2019re feeling sad or lonely or isolated or vulnerable and you have no family or friends and you feel like no one would miss you if you disappeared please reach out and I promise I will be here for you"
+        },
+        "replyCount": 2,
+        "repostCount": 0,
+        "likeCount": 1,
+        "quoteCount": 0,
+        "indexedAt": "2024-11-18T23:48:48.414Z",
+        "viewer": {
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      },
+      "replies": [
+        {
+          "$type": "app.bsky.feed.defs#threadViewPost",
+          "post": {
+            "uri": "at://did:plc:vbox4xiuep2vn6fy6uwo6bus/app.bsky.feed.post/3lbbfyuiqxk2n",
+            "cid": "bafyreialqf4us2az7hpg57wjz2fpz3p5vd6oemzbflsccycrgolqdhggd4",
+            "author": {
+              "did": "did:plc:vbox4xiuep2vn6fy6uwo6bus",
+              "handle": "grenman.bsky.social",
+              "displayName": "Grenman",
+              "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:vbox4xiuep2vn6fy6uwo6bus/bafkreiaokf2ia5zj67rhibo4r2r3354magwfznnvav3viek2qkveanqioa@jpeg",
+              "viewer": {
+                "muted": false,
+                "blockedBy": false,
+                "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctwipsa22"
+              },
+              "labels": [],
+              "createdAt": "2024-10-31T05:31:27.929Z"
+            },
+            "record": {
+              "$type": "app.bsky.feed.post",
+              "createdAt": "2024-11-19T02:42:57.455Z",
+              "langs": [
+                "en"
+              ],
+              "reply": {
+                "parent": {
+                  "cid": "bafyreifinudskuzpjuqpmtntvtb6c5g7y7555yh6hucy76hiv2e43qdxcy",
+                  "uri": "at://did:plc:dyhferaekcfoi2ralb473wbi/app.bsky.feed.post/3lbb4bgmhjs2n"
+                },
+                "root": {
+                  "cid": "bafyreifinudskuzpjuqpmtntvtb6c5g7y7555yh6hucy76hiv2e43qdxcy",
+                  "uri": "at://did:plc:dyhferaekcfoi2ralb473wbi/app.bsky.feed.post/3lbb4bgmhjs2n"
+                }
+              },
+              "text": "If other wizards were half as generous as you the world would be in great shape GW"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-19T02:42:57.931Z",
+            "viewer": {
+              "threadMuted": false,
+              "embeddingDisabled": false
+            },
+            "labels": []
+          },
+          "replies": [],
+          "threadContext": {}
+        },
+        {
+          "$type": "app.bsky.feed.defs#threadViewPost",
+          "post": {
+            "uri": "at://did:plc:qkrs2ei3ebsbwoq6lszwtf53/app.bsky.feed.post/3lbbe7ct2zs2i",
+            "cid": "bafyreigp5nrkc3sjwx4wcfi6od2jheabo7m5ofplbce565uqmiaqd2n4by",
+            "author": {
+              "did": "did:plc:qkrs2ei3ebsbwoq6lszwtf53",
+              "handle": "barnt.bsky.social",
+              "displayName": "Barnt",
+              "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qkrs2ei3ebsbwoq6lszwtf53/bafkreicuodljtbhhvn6zdepghpghciwkfjgpauwsciz5dokuz25iazpwoy@jpeg",
+              "viewer": {
+                "muted": false,
+                "blockedBy": false,
+                "followedBy": "at://did:plc:qkrs2ei3ebsbwoq6lszwtf53/app.bsky.graph.follow/3lku6hkzc3w2h"
+              },
+              "labels": [],
+              "createdAt": "2024-11-12T05:51:14.404Z"
+            },
+            "record": {
+              "$type": "app.bsky.feed.post",
+              "createdAt": "2024-11-19T02:10:46.315Z",
+              "langs": [
+                "en"
+              ],
+              "reply": {
+                "parent": {
+                  "cid": "bafyreifinudskuzpjuqpmtntvtb6c5g7y7555yh6hucy76hiv2e43qdxcy",
+                  "uri": "at://did:plc:dyhferaekcfoi2ralb473wbi/app.bsky.feed.post/3lbb4bgmhjs2n"
+                },
+                "root": {
+                  "cid": "bafyreifinudskuzpjuqpmtntvtb6c5g7y7555yh6hucy76hiv2e43qdxcy",
+                  "uri": "at://did:plc:dyhferaekcfoi2ralb473wbi/app.bsky.feed.post/3lbb4bgmhjs2n"
+                }
+              },
+              "text": "hi mr father wizard, barnt seen bad magic. help barnt?"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-19T02:10:44.612Z",
+            "viewer": {
+              "threadMuted": false,
+              "embeddingDisabled": false
+            },
+            "labels": []
+          },
+          "replies": [
+            {
+              "$type": "app.bsky.feed.defs#threadViewPost",
+              "post": {
+                "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lbbeb3i6ks2i",
+                "cid": "bafyreicani2ny7isrpi6eopdua2diotwwmpbfyfdkvippmbmwkgzlv6gsq",
+                "author": {
+                  "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl",
+                  "handle": "thebluewizard.bsky.social",
+                  "displayName": "The Blue Wizard",
+                  "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2zz4sojwnqgfyxycbwgdqoyl/bafkreiddbibr65lhfedmoarrqh7szrr4oqv5dfjewzic5mwaluk4q7r65a@jpeg",
+                  "viewer": {
+                    "muted": false,
+                    "blockedBy": false,
+                    "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctp2puc2y",
+                    "followedBy": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.graph.follow/3lbq76d5mi32b"
+                  },
+                  "labels": [],
+                  "createdAt": "2023-10-19T17:52:42.784Z"
+                },
+                "record": {
+                  "$type": "app.bsky.feed.post",
+                  "createdAt": "2024-11-19T02:11:45.728Z",
+                  "langs": [
+                    "en"
+                  ],
+                  "reply": {
+                    "parent": {
+                      "cid": "bafyreigp5nrkc3sjwx4wcfi6od2jheabo7m5ofplbce565uqmiaqd2n4by",
+                      "uri": "at://did:plc:qkrs2ei3ebsbwoq6lszwtf53/app.bsky.feed.post/3lbbe7ct2zs2i"
+                    },
+                    "root": {
+                      "cid": "bafyreifinudskuzpjuqpmtntvtb6c5g7y7555yh6hucy76hiv2e43qdxcy",
+                      "uri": "at://did:plc:dyhferaekcfoi2ralb473wbi/app.bsky.feed.post/3lbb4bgmhjs2n"
+                    }
+                  },
+                  "text": "no, Barnt! This is the same _bad_ Wizard. Bad man, Barnt!"
+                },
+                "replyCount": 1,
+                "repostCount": 0,
+                "likeCount": 0,
+                "quoteCount": 0,
+                "indexedAt": "2024-11-19T02:11:44.634Z",
+                "viewer": {
+                  "threadMuted": false,
+                  "embeddingDisabled": false
+                },
+                "labels": []
+              },
+              "replies": [
+                {
+                  "$type": "app.bsky.feed.defs#threadViewPost",
+                  "post": {
+                    "uri": "at://did:plc:qkrs2ei3ebsbwoq6lszwtf53/app.bsky.feed.post/3lbbhm2a53s2i",
+                    "cid": "bafyreigzkhyqh4dyvhw235geixm3i55jbtkt4jk53kfgsxtjxddqqmuspq",
+                    "author": {
+                      "did": "did:plc:qkrs2ei3ebsbwoq6lszwtf53",
+                      "handle": "barnt.bsky.social",
+                      "displayName": "Barnt",
+                      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qkrs2ei3ebsbwoq6lszwtf53/bafkreicuodljtbhhvn6zdepghpghciwkfjgpauwsciz5dokuz25iazpwoy@jpeg",
+                      "viewer": {
+                        "muted": false,
+                        "blockedBy": false,
+                        "followedBy": "at://did:plc:qkrs2ei3ebsbwoq6lszwtf53/app.bsky.graph.follow/3lku6hkzc3w2h"
+                      },
+                      "labels": [],
+                      "createdAt": "2024-11-12T05:51:14.404Z"
+                    },
+                    "record": {
+                      "$type": "app.bsky.feed.post",
+                      "createdAt": "2024-11-19T03:11:34.739Z",
+                      "langs": [
+                        "en"
+                      ],
+                      "reply": {
+                        "parent": {
+                          "cid": "bafyreicani2ny7isrpi6eopdua2diotwwmpbfyfdkvippmbmwkgzlv6gsq",
+                          "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lbbeb3i6ks2i"
+                        },
+                        "root": {
+                          "cid": "bafyreifinudskuzpjuqpmtntvtb6c5g7y7555yh6hucy76hiv2e43qdxcy",
+                          "uri": "at://did:plc:dyhferaekcfoi2ralb473wbi/app.bsky.feed.post/3lbb4bgmhjs2n"
+                        }
+                      },
+                      "text": "no! may the Big Tree protect barnt!"
+                    },
+                    "replyCount": 0,
+                    "repostCount": 0,
+                    "likeCount": 0,
+                    "quoteCount": 0,
+                    "indexedAt": "2024-11-19T03:11:33.532Z",
+                    "viewer": {
+                      "threadMuted": false,
+                      "embeddingDisabled": false
+                    },
+                    "labels": []
+                  },
+                  "replies": [],
+                  "threadContext": {}
+                }
+              ],
+              "threadContext": {}
+            }
+          ],
+          "threadContext": {
+            "rootAuthorLike": "at://did:plc:dyhferaekcfoi2ralb473wbi/app.bsky.feed.like/3lbdywmmvnn2x"
+          }
+        }
+      ],
+      "threadContext": {}
+    }
+  }
+]

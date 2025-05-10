@@ -41,10 +41,10 @@ oldep_dir = "episodes by G"  # TO DO: make loop over all eps
 # epnum = "ep42"
 # oldep_html = "episode 5 - Frankleskas.html"
 # epnum = "ep5"
-oldep_html = "episode 6 - the bugs.html"
-epnum = "ep6"
-# oldep_html = "episode 7 - Roy up to Jan 27.html"
-# epnum = "ep7"
+# oldep_html = "episode 6 - the bugs.html"
+# epnum = "ep6"
+oldep_html = "episode 7 - Roy up to Jan 27.html"
+epnum = "ep7"
 
 
 # Create folder for stored posts if it doesn't exist
@@ -115,7 +115,7 @@ for embed in embeds:
     if response.status_code == 200:
         post_data = response.json()
         # Pretty-print the post JSON (or do whatever you need)
-        print(json.dumps(post_data, indent=2))
+        # print(json.dumps(post_data, indent=2))
     else:
         print(f"Failed to fetch post {uri}: {response.status_code} - {response.text}")
 

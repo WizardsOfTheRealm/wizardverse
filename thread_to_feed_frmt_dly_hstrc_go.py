@@ -1,6 +1,6 @@
 # created: Apr 19 2025 by Blue Wizard
 # Purpose: process daily files produced by worPostGrabberJSON_greig.py
-#          which also returns daily files, formatted as 'threads'
+#          which returns daily files, formatted as 'threads'
 # input:   daily files in wizardverse\storedPosts\test_greig
 # output:  daily files formatted as the CTO requires, as 'List' 
 #          i.e., as 'MainPosts' and 'Replies' in flat format 
@@ -9,9 +9,9 @@ import json
 from datetime import datetime, timedelta
 
 # ========== CONFIGURABLE PARAMETERS ==========
-INPUT_FOLDER = "storedPosts/test_greig/ep6"
+INPUT_FOLDER = "storedPosts/test_greig/prlg"
 OUTPUT_FOLDER = os.path.join(INPUT_FOLDER, "converted")
-INPUT_PREFIX = "ep6_"
+INPUT_PREFIX = "prlg_"
 INPUT_SUFFIX = ".json"
 DATE_FORMAT_INPUT = "%Y%m%d"
 DATE_FORMAT_OUTPUT = "%Y-%m-%d"
@@ -23,8 +23,12 @@ def flatten_replies(thread_view_post, parent_uri=None):
     if not post:
         return replies_dict
 
+    # Inject 'text' at top level
+    if "record" in post and isinstance(post["record"], dict) and "text" in post["record"]:
+        post["text"] = post["record"]["text"]
+
     if parent_uri:
-        replies_dict.setdefault(parent_uri, []).append(post)
+        replies_dict.setdefault(parent_uri, []).append({"post": post})
 
     for reply in thread_view_post.get("replies", []):
         if isinstance(reply, dict) and reply.get("$type") == "app.bsky.feed.defs#threadViewPost":
@@ -46,12 +50,18 @@ def convert_threads_to_main_posts_and_replies(threads):
         if thread and thread.get("$type") == "app.bsky.feed.defs#threadViewPost":
             top_post = thread.get("post")
             if top_post:
-                result["mainPosts"].append(top_post)
+                # Inject 'text' at top level
+                if "record" in top_post and isinstance(top_post["record"], dict) and "text" in top_post["record"]:
+                    top_post["text"] = top_post["record"]["text"]
+
+                result["mainPosts"].append({"post": top_post})
+
                 for reply in thread.get("replies", []):
                     if reply.get("$type") == "app.bsky.feed.defs#threadViewPost":
                         reply_map = flatten_replies(reply, parent_uri=top_post.get("uri"))
                         for uri, reply_list in reply_map.items():
                             result["replies"].setdefault(uri, []).extend(reply_list)
+
     return result
 
 def process_date_range(start_date_str, end_date_str):

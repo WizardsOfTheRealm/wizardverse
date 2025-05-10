@@ -1,0 +1,147 @@
+{
+  "mainPosts": [
+    {
+      "post": {
+        "uri": "at://did:plc:i7v44yjlao2ogtw53tw5ibu6/app.bsky.feed.post/3lglkqmmv6c22",
+        "cid": "bafyreiarhznpj4ae6wbkrm2vxz26zevcrdpr67gb7ymu5xeuvsboqwt3ee",
+        "author": {
+          "did": "did:plc:i7v44yjlao2ogtw53tw5ibu6",
+          "handle": "mervastra.bsky.social",
+          "displayName": "Merv Astra (B.Ws, App. Lev 2)",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:i7v44yjlao2ogtw53tw5ibu6/bafkreibscldp5ja2fnao3stdfkslvt5vhzrfykst3kqtgerydsn5pn6vju@jpeg",
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbscubrws32l",
+            "followedBy": "at://did:plc:i7v44yjlao2ogtw53tw5ibu6/app.bsky.graph.follow/3lbqczrjibi2l"
+          },
+          "labels": [],
+          "createdAt": "2024-11-12T03:02:26.214Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2025-01-25T18:40:24.997Z",
+          "langs": [
+            "en"
+          ],
+          "text": "First Day in The Prism.\ud83c\udf08\ud83d\udd3c\n\nHappy they let me bring Fox! He seems content - he has no trouble finding the sunbeams.\n\nIt's hard to really describe because there is no other space like it. It's quiet - only practitioners of Magic imprismed here, and right now it's just GW, BW, me, Fox (and Roy). \n\n1/3"
+        },
+        "replyCount": 1,
+        "repostCount": 0,
+        "likeCount": 1,
+        "quoteCount": 0,
+        "indexedAt": "2025-01-25T18:40:25.746Z",
+        "viewer": {
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": [],
+        "text": "First Day in The Prism.\ud83c\udf08\ud83d\udd3c\n\nHappy they let me bring Fox! He seems content - he has no trouble finding the sunbeams.\n\nIt's hard to really describe because there is no other space like it. It's quiet - only practitioners of Magic imprismed here, and right now it's just GW, BW, me, Fox (and Roy). \n\n1/3"
+      }
+    }
+  ],
+  "replies": {
+    "at://did:plc:i7v44yjlao2ogtw53tw5ibu6/app.bsky.feed.post/3lglkqmmv6c22": [
+      {
+        "post": {
+          "uri": "at://did:plc:i7v44yjlao2ogtw53tw5ibu6/app.bsky.feed.post/3lgll3nyvmk22",
+          "cid": "bafyreieilrepasmwxfoijqrmofygrj7xqyjnbnxcqvypzyd53le33z55kq",
+          "author": {
+            "did": "did:plc:i7v44yjlao2ogtw53tw5ibu6",
+            "handle": "mervastra.bsky.social",
+            "displayName": "Merv Astra (B.Ws, App. Lev 2)",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:i7v44yjlao2ogtw53tw5ibu6/bafkreibscldp5ja2fnao3stdfkslvt5vhzrfykst3kqtgerydsn5pn6vju@jpeg",
+            "viewer": {
+              "muted": false,
+              "blockedBy": false,
+              "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbscubrws32l",
+              "followedBy": "at://did:plc:i7v44yjlao2ogtw53tw5ibu6/app.bsky.graph.follow/3lbqczrjibi2l"
+            },
+            "labels": [],
+            "createdAt": "2024-11-12T03:02:26.214Z"
+          },
+          "record": {
+            "$type": "app.bsky.feed.post",
+            "createdAt": "2025-01-25T18:46:35.538Z",
+            "langs": [
+              "en"
+            ],
+            "reply": {
+              "parent": {
+                "cid": "bafyreiarhznpj4ae6wbkrm2vxz26zevcrdpr67gb7ymu5xeuvsboqwt3ee",
+                "uri": "at://did:plc:i7v44yjlao2ogtw53tw5ibu6/app.bsky.feed.post/3lglkqmmv6c22"
+              },
+              "root": {
+                "cid": "bafyreiarhznpj4ae6wbkrm2vxz26zevcrdpr67gb7ymu5xeuvsboqwt3ee",
+                "uri": "at://did:plc:i7v44yjlao2ogtw53tw5ibu6/app.bsky.feed.post/3lglkqmmv6c22"
+              }
+            },
+            "text": "From the outside, it looks like a giant glass pyramid. Totally translucent, looks empty - can see right through.\n\nFrom the inside, I can see people and the outlines of walls, cells.\n\nThe walls of rooms inside the Prism are also clear. When you look through, they all look empty.\n\n2/3"
+          },
+          "replyCount": 1,
+          "repostCount": 0,
+          "likeCount": 1,
+          "quoteCount": 0,
+          "indexedAt": "2025-01-25T18:46:36.552Z",
+          "viewer": {
+            "threadMuted": false,
+            "embeddingDisabled": false
+          },
+          "labels": [],
+          "text": "From the outside, it looks like a giant glass pyramid. Totally translucent, looks empty - can see right through.\n\nFrom the inside, I can see people and the outlines of walls, cells.\n\nThe walls of rooms inside the Prism are also clear. When you look through, they all look empty.\n\n2/3"
+        }
+      }
+    ],
+    "at://did:plc:i7v44yjlao2ogtw53tw5ibu6/app.bsky.feed.post/3lgll3nyvmk22": [
+      {
+        "post": {
+          "uri": "at://did:plc:i7v44yjlao2ogtw53tw5ibu6/app.bsky.feed.post/3lgllctqohc22",
+          "cid": "bafyreigqlzlz37fvxm7e2bxitv6nqw4gk65avvdq7hfwjgct4s7td62k3y",
+          "author": {
+            "did": "did:plc:i7v44yjlao2ogtw53tw5ibu6",
+            "handle": "mervastra.bsky.social",
+            "displayName": "Merv Astra (B.Ws, App. Lev 2)",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:i7v44yjlao2ogtw53tw5ibu6/bafkreibscldp5ja2fnao3stdfkslvt5vhzrfykst3kqtgerydsn5pn6vju@jpeg",
+            "viewer": {
+              "muted": false,
+              "blockedBy": false,
+              "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbscubrws32l",
+              "followedBy": "at://did:plc:i7v44yjlao2ogtw53tw5ibu6/app.bsky.graph.follow/3lbqczrjibi2l"
+            },
+            "labels": [],
+            "createdAt": "2024-11-12T03:02:26.214Z"
+          },
+          "record": {
+            "$type": "app.bsky.feed.post",
+            "createdAt": "2025-01-25T18:50:36.441Z",
+            "langs": [
+              "en"
+            ],
+            "reply": {
+              "parent": {
+                "cid": "bafyreieilrepasmwxfoijqrmofygrj7xqyjnbnxcqvypzyd53le33z55kq",
+                "uri": "at://did:plc:i7v44yjlao2ogtw53tw5ibu6/app.bsky.feed.post/3lgll3nyvmk22"
+              },
+              "root": {
+                "cid": "bafyreiarhznpj4ae6wbkrm2vxz26zevcrdpr67gb7ymu5xeuvsboqwt3ee",
+                "uri": "at://did:plc:i7v44yjlao2ogtw53tw5ibu6/app.bsky.feed.post/3lglkqmmv6c22"
+              }
+            },
+            "text": "but go into cells or around walls and there are objects and people! It's very weird.\n\nGW's crazy 'keep'(pillows) suddenly appears if i look through his open cell door.\n\n*sigh* looks like this is home..  for 2000 years? \n\nGot my books \ud83d\udcda , and the bed is fine - better than my bed in the Tower!\n\n3/3"
+          },
+          "replyCount": 0,
+          "repostCount": 0,
+          "likeCount": 1,
+          "quoteCount": 0,
+          "indexedAt": "2025-01-25T18:50:37.648Z",
+          "viewer": {
+            "threadMuted": false,
+            "embeddingDisabled": false
+          },
+          "labels": [],
+          "text": "but go into cells or around walls and there are objects and people! It's very weird.\n\nGW's crazy 'keep'(pillows) suddenly appears if i look through his open cell door.\n\n*sigh* looks like this is home..  for 2000 years? \n\nGot my books \ud83d\udcda , and the bed is fine - better than my bed in the Tower!\n\n3/3"
+        }
+      }
+    ]
+  }
+}

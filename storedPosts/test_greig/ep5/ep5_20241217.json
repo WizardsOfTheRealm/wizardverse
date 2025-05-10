@@ -82,7 +82,7 @@
                   "name": "Wizards of the Realm",
                   "purpose": "app.bsky.graph.defs#curatelist",
                   "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tsrqneix4sgsbvrhz6arbuci/bafkreiggvlgrsqjusbi44uqwot2hf44s7k4apfcgg3s7wkobqqfdbxuscm@jpeg",
-                  "listItemCount": 16,
+                  "listItemCount": 19,
                   "indexedAt": "2024-11-25T00:13:16.751Z",
                   "labels": [],
                   "viewer": {
@@ -534,7 +534,7 @@
                   "did": "did:plc:i7v44yjlao2ogtw53tw5ibu6",
                   "handle": "mervastra.bsky.social",
                   "displayName": "Merv Astra (B.Ws, App. Lev 2)",
-                  "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:i7v44yjlao2ogtw53tw5ibu6/bafkreieiz3urgqvnkxsd6je27woeldzarq6mftoyfe5bl6nb5eyvt7hd5u@jpeg",
+                  "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:i7v44yjlao2ogtw53tw5ibu6/bafkreibscldp5ja2fnao3stdfkslvt5vhzrfykst3kqtgerydsn5pn6vju@jpeg",
                   "viewer": {
                     "muted": false,
                     "blockedBy": false,
