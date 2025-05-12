@@ -5,7 +5,6 @@ import butterfly from "../assets/images/blubutterfly.gif";
 
 type Props = {
   post: StoredPost;
-  isReply?: boolean;
 };
 
 /**
@@ -20,16 +19,15 @@ type Props = {
 
 const urlForHandle = (handle: string) => `https://bsky.app/profile/${handle}`;
 
-export function Post({ post, isReply = false }: Props) {
-  const { author, text, embed, uri } = post.post;
+export function Post({ post }: Props) {
+  const { author, embed, uri, record } = post.post;
   const images = embed?.images;
-  console.log("Post URI: ", uri);
   const formattedUri = uri
     .replace("at://", "https://bsky.app/profile/")
     .replace("/app.bsky.feed.post/", "/post/");
   // const formattedText = text.replace(/<br\s*\\?>/g, "\r\n");
   return (
-    <div className={clsx(classes.post, { [classes.reply]: isReply })}>
+    <div className={clsx(classes.post, { [classes.reply]: post.isReply })}>
       <a href={formattedUri} target="_blank" rel="noopener noreferrer">
         <img className={classes.topRightImage} src={butterfly} alt="Bluesky" />
       </a>
@@ -43,7 +41,7 @@ export function Post({ post, isReply = false }: Props) {
             </a>
           </div>
         </div>
-        <span className={classes.text}>{text}</span>
+        <span className={classes.text}>{record.text}</span>
         {images &&
           images.map((image) => (
             <img

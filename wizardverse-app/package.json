@@ -2,7 +2,9 @@
   "name": "wizardverse-app",
   "scripts": {
     "dev": "vite dev",
-    "build": "vite build"
+    "predev": "bun run ./buildBooks",
+    "build": "vite build",
+    "prebuild": "bun run ./buildBooks"
   },
   "devDependencies": {
     "@eslint/js": "^9.23.0",
