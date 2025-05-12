@@ -1,0 +1,48 @@
+{
+  "mainPosts": [
+    {
+      "post": {
+        "uri": "at://did:plc:dyhferaekcfoi2ralb473wbi/app.bsky.feed.post/3lowcmr5gac2o",
+        "cid": "bafyreidgibfrm2q4h3vfl3jn54edp6ucmlnao2quz2g3nt2oy2kwggzs6q",
+        "author": {
+          "did": "did:plc:dyhferaekcfoi2ralb473wbi",
+          "handle": "thegreenwizard.bsky.social",
+          "displayName": "The Green Wizard",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:dyhferaekcfoi2ralb473wbi/bafkreiai2vwa4jpqwzqbbhh4u6mqr6kcombzrhfiyjjxqynjopuyj64yse@jpeg",
+          "associated": {
+            "chat": {
+              "allowIncoming": "following"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctusxga2q"
+          },
+          "labels": [],
+          "createdAt": "2023-09-20T21:06:29.785Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2025-05-11T20:35:55.726Z",
+          "langs": [
+            "en"
+          ],
+          "text": "Ok after wandering around the bazaar for hours I finally found what I'm looking for -- but this merchant doesn't seem to accept gold?\n\n\"Recall the last time you were truly happy\"\n\nThis is no way to run a business!"
+        },
+        "replyCount": 0,
+        "repostCount": 0,
+        "likeCount": 0,
+        "quoteCount": 0,
+        "indexedAt": "2025-05-11T20:35:56.050Z",
+        "viewer": {
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": [],
+        "text": "Ok after wandering around the bazaar for hours I finally found what I'm looking for -- but this merchant doesn't seem to accept gold?\n\n\"Recall the last time you were truly happy\"\n\nThis is no way to run a business!"
+      }
+    }
+  ],
+  "replies": {}
+}
