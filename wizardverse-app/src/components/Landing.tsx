@@ -13,7 +13,7 @@ export function Landing() {
       <div className={clsx(classes.stars3, classes.space)}></div>
 
       <div className={classes.tree}>
-        <Link to="/books">
+        <Link to="/chapters">
           <img src={globewizard}></img>
         </Link>
       </div>

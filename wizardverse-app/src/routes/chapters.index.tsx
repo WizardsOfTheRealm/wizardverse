@@ -1,8 +1,8 @@
 import { createFileRoute, Link } from "@tanstack/react-router";
-import { books } from "../storedPosts";
+import { chapters } from "../storedPosts";
 import bookQuill from "../assets/images/bookquil.gif";
 
-export const Route = createFileRoute("/books/")({
+export const Route = createFileRoute("/chapters/")({
   component: RouteComponent,
 });
 
@@ -17,12 +17,12 @@ function RouteComponent() {
         marginTop: "16px",
       }}
     >
-      {books.map(({ id: bookId }, index) => (
+      {chapters.map((chapterName, index) => (
         <Link
-          key={bookId}
-          to="/books/$bookId"
+          key={chapterName}
+          to="/chapters/$chapterId"
           params={{
-            bookId,
+            chapterId: chapterName,
           }}
           style={{
             display: "flex",
@@ -37,7 +37,7 @@ function RouteComponent() {
               fontSize: "32px",
             }}
           >
-            Book {index + 1}
+            {chapterName}
           </span>
         </Link>
       ))}
