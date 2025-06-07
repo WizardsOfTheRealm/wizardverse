@@ -1,0 +1,337 @@
+{
+  "mainPosts": [],
+  "replies": {
+    "at://did:plc:i7v44yjlao2ogtw53tw5ibu6/app.bsky.feed.post/3lqxrm4yo4s24": [
+      {
+        "post": {
+          "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lqxxfromt22v",
+          "cid": "bafyreibuckefcfduxi5nzvm62z4urvx3hpl5raquoqu63juvc4o4ehmmo4",
+          "author": {
+            "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl",
+            "handle": "thebluewizard.bsky.social",
+            "displayName": "The Blue Wizard",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2zz4sojwnqgfyxycbwgdqoyl/bafkreiddbibr65lhfedmoarrqh7szrr4oqv5dfjewzic5mwaluk4q7r65a@jpeg",
+            "viewer": {
+              "muted": false,
+              "blockedBy": false,
+              "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctp2puc2y",
+              "followedBy": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.graph.follow/3lbq76d5mi32b"
+            },
+            "labels": [],
+            "createdAt": "2023-10-19T17:52:42.784Z"
+          },
+          "record": {
+            "$type": "app.bsky.feed.post",
+            "createdAt": "2025-06-06T23:10:52.981Z",
+            "langs": [
+              "en"
+            ],
+            "reply": {
+              "parent": {
+                "cid": "bafyreihwckvhy7aiphjplwdpo46uk6xu3nva2lfoq2dr2hcxchd5xz6yfq",
+                "uri": "at://did:plc:i7v44yjlao2ogtw53tw5ibu6/app.bsky.feed.post/3lqxrm4yo4s24"
+              },
+              "root": {
+                "cid": "bafyreieb3atu2lk4zhslfpoq3jjwgt2ukk3eckdzq4mhywprugxyuuqh7i",
+                "uri": "at://did:plc:i7v44yjlao2ogtw53tw5ibu6/app.bsky.feed.post/3lqtmtrrqvs2q"
+              }
+            },
+            "text": "I went to see Dean Umbrella today and smoothed things out. It really helped to mention that you were the dragon rider that saved the village. Surprised you didn't mention that!\n\nHe gladly welcomes you back!  He only asked you give a talk at an Assembly to the whole school about your experience!"
+          },
+          "replyCount": 0,
+          "repostCount": 0,
+          "likeCount": 0,
+          "quoteCount": 0,
+          "indexedAt": "2025-06-06T23:10:53.557Z",
+          "viewer": {
+            "threadMuted": false,
+            "embeddingDisabled": false
+          },
+          "labels": [],
+          "text": "I went to see Dean Umbrella today and smoothed things out. It really helped to mention that you were the dragon rider that saved the village. Surprised you didn't mention that!\n\nHe gladly welcomes you back!  He only asked you give a talk at an Assembly to the whole school about your experience!"
+        },
+        "reply": {
+          "root": {
+            "uri": "at://did:plc:i7v44yjlao2ogtw53tw5ibu6/app.bsky.feed.post/3lqtmtrrqvs2q",
+            "cid": "bafyreieb3atu2lk4zhslfpoq3jjwgt2ukk3eckdzq4mhywprugxyuuqh7i",
+            "author": {
+              "did": "did:plc:i7v44yjlao2ogtw53tw5ibu6",
+              "handle": "mervastra.bsky.social",
+              "displayName": "Merv Astra (B.Ws, App. Lev 2)",
+              "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:i7v44yjlao2ogtw53tw5ibu6/bafkreibscldp5ja2fnao3stdfkslvt5vhzrfykst3kqtgerydsn5pn6vju@jpeg",
+              "viewer": {
+                "muted": false,
+                "blockedBy": false,
+                "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbscubrws32l",
+                "followedBy": "at://did:plc:i7v44yjlao2ogtw53tw5ibu6/app.bsky.graph.follow/3lbqczrjibi2l"
+              },
+              "labels": [],
+              "createdAt": "2024-11-12T03:02:26.214Z"
+            },
+            "record": {
+              "$type": "app.bsky.feed.post",
+              "createdAt": "2025-06-05T05:51:12.730Z",
+              "facets": [
+                {
+                  "$type": "app.bsky.richtext.facet",
+                  "features": [
+                    {
+                      "$type": "app.bsky.richtext.facet#mention",
+                      "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl"
+                    }
+                  ],
+                  "index": {
+                    "byteEnd": 26,
+                    "byteStart": 0
+                  }
+                }
+              ],
+              "langs": [
+                "en"
+              ],
+              "text": "@thebluewizard.bsky.social I barged into Dean Umbrella\u2019s office to demand that he respect your authority as HoC and let me back into the program \u2014 he had no idea what I was talking about! \n\nSurely you spoke with him about my enrolment? Term has started already!!\n\n1/2"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2025-06-05T05:51:13.547Z",
+            "viewer": {
+              "threadMuted": false,
+              "embeddingDisabled": false
+            },
+            "labels": [],
+            "$type": "app.bsky.feed.defs#postView"
+          },
+          "parent": {
+            "uri": "at://did:plc:i7v44yjlao2ogtw53tw5ibu6/app.bsky.feed.post/3lqxrm4yo4s24",
+            "cid": "bafyreihwckvhy7aiphjplwdpo46uk6xu3nva2lfoq2dr2hcxchd5xz6yfq",
+            "author": {
+              "did": "did:plc:i7v44yjlao2ogtw53tw5ibu6",
+              "handle": "mervastra.bsky.social",
+              "displayName": "Merv Astra (B.Ws, App. Lev 2)",
+              "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:i7v44yjlao2ogtw53tw5ibu6/bafkreibscldp5ja2fnao3stdfkslvt5vhzrfykst3kqtgerydsn5pn6vju@jpeg",
+              "viewer": {
+                "muted": false,
+                "blockedBy": false,
+                "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbscubrws32l",
+                "followedBy": "at://did:plc:i7v44yjlao2ogtw53tw5ibu6/app.bsky.graph.follow/3lbqczrjibi2l"
+              },
+              "labels": [],
+              "createdAt": "2024-11-12T03:02:26.214Z"
+            },
+            "record": {
+              "$type": "app.bsky.feed.post",
+              "createdAt": "2025-06-06T21:27:03.720Z",
+              "langs": [
+                "en"
+              ],
+              "reply": {
+                "parent": {
+                  "cid": "bafyreifu7tga5dwkdby6evlzeknoncplb5ms2lwti2hkkb4uflmax3f6ge",
+                  "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lqtonoiufs2s"
+                },
+                "root": {
+                  "cid": "bafyreieb3atu2lk4zhslfpoq3jjwgt2ukk3eckdzq4mhywprugxyuuqh7i",
+                  "uri": "at://did:plc:i7v44yjlao2ogtw53tw5ibu6/app.bsky.feed.post/3lqtmtrrqvs2q"
+                }
+              },
+              "text": "Actually yes I do have that book. I'll bring it to the Tower."
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2025-06-06T21:27:04.447Z",
+            "viewer": {
+              "threadMuted": false,
+              "embeddingDisabled": false
+            },
+            "labels": [],
+            "$type": "app.bsky.feed.defs#postView"
+          },
+          "grandparentAuthor": {
+            "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl",
+            "handle": "thebluewizard.bsky.social",
+            "displayName": "The Blue Wizard",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2zz4sojwnqgfyxycbwgdqoyl/bafkreiddbibr65lhfedmoarrqh7szrr4oqv5dfjewzic5mwaluk4q7r65a@jpeg",
+            "viewer": {
+              "muted": false,
+              "blockedBy": false,
+              "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctp2puc2y",
+              "followedBy": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.graph.follow/3lbq76d5mi32b"
+            },
+            "labels": [],
+            "createdAt": "2023-10-19T17:52:42.784Z"
+          }
+        }
+      }
+    ],
+    "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lqtonoiufs2s": [
+      {
+        "post": {
+          "uri": "at://did:plc:i7v44yjlao2ogtw53tw5ibu6/app.bsky.feed.post/3lqxrm4yo4s24",
+          "cid": "bafyreihwckvhy7aiphjplwdpo46uk6xu3nva2lfoq2dr2hcxchd5xz6yfq",
+          "author": {
+            "did": "did:plc:i7v44yjlao2ogtw53tw5ibu6",
+            "handle": "mervastra.bsky.social",
+            "displayName": "Merv Astra (B.Ws, App. Lev 2)",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:i7v44yjlao2ogtw53tw5ibu6/bafkreibscldp5ja2fnao3stdfkslvt5vhzrfykst3kqtgerydsn5pn6vju@jpeg",
+            "viewer": {
+              "muted": false,
+              "blockedBy": false,
+              "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbscubrws32l",
+              "followedBy": "at://did:plc:i7v44yjlao2ogtw53tw5ibu6/app.bsky.graph.follow/3lbqczrjibi2l"
+            },
+            "labels": [],
+            "createdAt": "2024-11-12T03:02:26.214Z"
+          },
+          "record": {
+            "$type": "app.bsky.feed.post",
+            "createdAt": "2025-06-06T21:27:03.720Z",
+            "langs": [
+              "en"
+            ],
+            "reply": {
+              "parent": {
+                "cid": "bafyreifu7tga5dwkdby6evlzeknoncplb5ms2lwti2hkkb4uflmax3f6ge",
+                "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lqtonoiufs2s"
+              },
+              "root": {
+                "cid": "bafyreieb3atu2lk4zhslfpoq3jjwgt2ukk3eckdzq4mhywprugxyuuqh7i",
+                "uri": "at://did:plc:i7v44yjlao2ogtw53tw5ibu6/app.bsky.feed.post/3lqtmtrrqvs2q"
+              }
+            },
+            "text": "Actually yes I do have that book. I'll bring it to the Tower."
+          },
+          "replyCount": 1,
+          "repostCount": 0,
+          "likeCount": 0,
+          "quoteCount": 0,
+          "indexedAt": "2025-06-06T21:27:04.447Z",
+          "viewer": {
+            "threadMuted": false,
+            "embeddingDisabled": false
+          },
+          "labels": [],
+          "text": "Actually yes I do have that book. I'll bring it to the Tower."
+        },
+        "reply": {
+          "root": {
+            "uri": "at://did:plc:i7v44yjlao2ogtw53tw5ibu6/app.bsky.feed.post/3lqtmtrrqvs2q",
+            "cid": "bafyreieb3atu2lk4zhslfpoq3jjwgt2ukk3eckdzq4mhywprugxyuuqh7i",
+            "author": {
+              "did": "did:plc:i7v44yjlao2ogtw53tw5ibu6",
+              "handle": "mervastra.bsky.social",
+              "displayName": "Merv Astra (B.Ws, App. Lev 2)",
+              "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:i7v44yjlao2ogtw53tw5ibu6/bafkreibscldp5ja2fnao3stdfkslvt5vhzrfykst3kqtgerydsn5pn6vju@jpeg",
+              "viewer": {
+                "muted": false,
+                "blockedBy": false,
+                "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbscubrws32l",
+                "followedBy": "at://did:plc:i7v44yjlao2ogtw53tw5ibu6/app.bsky.graph.follow/3lbqczrjibi2l"
+              },
+              "labels": [],
+              "createdAt": "2024-11-12T03:02:26.214Z"
+            },
+            "record": {
+              "$type": "app.bsky.feed.post",
+              "createdAt": "2025-06-05T05:51:12.730Z",
+              "facets": [
+                {
+                  "$type": "app.bsky.richtext.facet",
+                  "features": [
+                    {
+                      "$type": "app.bsky.richtext.facet#mention",
+                      "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl"
+                    }
+                  ],
+                  "index": {
+                    "byteEnd": 26,
+                    "byteStart": 0
+                  }
+                }
+              ],
+              "langs": [
+                "en"
+              ],
+              "text": "@thebluewizard.bsky.social I barged into Dean Umbrella\u2019s office to demand that he respect your authority as HoC and let me back into the program \u2014 he had no idea what I was talking about! \n\nSurely you spoke with him about my enrolment? Term has started already!!\n\n1/2"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2025-06-05T05:51:13.547Z",
+            "viewer": {
+              "threadMuted": false,
+              "embeddingDisabled": false
+            },
+            "labels": [],
+            "$type": "app.bsky.feed.defs#postView"
+          },
+          "parent": {
+            "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lqtonoiufs2s",
+            "cid": "bafyreifu7tga5dwkdby6evlzeknoncplb5ms2lwti2hkkb4uflmax3f6ge",
+            "author": {
+              "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl",
+              "handle": "thebluewizard.bsky.social",
+              "displayName": "The Blue Wizard",
+              "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2zz4sojwnqgfyxycbwgdqoyl/bafkreiddbibr65lhfedmoarrqh7szrr4oqv5dfjewzic5mwaluk4q7r65a@jpeg",
+              "viewer": {
+                "muted": false,
+                "blockedBy": false,
+                "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctp2puc2y",
+                "followedBy": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.graph.follow/3lbq76d5mi32b"
+              },
+              "labels": [],
+              "createdAt": "2023-10-19T17:52:42.784Z"
+            },
+            "record": {
+              "$type": "app.bsky.feed.post",
+              "createdAt": "2025-06-05T06:23:35.452Z",
+              "langs": [
+                "en"
+              ],
+              "reply": {
+                "parent": {
+                  "cid": "bafyreifxxsbbxncwsd6h742oqghzuhuz34zsltrrisxzchyntapi7qytd4",
+                  "uri": "at://did:plc:i7v44yjlao2ogtw53tw5ibu6/app.bsky.feed.post/3lqtmyws4lk2q"
+                },
+                "root": {
+                  "cid": "bafyreieb3atu2lk4zhslfpoq3jjwgt2ukk3eckdzq4mhywprugxyuuqh7i",
+                  "uri": "at://did:plc:i7v44yjlao2ogtw53tw5ibu6/app.bsky.feed.post/3lqtmtrrqvs2q"
+                }
+              },
+              "text": "Yes, yes, just give me some time. It was just yesterday that you brought this issue up, wasn't it? \n\nI'll go over first thing tomorrow and sort this out.\n\nAlso, have you seen my book, Avian Enthralments by Axelrod Borquist?"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2025-06-05T06:23:37.105Z",
+            "viewer": {
+              "threadMuted": false,
+              "embeddingDisabled": false
+            },
+            "labels": [],
+            "$type": "app.bsky.feed.defs#postView"
+          },
+          "grandparentAuthor": {
+            "did": "did:plc:i7v44yjlao2ogtw53tw5ibu6",
+            "handle": "mervastra.bsky.social",
+            "displayName": "Merv Astra (B.Ws, App. Lev 2)",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:i7v44yjlao2ogtw53tw5ibu6/bafkreibscldp5ja2fnao3stdfkslvt5vhzrfykst3kqtgerydsn5pn6vju@jpeg",
+            "viewer": {
+              "muted": false,
+              "blockedBy": false,
+              "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbscubrws32l",
+              "followedBy": "at://did:plc:i7v44yjlao2ogtw53tw5ibu6/app.bsky.graph.follow/3lbqczrjibi2l"
+            },
+            "labels": [],
+            "createdAt": "2024-11-12T03:02:26.214Z"
+          }
+        }
+      }
+    ]
+  }
+}
