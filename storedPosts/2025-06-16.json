@@ -1,0 +1,747 @@
+{
+  "mainPosts": [
+    {
+      "post": {
+        "uri": "at://did:plc:dyhferaekcfoi2ralb473wbi/app.bsky.feed.post/3lroppxiktc2t",
+        "cid": "bafyreidqrrt6ktqar7qmcwvrwxiyuio2g3m377td5t3llysvjihgjmmxsq",
+        "author": {
+          "did": "did:plc:dyhferaekcfoi2ralb473wbi",
+          "handle": "thegreenwizard.bsky.social",
+          "displayName": "The Green Wizard",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:dyhferaekcfoi2ralb473wbi/bafkreiai2vwa4jpqwzqbbhh4u6mqr6kcombzrhfiyjjxqynjopuyj64yse@jpeg",
+          "associated": {
+            "chat": {
+              "allowIncoming": "following"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctusxga2q"
+          },
+          "labels": [],
+          "createdAt": "2023-09-20T21:06:29.785Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2025-06-16T00:24:38.664Z",
+          "langs": [
+            "en"
+          ],
+          "text": "I (bravely) rescued Abigail from the very heart of the ghoulspinner nest!\n\nShe was upside down wrapped in thread and looking pretty pale (even for her)\n\nAnyway the ghoulspinners were all dead \ud83e\udd37 so I couldn\u2019t get my sketch \u2639\ufe0f but I thought why waste all that nice thread may as well bring some home!\ud83e\uddf5"
+        },
+        "replyCount": 0,
+        "repostCount": 0,
+        "likeCount": 0,
+        "quoteCount": 0,
+        "indexedAt": "2025-06-16T00:24:39.548Z",
+        "viewer": {
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": [],
+        "text": "I (bravely) rescued Abigail from the very heart of the ghoulspinner nest!\n\nShe was upside down wrapped in thread and looking pretty pale (even for her)\n\nAnyway the ghoulspinners were all dead \ud83e\udd37 so I couldn\u2019t get my sketch \u2639\ufe0f but I thought why waste all that nice thread may as well bring some home!\ud83e\uddf5"
+      }
+    },
+    {
+      "post": {
+        "uri": "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.feed.post/3lrpdbah6pc2l",
+        "cid": "bafyreicegr4dbxw3gd3okv7zwxmtcdsvimxv2hlb6glqmqkvuvpbkue4de",
+        "author": {
+          "did": "did:plc:6d7ojhzjxull6zmvhbyzgsu3",
+          "handle": "julianfairweather.bsky.social",
+          "displayName": "Julian",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6d7ojhzjxull6zmvhbyzgsu3/bafkreibaf7nfpyyjizrynuqkabbydakpbiceqsbz5ilcsgbkykupglqcry@jpeg",
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "followedBy": "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.graph.follow/3lnmlfcs3aw2h"
+          },
+          "labels": [],
+          "createdAt": "2025-04-25T06:17:39.274Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2025-06-16T06:14:19.577Z",
+          "facets": [
+            {
+              "$type": "app.bsky.richtext.facet",
+              "features": [
+                {
+                  "$type": "app.bsky.richtext.facet#mention",
+                  "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl"
+                }
+              ],
+              "index": {
+                "byteEnd": 86,
+                "byteStart": 60
+              }
+            }
+          ],
+          "langs": [
+            "en"
+          ],
+          "text": "Have you had a chance to review the responses to the RFP's, @thebluewizard.bsky.social ?"
+        },
+        "replyCount": 1,
+        "repostCount": 0,
+        "likeCount": 0,
+        "quoteCount": 0,
+        "indexedAt": "2025-06-16T06:14:20.249Z",
+        "viewer": {
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": [],
+        "text": "Have you had a chance to review the responses to the RFP's, @thebluewizard.bsky.social ?"
+      }
+    }
+  ],
+  "replies": {
+    "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lrpdhvzrqc2l": [
+      {
+        "post": {
+          "uri": "at://did:plc:vbox4xiuep2vn6fy6uwo6bus/app.bsky.feed.post/3lrqzgnt6e22h",
+          "cid": "bafyreifnb6tijxlnm57lzk62w6qgw6b72cft7bosalmwzntho6t7gq46lq",
+          "author": {
+            "did": "did:plc:vbox4xiuep2vn6fy6uwo6bus",
+            "handle": "grenman.bsky.social",
+            "displayName": "Grenman",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:vbox4xiuep2vn6fy6uwo6bus/bafkreiaokf2ia5zj67rhibo4r2r3354magwfznnvav3viek2qkveanqioa@jpeg",
+            "viewer": {
+              "muted": false,
+              "blockedBy": false,
+              "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctwipsa22"
+            },
+            "labels": [],
+            "createdAt": "2024-10-31T05:31:27.929Z"
+          },
+          "record": {
+            "$type": "app.bsky.feed.post",
+            "createdAt": "2025-06-16T22:23:43.432Z",
+            "langs": [
+              "en"
+            ],
+            "reply": {
+              "parent": {
+                "cid": "bafyreierrkdifdaqhdm3m4z2ipt53m3e4ulq7sxjpqwknzlrubsezvdolq",
+                "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lrpdhvzrqc2l"
+              },
+              "root": {
+                "cid": "bafyreicegr4dbxw3gd3okv7zwxmtcdsvimxv2hlb6glqmqkvuvpbkue4de",
+                "uri": "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.feed.post/3lrpdbah6pc2l"
+              }
+            },
+            "text": "This guy doesn\u2019t know his vestibule from a hole in the ground!\n\nThis guy thinks RFP means Rich Figgy Pie!\n\nHe\u2019s an idiot!"
+          },
+          "replyCount": 0,
+          "repostCount": 0,
+          "likeCount": 0,
+          "quoteCount": 0,
+          "indexedAt": "2025-06-16T22:23:43.851Z",
+          "viewer": {
+            "threadMuted": false,
+            "embeddingDisabled": false
+          },
+          "labels": [],
+          "text": "This guy doesn\u2019t know his vestibule from a hole in the ground!\n\nThis guy thinks RFP means Rich Figgy Pie!\n\nHe\u2019s an idiot!"
+        },
+        "reply": {
+          "root": {
+            "uri": "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.feed.post/3lrpdbah6pc2l",
+            "cid": "bafyreicegr4dbxw3gd3okv7zwxmtcdsvimxv2hlb6glqmqkvuvpbkue4de",
+            "author": {
+              "did": "did:plc:6d7ojhzjxull6zmvhbyzgsu3",
+              "handle": "julianfairweather.bsky.social",
+              "displayName": "Julian",
+              "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6d7ojhzjxull6zmvhbyzgsu3/bafkreibaf7nfpyyjizrynuqkabbydakpbiceqsbz5ilcsgbkykupglqcry@jpeg",
+              "viewer": {
+                "muted": false,
+                "blockedBy": false,
+                "followedBy": "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.graph.follow/3lnmlfcs3aw2h"
+              },
+              "labels": [],
+              "createdAt": "2025-04-25T06:17:39.274Z"
+            },
+            "record": {
+              "$type": "app.bsky.feed.post",
+              "createdAt": "2025-06-16T06:14:19.577Z",
+              "facets": [
+                {
+                  "$type": "app.bsky.richtext.facet",
+                  "features": [
+                    {
+                      "$type": "app.bsky.richtext.facet#mention",
+                      "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl"
+                    }
+                  ],
+                  "index": {
+                    "byteEnd": 86,
+                    "byteStart": 60
+                  }
+                }
+              ],
+              "langs": [
+                "en"
+              ],
+              "text": "Have you had a chance to review the responses to the RFP's, @thebluewizard.bsky.social ?"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2025-06-16T06:14:20.249Z",
+            "viewer": {
+              "threadMuted": false,
+              "embeddingDisabled": false
+            },
+            "labels": [],
+            "$type": "app.bsky.feed.defs#postView"
+          },
+          "parent": {
+            "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lrpdhvzrqc2l",
+            "cid": "bafyreierrkdifdaqhdm3m4z2ipt53m3e4ulq7sxjpqwknzlrubsezvdolq",
+            "author": {
+              "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl",
+              "handle": "thebluewizard.bsky.social",
+              "displayName": "The Blue Wizard",
+              "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2zz4sojwnqgfyxycbwgdqoyl/bafkreiddbibr65lhfedmoarrqh7szrr4oqv5dfjewzic5mwaluk4q7r65a@jpeg",
+              "viewer": {
+                "muted": false,
+                "blockedBy": false,
+                "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctp2puc2y",
+                "followedBy": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.graph.follow/3lbq76d5mi32b"
+              },
+              "labels": [],
+              "createdAt": "2023-10-19T17:52:42.784Z"
+            },
+            "record": {
+              "$type": "app.bsky.feed.post",
+              "createdAt": "2025-06-16T06:18:03.533Z",
+              "langs": [
+                "en"
+              ],
+              "reply": {
+                "parent": {
+                  "cid": "bafyreigtojhyd3wrhniacbtqtdkpa7tnpiptmtpdwyfo52yipjlfhbj5ca",
+                  "uri": "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.feed.post/3lrpdgddbss2l"
+                },
+                "root": {
+                  "cid": "bafyreicegr4dbxw3gd3okv7zwxmtcdsvimxv2hlb6glqmqkvuvpbkue4de",
+                  "uri": "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.feed.post/3lrpdbah6pc2l"
+                }
+              },
+              "text": "Hrmmm, yes, of course I will look at these right away. My vestibule. Of course."
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2025-06-16T06:18:05.255Z",
+            "viewer": {
+              "threadMuted": false,
+              "embeddingDisabled": false
+            },
+            "labels": [],
+            "$type": "app.bsky.feed.defs#postView"
+          },
+          "grandparentAuthor": {
+            "did": "did:plc:6d7ojhzjxull6zmvhbyzgsu3",
+            "handle": "julianfairweather.bsky.social",
+            "displayName": "Julian",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6d7ojhzjxull6zmvhbyzgsu3/bafkreibaf7nfpyyjizrynuqkabbydakpbiceqsbz5ilcsgbkykupglqcry@jpeg",
+            "viewer": {
+              "muted": false,
+              "blockedBy": false,
+              "followedBy": "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.graph.follow/3lnmlfcs3aw2h"
+            },
+            "labels": [],
+            "createdAt": "2025-04-25T06:17:39.274Z"
+          }
+        }
+      }
+    ],
+    "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.feed.post/3lrpdgddbss2l": [
+      {
+        "post": {
+          "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lrpdhvzrqc2l",
+          "cid": "bafyreierrkdifdaqhdm3m4z2ipt53m3e4ulq7sxjpqwknzlrubsezvdolq",
+          "author": {
+            "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl",
+            "handle": "thebluewizard.bsky.social",
+            "displayName": "The Blue Wizard",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2zz4sojwnqgfyxycbwgdqoyl/bafkreiddbibr65lhfedmoarrqh7szrr4oqv5dfjewzic5mwaluk4q7r65a@jpeg",
+            "viewer": {
+              "muted": false,
+              "blockedBy": false,
+              "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctp2puc2y",
+              "followedBy": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.graph.follow/3lbq76d5mi32b"
+            },
+            "labels": [],
+            "createdAt": "2023-10-19T17:52:42.784Z"
+          },
+          "record": {
+            "$type": "app.bsky.feed.post",
+            "createdAt": "2025-06-16T06:18:03.533Z",
+            "langs": [
+              "en"
+            ],
+            "reply": {
+              "parent": {
+                "cid": "bafyreigtojhyd3wrhniacbtqtdkpa7tnpiptmtpdwyfo52yipjlfhbj5ca",
+                "uri": "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.feed.post/3lrpdgddbss2l"
+              },
+              "root": {
+                "cid": "bafyreicegr4dbxw3gd3okv7zwxmtcdsvimxv2hlb6glqmqkvuvpbkue4de",
+                "uri": "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.feed.post/3lrpdbah6pc2l"
+              }
+            },
+            "text": "Hrmmm, yes, of course I will look at these right away. My vestibule. Of course."
+          },
+          "replyCount": 1,
+          "repostCount": 0,
+          "likeCount": 0,
+          "quoteCount": 0,
+          "indexedAt": "2025-06-16T06:18:05.255Z",
+          "viewer": {
+            "threadMuted": false,
+            "embeddingDisabled": false
+          },
+          "labels": [],
+          "text": "Hrmmm, yes, of course I will look at these right away. My vestibule. Of course."
+        },
+        "reply": {
+          "root": {
+            "uri": "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.feed.post/3lrpdbah6pc2l",
+            "cid": "bafyreicegr4dbxw3gd3okv7zwxmtcdsvimxv2hlb6glqmqkvuvpbkue4de",
+            "author": {
+              "did": "did:plc:6d7ojhzjxull6zmvhbyzgsu3",
+              "handle": "julianfairweather.bsky.social",
+              "displayName": "Julian",
+              "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6d7ojhzjxull6zmvhbyzgsu3/bafkreibaf7nfpyyjizrynuqkabbydakpbiceqsbz5ilcsgbkykupglqcry@jpeg",
+              "viewer": {
+                "muted": false,
+                "blockedBy": false,
+                "followedBy": "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.graph.follow/3lnmlfcs3aw2h"
+              },
+              "labels": [],
+              "createdAt": "2025-04-25T06:17:39.274Z"
+            },
+            "record": {
+              "$type": "app.bsky.feed.post",
+              "createdAt": "2025-06-16T06:14:19.577Z",
+              "facets": [
+                {
+                  "$type": "app.bsky.richtext.facet",
+                  "features": [
+                    {
+                      "$type": "app.bsky.richtext.facet#mention",
+                      "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl"
+                    }
+                  ],
+                  "index": {
+                    "byteEnd": 86,
+                    "byteStart": 60
+                  }
+                }
+              ],
+              "langs": [
+                "en"
+              ],
+              "text": "Have you had a chance to review the responses to the RFP's, @thebluewizard.bsky.social ?"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2025-06-16T06:14:20.249Z",
+            "viewer": {
+              "threadMuted": false,
+              "embeddingDisabled": false
+            },
+            "labels": [],
+            "$type": "app.bsky.feed.defs#postView"
+          },
+          "parent": {
+            "uri": "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.feed.post/3lrpdgddbss2l",
+            "cid": "bafyreigtojhyd3wrhniacbtqtdkpa7tnpiptmtpdwyfo52yipjlfhbj5ca",
+            "author": {
+              "did": "did:plc:6d7ojhzjxull6zmvhbyzgsu3",
+              "handle": "julianfairweather.bsky.social",
+              "displayName": "Julian",
+              "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6d7ojhzjxull6zmvhbyzgsu3/bafkreibaf7nfpyyjizrynuqkabbydakpbiceqsbz5ilcsgbkykupglqcry@jpeg",
+              "viewer": {
+                "muted": false,
+                "blockedBy": false,
+                "followedBy": "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.graph.follow/3lnmlfcs3aw2h"
+              },
+              "labels": [],
+              "createdAt": "2025-04-25T06:17:39.274Z"
+            },
+            "record": {
+              "$type": "app.bsky.feed.post",
+              "createdAt": "2025-06-16T06:17:10.368Z",
+              "langs": [
+                "en"
+              ],
+              "reply": {
+                "parent": {
+                  "cid": "bafyreidwxlgkqicaaqzianbrx2cs26fd6scaytn4s5x2mxabpqlg7qirpe",
+                  "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lrpdds7nbc2l"
+                },
+                "root": {
+                  "cid": "bafyreicegr4dbxw3gd3okv7zwxmtcdsvimxv2hlb6glqmqkvuvpbkue4de",
+                  "uri": "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.feed.post/3lrpdbah6pc2l"
+                }
+              },
+              "text": "What?? RFPs - Request for Proposals - about the bridges? \nI put them in your vestibule two days ago."
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2025-06-16T06:17:10.744Z",
+            "viewer": {
+              "threadMuted": false,
+              "embeddingDisabled": false
+            },
+            "labels": [],
+            "$type": "app.bsky.feed.defs#postView"
+          },
+          "grandparentAuthor": {
+            "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl",
+            "handle": "thebluewizard.bsky.social",
+            "displayName": "The Blue Wizard",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2zz4sojwnqgfyxycbwgdqoyl/bafkreiddbibr65lhfedmoarrqh7szrr4oqv5dfjewzic5mwaluk4q7r65a@jpeg",
+            "viewer": {
+              "muted": false,
+              "blockedBy": false,
+              "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctp2puc2y",
+              "followedBy": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.graph.follow/3lbq76d5mi32b"
+            },
+            "labels": [],
+            "createdAt": "2023-10-19T17:52:42.784Z"
+          }
+        }
+      }
+    ],
+    "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lrpdds7nbc2l": [
+      {
+        "post": {
+          "uri": "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.feed.post/3lrpdgddbss2l",
+          "cid": "bafyreigtojhyd3wrhniacbtqtdkpa7tnpiptmtpdwyfo52yipjlfhbj5ca",
+          "author": {
+            "did": "did:plc:6d7ojhzjxull6zmvhbyzgsu3",
+            "handle": "julianfairweather.bsky.social",
+            "displayName": "Julian",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6d7ojhzjxull6zmvhbyzgsu3/bafkreibaf7nfpyyjizrynuqkabbydakpbiceqsbz5ilcsgbkykupglqcry@jpeg",
+            "viewer": {
+              "muted": false,
+              "blockedBy": false,
+              "followedBy": "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.graph.follow/3lnmlfcs3aw2h"
+            },
+            "labels": [],
+            "createdAt": "2025-04-25T06:17:39.274Z"
+          },
+          "record": {
+            "$type": "app.bsky.feed.post",
+            "createdAt": "2025-06-16T06:17:10.368Z",
+            "langs": [
+              "en"
+            ],
+            "reply": {
+              "parent": {
+                "cid": "bafyreidwxlgkqicaaqzianbrx2cs26fd6scaytn4s5x2mxabpqlg7qirpe",
+                "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lrpdds7nbc2l"
+              },
+              "root": {
+                "cid": "bafyreicegr4dbxw3gd3okv7zwxmtcdsvimxv2hlb6glqmqkvuvpbkue4de",
+                "uri": "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.feed.post/3lrpdbah6pc2l"
+              }
+            },
+            "text": "What?? RFPs - Request for Proposals - about the bridges? \nI put them in your vestibule two days ago."
+          },
+          "replyCount": 1,
+          "repostCount": 0,
+          "likeCount": 0,
+          "quoteCount": 0,
+          "indexedAt": "2025-06-16T06:17:10.744Z",
+          "viewer": {
+            "threadMuted": false,
+            "embeddingDisabled": false
+          },
+          "labels": [],
+          "text": "What?? RFPs - Request for Proposals - about the bridges? \nI put them in your vestibule two days ago."
+        },
+        "reply": {
+          "root": {
+            "uri": "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.feed.post/3lrpdbah6pc2l",
+            "cid": "bafyreicegr4dbxw3gd3okv7zwxmtcdsvimxv2hlb6glqmqkvuvpbkue4de",
+            "author": {
+              "did": "did:plc:6d7ojhzjxull6zmvhbyzgsu3",
+              "handle": "julianfairweather.bsky.social",
+              "displayName": "Julian",
+              "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6d7ojhzjxull6zmvhbyzgsu3/bafkreibaf7nfpyyjizrynuqkabbydakpbiceqsbz5ilcsgbkykupglqcry@jpeg",
+              "viewer": {
+                "muted": false,
+                "blockedBy": false,
+                "followedBy": "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.graph.follow/3lnmlfcs3aw2h"
+              },
+              "labels": [],
+              "createdAt": "2025-04-25T06:17:39.274Z"
+            },
+            "record": {
+              "$type": "app.bsky.feed.post",
+              "createdAt": "2025-06-16T06:14:19.577Z",
+              "facets": [
+                {
+                  "$type": "app.bsky.richtext.facet",
+                  "features": [
+                    {
+                      "$type": "app.bsky.richtext.facet#mention",
+                      "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl"
+                    }
+                  ],
+                  "index": {
+                    "byteEnd": 86,
+                    "byteStart": 60
+                  }
+                }
+              ],
+              "langs": [
+                "en"
+              ],
+              "text": "Have you had a chance to review the responses to the RFP's, @thebluewizard.bsky.social ?"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2025-06-16T06:14:20.249Z",
+            "viewer": {
+              "threadMuted": false,
+              "embeddingDisabled": false
+            },
+            "labels": [],
+            "$type": "app.bsky.feed.defs#postView"
+          },
+          "parent": {
+            "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lrpdds7nbc2l",
+            "cid": "bafyreidwxlgkqicaaqzianbrx2cs26fd6scaytn4s5x2mxabpqlg7qirpe",
+            "author": {
+              "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl",
+              "handle": "thebluewizard.bsky.social",
+              "displayName": "The Blue Wizard",
+              "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2zz4sojwnqgfyxycbwgdqoyl/bafkreiddbibr65lhfedmoarrqh7szrr4oqv5dfjewzic5mwaluk4q7r65a@jpeg",
+              "viewer": {
+                "muted": false,
+                "blockedBy": false,
+                "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctp2puc2y",
+                "followedBy": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.graph.follow/3lbq76d5mi32b"
+              },
+              "labels": [],
+              "createdAt": "2023-10-19T17:52:42.784Z"
+            },
+            "record": {
+              "$type": "app.bsky.feed.post",
+              "createdAt": "2025-06-16T06:15:45.314Z",
+              "langs": [
+                "en"
+              ],
+              "reply": {
+                "parent": {
+                  "cid": "bafyreicegr4dbxw3gd3okv7zwxmtcdsvimxv2hlb6glqmqkvuvpbkue4de",
+                  "uri": "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.feed.post/3lrpdbah6pc2l"
+                },
+                "root": {
+                  "cid": "bafyreicegr4dbxw3gd3okv7zwxmtcdsvimxv2hlb6glqmqkvuvpbkue4de",
+                  "uri": "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.feed.post/3lrpdbah6pc2l"
+                }
+              },
+              "text": "Hmm maybe... what is an RFP?\n\nI've been fairly occupied with refining my Enercorn Potion into a less potent Rejuvination tincture."
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2025-06-16T06:15:46.146Z",
+            "viewer": {
+              "threadMuted": false,
+              "embeddingDisabled": false
+            },
+            "labels": [],
+            "$type": "app.bsky.feed.defs#postView"
+          },
+          "grandparentAuthor": {
+            "did": "did:plc:6d7ojhzjxull6zmvhbyzgsu3",
+            "handle": "julianfairweather.bsky.social",
+            "displayName": "Julian",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6d7ojhzjxull6zmvhbyzgsu3/bafkreibaf7nfpyyjizrynuqkabbydakpbiceqsbz5ilcsgbkykupglqcry@jpeg",
+            "viewer": {
+              "muted": false,
+              "blockedBy": false,
+              "followedBy": "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.graph.follow/3lnmlfcs3aw2h"
+            },
+            "labels": [],
+            "createdAt": "2025-04-25T06:17:39.274Z"
+          }
+        }
+      }
+    ],
+    "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.feed.post/3lrpdbah6pc2l": [
+      {
+        "post": {
+          "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lrpdds7nbc2l",
+          "cid": "bafyreidwxlgkqicaaqzianbrx2cs26fd6scaytn4s5x2mxabpqlg7qirpe",
+          "author": {
+            "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl",
+            "handle": "thebluewizard.bsky.social",
+            "displayName": "The Blue Wizard",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2zz4sojwnqgfyxycbwgdqoyl/bafkreiddbibr65lhfedmoarrqh7szrr4oqv5dfjewzic5mwaluk4q7r65a@jpeg",
+            "viewer": {
+              "muted": false,
+              "blockedBy": false,
+              "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctp2puc2y",
+              "followedBy": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.graph.follow/3lbq76d5mi32b"
+            },
+            "labels": [],
+            "createdAt": "2023-10-19T17:52:42.784Z"
+          },
+          "record": {
+            "$type": "app.bsky.feed.post",
+            "createdAt": "2025-06-16T06:15:45.314Z",
+            "langs": [
+              "en"
+            ],
+            "reply": {
+              "parent": {
+                "cid": "bafyreicegr4dbxw3gd3okv7zwxmtcdsvimxv2hlb6glqmqkvuvpbkue4de",
+                "uri": "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.feed.post/3lrpdbah6pc2l"
+              },
+              "root": {
+                "cid": "bafyreicegr4dbxw3gd3okv7zwxmtcdsvimxv2hlb6glqmqkvuvpbkue4de",
+                "uri": "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.feed.post/3lrpdbah6pc2l"
+              }
+            },
+            "text": "Hmm maybe... what is an RFP?\n\nI've been fairly occupied with refining my Enercorn Potion into a less potent Rejuvination tincture."
+          },
+          "replyCount": 1,
+          "repostCount": 0,
+          "likeCount": 0,
+          "quoteCount": 0,
+          "indexedAt": "2025-06-16T06:15:46.146Z",
+          "viewer": {
+            "threadMuted": false,
+            "embeddingDisabled": false
+          },
+          "labels": [],
+          "text": "Hmm maybe... what is an RFP?\n\nI've been fairly occupied with refining my Enercorn Potion into a less potent Rejuvination tincture."
+        },
+        "reply": {
+          "root": {
+            "uri": "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.feed.post/3lrpdbah6pc2l",
+            "cid": "bafyreicegr4dbxw3gd3okv7zwxmtcdsvimxv2hlb6glqmqkvuvpbkue4de",
+            "author": {
+              "did": "did:plc:6d7ojhzjxull6zmvhbyzgsu3",
+              "handle": "julianfairweather.bsky.social",
+              "displayName": "Julian",
+              "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6d7ojhzjxull6zmvhbyzgsu3/bafkreibaf7nfpyyjizrynuqkabbydakpbiceqsbz5ilcsgbkykupglqcry@jpeg",
+              "viewer": {
+                "muted": false,
+                "blockedBy": false,
+                "followedBy": "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.graph.follow/3lnmlfcs3aw2h"
+              },
+              "labels": [],
+              "createdAt": "2025-04-25T06:17:39.274Z"
+            },
+            "record": {
+              "$type": "app.bsky.feed.post",
+              "createdAt": "2025-06-16T06:14:19.577Z",
+              "facets": [
+                {
+                  "$type": "app.bsky.richtext.facet",
+                  "features": [
+                    {
+                      "$type": "app.bsky.richtext.facet#mention",
+                      "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl"
+                    }
+                  ],
+                  "index": {
+                    "byteEnd": 86,
+                    "byteStart": 60
+                  }
+                }
+              ],
+              "langs": [
+                "en"
+              ],
+              "text": "Have you had a chance to review the responses to the RFP's, @thebluewizard.bsky.social ?"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2025-06-16T06:14:20.249Z",
+            "viewer": {
+              "threadMuted": false,
+              "embeddingDisabled": false
+            },
+            "labels": [],
+            "$type": "app.bsky.feed.defs#postView"
+          },
+          "parent": {
+            "uri": "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.feed.post/3lrpdbah6pc2l",
+            "cid": "bafyreicegr4dbxw3gd3okv7zwxmtcdsvimxv2hlb6glqmqkvuvpbkue4de",
+            "author": {
+              "did": "did:plc:6d7ojhzjxull6zmvhbyzgsu3",
+              "handle": "julianfairweather.bsky.social",
+              "displayName": "Julian",
+              "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6d7ojhzjxull6zmvhbyzgsu3/bafkreibaf7nfpyyjizrynuqkabbydakpbiceqsbz5ilcsgbkykupglqcry@jpeg",
+              "viewer": {
+                "muted": false,
+                "blockedBy": false,
+                "followedBy": "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.graph.follow/3lnmlfcs3aw2h"
+              },
+              "labels": [],
+              "createdAt": "2025-04-25T06:17:39.274Z"
+            },
+            "record": {
+              "$type": "app.bsky.feed.post",
+              "createdAt": "2025-06-16T06:14:19.577Z",
+              "facets": [
+                {
+                  "$type": "app.bsky.richtext.facet",
+                  "features": [
+                    {
+                      "$type": "app.bsky.richtext.facet#mention",
+                      "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl"
+                    }
+                  ],
+                  "index": {
+                    "byteEnd": 86,
+                    "byteStart": 60
+                  }
+                }
+              ],
+              "langs": [
+                "en"
+              ],
+              "text": "Have you had a chance to review the responses to the RFP's, @thebluewizard.bsky.social ?"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2025-06-16T06:14:20.249Z",
+            "viewer": {
+              "threadMuted": false,
+              "embeddingDisabled": false
+            },
+            "labels": [],
+            "$type": "app.bsky.feed.defs#postView"
+          }
+        }
+      }
+    ]
+  }
+}
