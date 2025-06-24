@@ -1,0 +1,1750 @@
+{
+  "mainPosts": [
+    {
+      "post": {
+        "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lsao5jolas2u",
+        "cid": "bafyreifjrfisabizhqpxyhyipjf5ndomd7jarvduu3sek3vpeth7vj2p5y",
+        "author": {
+          "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl",
+          "handle": "thebluewizard.bsky.social",
+          "displayName": "The Blue Wizard",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2zz4sojwnqgfyxycbwgdqoyl/bafkreiddbibr65lhfedmoarrqh7szrr4oqv5dfjewzic5mwaluk4q7r65a@jpeg",
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctp2puc2y",
+            "followedBy": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.graph.follow/3lbq76d5mi32b"
+          },
+          "labels": [],
+          "createdAt": "2023-10-19T17:52:42.784Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2025-06-23T03:44:21.750Z",
+          "facets": [
+            {
+              "$type": "app.bsky.richtext.facet",
+              "features": [
+                {
+                  "$type": "app.bsky.richtext.facet#mention",
+                  "did": "did:plc:6d7ojhzjxull6zmvhbyzgsu3"
+                }
+              ],
+              "index": {
+                "byteEnd": 160,
+                "byteStart": 130
+              }
+            }
+          ],
+          "langs": [
+            "en"
+          ],
+          "text": "After reviewing the proposals, I must say they are ambitious! But they hint that we may need to expand the scope of our search. \n\n@julianfairweather.bsky.social can you call upon contractors in the city to submit proposals? Also, I think we will need to convene Council in 5 days, or so."
+        },
+        "replyCount": 1,
+        "repostCount": 0,
+        "likeCount": 0,
+        "quoteCount": 0,
+        "indexedAt": "2025-06-23T03:44:22.639Z",
+        "viewer": {
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": [],
+        "text": "After reviewing the proposals, I must say they are ambitious! But they hint that we may need to expand the scope of our search. \n\n@julianfairweather.bsky.social can you call upon contractors in the city to submit proposals? Also, I think we will need to convene Council in 5 days, or so."
+      }
+    },
+    {
+      "post": {
+        "uri": "at://did:plc:vjljq7hsolhqmbj3na4rzbfi/app.bsky.feed.post/3lsatwti2lc2x",
+        "cid": "bafyreigik2onfl3mw3jtivd45a7pwqjegxmzwy3kustogfdetpdbjkueqy",
+        "author": {
+          "did": "did:plc:vjljq7hsolhqmbj3na4rzbfi",
+          "handle": "villager-4.bsky.social",
+          "displayName": "Magister Henrich Baylor",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:vjljq7hsolhqmbj3na4rzbfi/bafkreibzjl6qy5a7wexhyku2xl5wlxusjorhs53ysbxyiw54ehat2hwdni@jpeg",
+          "viewer": {
+            "muted": false,
+            "blockedBy": false
+          },
+          "labels": [],
+          "createdAt": "2025-06-18T01:42:44.940Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2025-06-23T05:27:59.594Z",
+          "langs": [
+            "en"
+          ],
+          "text": "Oh merciful tree! They\u2019re all dead! \ud83d\ude31"
+        },
+        "replyCount": 1,
+        "repostCount": 0,
+        "likeCount": 0,
+        "quoteCount": 0,
+        "indexedAt": "2025-06-23T05:28:00.238Z",
+        "viewer": {
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": [],
+        "text": "Oh merciful tree! They\u2019re all dead! \ud83d\ude31"
+      }
+    }
+  ],
+  "replies": {
+    "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lsbuk6w7s22e": [
+      {
+        "post": {
+          "uri": "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.feed.post/3lsbuyprgms2e",
+          "cid": "bafyreigot7ttq4upvgeordhwg43seblmfociia4nnwp77pkb3rktasp5ji",
+          "author": {
+            "did": "did:plc:6d7ojhzjxull6zmvhbyzgsu3",
+            "handle": "julianfairweather.bsky.social",
+            "displayName": "Julian",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6d7ojhzjxull6zmvhbyzgsu3/bafkreibaf7nfpyyjizrynuqkabbydakpbiceqsbz5ilcsgbkykupglqcry@jpeg",
+            "viewer": {
+              "muted": false,
+              "blockedBy": false,
+              "followedBy": "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.graph.follow/3lnmlfcs3aw2h"
+            },
+            "labels": [],
+            "createdAt": "2025-04-25T06:17:39.274Z"
+          },
+          "record": {
+            "$type": "app.bsky.feed.post",
+            "createdAt": "2025-06-23T15:19:36.295Z",
+            "langs": [
+              "en"
+            ],
+            "reply": {
+              "parent": {
+                "cid": "bafyreibqxpfwjv4ha4oxzsbah3p3m32pxzgq5yhuk2pl25oevldhtcyiay",
+                "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lsbuk6w7s22e"
+              },
+              "root": {
+                "cid": "bafyreifjrfisabizhqpxyhyipjf5ndomd7jarvduu3sek3vpeth7vj2p5y",
+                "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lsao5jolas2u"
+              }
+            },
+            "text": "This is highly irregular since the contract review has technically already begun.\n\nHowever, I am up to the task! Thank you for trusting me to make wise and thoughtful decisions, exercising judgment and prudence, respecting the sacred Rules and Regulations of the Realm! I shall not disappoint!"
+          },
+          "replyCount": 0,
+          "repostCount": 0,
+          "likeCount": 0,
+          "quoteCount": 0,
+          "indexedAt": "2025-06-23T15:19:36.644Z",
+          "viewer": {
+            "threadMuted": false,
+            "embeddingDisabled": false
+          },
+          "labels": [],
+          "text": "This is highly irregular since the contract review has technically already begun.\n\nHowever, I am up to the task! Thank you for trusting me to make wise and thoughtful decisions, exercising judgment and prudence, respecting the sacred Rules and Regulations of the Realm! I shall not disappoint!"
+        },
+        "reply": {
+          "root": {
+            "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lsao5jolas2u",
+            "cid": "bafyreifjrfisabizhqpxyhyipjf5ndomd7jarvduu3sek3vpeth7vj2p5y",
+            "author": {
+              "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl",
+              "handle": "thebluewizard.bsky.social",
+              "displayName": "The Blue Wizard",
+              "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2zz4sojwnqgfyxycbwgdqoyl/bafkreiddbibr65lhfedmoarrqh7szrr4oqv5dfjewzic5mwaluk4q7r65a@jpeg",
+              "viewer": {
+                "muted": false,
+                "blockedBy": false,
+                "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctp2puc2y",
+                "followedBy": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.graph.follow/3lbq76d5mi32b"
+              },
+              "labels": [],
+              "createdAt": "2023-10-19T17:52:42.784Z"
+            },
+            "record": {
+              "$type": "app.bsky.feed.post",
+              "createdAt": "2025-06-23T03:44:21.750Z",
+              "facets": [
+                {
+                  "$type": "app.bsky.richtext.facet",
+                  "features": [
+                    {
+                      "$type": "app.bsky.richtext.facet#mention",
+                      "did": "did:plc:6d7ojhzjxull6zmvhbyzgsu3"
+                    }
+                  ],
+                  "index": {
+                    "byteEnd": 160,
+                    "byteStart": 130
+                  }
+                }
+              ],
+              "langs": [
+                "en"
+              ],
+              "text": "After reviewing the proposals, I must say they are ambitious! But they hint that we may need to expand the scope of our search. \n\n@julianfairweather.bsky.social can you call upon contractors in the city to submit proposals? Also, I think we will need to convene Council in 5 days, or so."
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2025-06-23T03:44:22.639Z",
+            "viewer": {
+              "threadMuted": false,
+              "embeddingDisabled": false
+            },
+            "labels": [],
+            "$type": "app.bsky.feed.defs#postView"
+          },
+          "parent": {
+            "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lsbuk6w7s22e",
+            "cid": "bafyreibqxpfwjv4ha4oxzsbah3p3m32pxzgq5yhuk2pl25oevldhtcyiay",
+            "author": {
+              "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl",
+              "handle": "thebluewizard.bsky.social",
+              "displayName": "The Blue Wizard",
+              "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2zz4sojwnqgfyxycbwgdqoyl/bafkreiddbibr65lhfedmoarrqh7szrr4oqv5dfjewzic5mwaluk4q7r65a@jpeg",
+              "viewer": {
+                "muted": false,
+                "blockedBy": false,
+                "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctp2puc2y",
+                "followedBy": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.graph.follow/3lbq76d5mi32b"
+              },
+              "labels": [],
+              "createdAt": "2023-10-19T17:52:42.784Z"
+            },
+            "record": {
+              "$type": "app.bsky.feed.post",
+              "createdAt": "2025-06-23T15:11:28.865Z",
+              "langs": [
+                "en"
+              ],
+              "reply": {
+                "parent": {
+                  "cid": "bafyreibbdckzxu2cofkvvo42rl64f5brlylea6xhoynljxdzxwohsk7lmy",
+                  "uri": "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.feed.post/3lsbuagiizs2e"
+                },
+                "root": {
+                  "cid": "bafyreifjrfisabizhqpxyhyipjf5ndomd7jarvduu3sek3vpeth7vj2p5y",
+                  "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lsao5jolas2u"
+                }
+              },
+              "text": "I see! Actually, it reminds me there's an Urgent Matter I must urgently attend to! Please trigger the Urgent Matters Delegation, and please take care of my out-of-office replies. I must return to my Tower and then to the Dank Forest to continue my (urgent) studies. I will return 5 days hence."
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2025-06-23T15:11:29.144Z",
+            "viewer": {
+              "threadMuted": false,
+              "embeddingDisabled": false
+            },
+            "labels": [],
+            "$type": "app.bsky.feed.defs#postView"
+          },
+          "grandparentAuthor": {
+            "did": "did:plc:6d7ojhzjxull6zmvhbyzgsu3",
+            "handle": "julianfairweather.bsky.social",
+            "displayName": "Julian",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6d7ojhzjxull6zmvhbyzgsu3/bafkreibaf7nfpyyjizrynuqkabbydakpbiceqsbz5ilcsgbkykupglqcry@jpeg",
+            "viewer": {
+              "muted": false,
+              "blockedBy": false,
+              "followedBy": "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.graph.follow/3lnmlfcs3aw2h"
+            },
+            "labels": [],
+            "createdAt": "2025-04-25T06:17:39.274Z"
+          }
+        }
+      }
+    ],
+    "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.feed.post/3lsbuagiizs2e": [
+      {
+        "post": {
+          "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lsbuk6w7s22e",
+          "cid": "bafyreibqxpfwjv4ha4oxzsbah3p3m32pxzgq5yhuk2pl25oevldhtcyiay",
+          "author": {
+            "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl",
+            "handle": "thebluewizard.bsky.social",
+            "displayName": "The Blue Wizard",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2zz4sojwnqgfyxycbwgdqoyl/bafkreiddbibr65lhfedmoarrqh7szrr4oqv5dfjewzic5mwaluk4q7r65a@jpeg",
+            "viewer": {
+              "muted": false,
+              "blockedBy": false,
+              "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctp2puc2y",
+              "followedBy": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.graph.follow/3lbq76d5mi32b"
+            },
+            "labels": [],
+            "createdAt": "2023-10-19T17:52:42.784Z"
+          },
+          "record": {
+            "$type": "app.bsky.feed.post",
+            "createdAt": "2025-06-23T15:11:28.865Z",
+            "langs": [
+              "en"
+            ],
+            "reply": {
+              "parent": {
+                "cid": "bafyreibbdckzxu2cofkvvo42rl64f5brlylea6xhoynljxdzxwohsk7lmy",
+                "uri": "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.feed.post/3lsbuagiizs2e"
+              },
+              "root": {
+                "cid": "bafyreifjrfisabizhqpxyhyipjf5ndomd7jarvduu3sek3vpeth7vj2p5y",
+                "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lsao5jolas2u"
+              }
+            },
+            "text": "I see! Actually, it reminds me there's an Urgent Matter I must urgently attend to! Please trigger the Urgent Matters Delegation, and please take care of my out-of-office replies. I must return to my Tower and then to the Dank Forest to continue my (urgent) studies. I will return 5 days hence."
+          },
+          "replyCount": 1,
+          "repostCount": 0,
+          "likeCount": 0,
+          "quoteCount": 0,
+          "indexedAt": "2025-06-23T15:11:29.144Z",
+          "viewer": {
+            "threadMuted": false,
+            "embeddingDisabled": false
+          },
+          "labels": [],
+          "text": "I see! Actually, it reminds me there's an Urgent Matter I must urgently attend to! Please trigger the Urgent Matters Delegation, and please take care of my out-of-office replies. I must return to my Tower and then to the Dank Forest to continue my (urgent) studies. I will return 5 days hence."
+        },
+        "reply": {
+          "root": {
+            "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lsao5jolas2u",
+            "cid": "bafyreifjrfisabizhqpxyhyipjf5ndomd7jarvduu3sek3vpeth7vj2p5y",
+            "author": {
+              "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl",
+              "handle": "thebluewizard.bsky.social",
+              "displayName": "The Blue Wizard",
+              "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2zz4sojwnqgfyxycbwgdqoyl/bafkreiddbibr65lhfedmoarrqh7szrr4oqv5dfjewzic5mwaluk4q7r65a@jpeg",
+              "viewer": {
+                "muted": false,
+                "blockedBy": false,
+                "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctp2puc2y",
+                "followedBy": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.graph.follow/3lbq76d5mi32b"
+              },
+              "labels": [],
+              "createdAt": "2023-10-19T17:52:42.784Z"
+            },
+            "record": {
+              "$type": "app.bsky.feed.post",
+              "createdAt": "2025-06-23T03:44:21.750Z",
+              "facets": [
+                {
+                  "$type": "app.bsky.richtext.facet",
+                  "features": [
+                    {
+                      "$type": "app.bsky.richtext.facet#mention",
+                      "did": "did:plc:6d7ojhzjxull6zmvhbyzgsu3"
+                    }
+                  ],
+                  "index": {
+                    "byteEnd": 160,
+                    "byteStart": 130
+                  }
+                }
+              ],
+              "langs": [
+                "en"
+              ],
+              "text": "After reviewing the proposals, I must say they are ambitious! But they hint that we may need to expand the scope of our search. \n\n@julianfairweather.bsky.social can you call upon contractors in the city to submit proposals? Also, I think we will need to convene Council in 5 days, or so."
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2025-06-23T03:44:22.639Z",
+            "viewer": {
+              "threadMuted": false,
+              "embeddingDisabled": false
+            },
+            "labels": [],
+            "$type": "app.bsky.feed.defs#postView"
+          },
+          "parent": {
+            "uri": "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.feed.post/3lsbuagiizs2e",
+            "cid": "bafyreibbdckzxu2cofkvvo42rl64f5brlylea6xhoynljxdzxwohsk7lmy",
+            "author": {
+              "did": "did:plc:6d7ojhzjxull6zmvhbyzgsu3",
+              "handle": "julianfairweather.bsky.social",
+              "displayName": "Julian",
+              "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6d7ojhzjxull6zmvhbyzgsu3/bafkreibaf7nfpyyjizrynuqkabbydakpbiceqsbz5ilcsgbkykupglqcry@jpeg",
+              "viewer": {
+                "muted": false,
+                "blockedBy": false,
+                "followedBy": "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.graph.follow/3lnmlfcs3aw2h"
+              },
+              "labels": [],
+              "createdAt": "2025-04-25T06:17:39.274Z"
+            },
+            "record": {
+              "$type": "app.bsky.feed.post",
+              "createdAt": "2025-06-23T15:06:01.260Z",
+              "langs": [
+                "en"
+              ],
+              "reply": {
+                "parent": {
+                  "cid": "bafyreifc7ow5llemsuolj4ppmcwkukv35tnf2loksp5lnxxtsq7evy26v4",
+                  "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lsbu3rcrbc2e"
+                },
+                "root": {
+                  "cid": "bafyreifjrfisabizhqpxyhyipjf5ndomd7jarvduu3sek3vpeth7vj2p5y",
+                  "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lsao5jolas2u"
+                }
+              },
+              "text": "Oh, she invoked the Urgent Matters Delegation clause since she was very busy with urgent things. So this kind \nof thing got tasked to, well, myself - and the Great Hall clerks."
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2025-06-23T15:06:01.642Z",
+            "viewer": {
+              "threadMuted": false,
+              "embeddingDisabled": false
+            },
+            "labels": [],
+            "$type": "app.bsky.feed.defs#postView"
+          },
+          "grandparentAuthor": {
+            "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl",
+            "handle": "thebluewizard.bsky.social",
+            "displayName": "The Blue Wizard",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2zz4sojwnqgfyxycbwgdqoyl/bafkreiddbibr65lhfedmoarrqh7szrr4oqv5dfjewzic5mwaluk4q7r65a@jpeg",
+            "viewer": {
+              "muted": false,
+              "blockedBy": false,
+              "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctp2puc2y",
+              "followedBy": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.graph.follow/3lbq76d5mi32b"
+            },
+            "labels": [],
+            "createdAt": "2023-10-19T17:52:42.784Z"
+          }
+        }
+      }
+    ],
+    "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lsbu3rcrbc2e": [
+      {
+        "post": {
+          "uri": "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.feed.post/3lsbuagiizs2e",
+          "cid": "bafyreibbdckzxu2cofkvvo42rl64f5brlylea6xhoynljxdzxwohsk7lmy",
+          "author": {
+            "did": "did:plc:6d7ojhzjxull6zmvhbyzgsu3",
+            "handle": "julianfairweather.bsky.social",
+            "displayName": "Julian",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6d7ojhzjxull6zmvhbyzgsu3/bafkreibaf7nfpyyjizrynuqkabbydakpbiceqsbz5ilcsgbkykupglqcry@jpeg",
+            "viewer": {
+              "muted": false,
+              "blockedBy": false,
+              "followedBy": "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.graph.follow/3lnmlfcs3aw2h"
+            },
+            "labels": [],
+            "createdAt": "2025-04-25T06:17:39.274Z"
+          },
+          "record": {
+            "$type": "app.bsky.feed.post",
+            "createdAt": "2025-06-23T15:06:01.260Z",
+            "langs": [
+              "en"
+            ],
+            "reply": {
+              "parent": {
+                "cid": "bafyreifc7ow5llemsuolj4ppmcwkukv35tnf2loksp5lnxxtsq7evy26v4",
+                "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lsbu3rcrbc2e"
+              },
+              "root": {
+                "cid": "bafyreifjrfisabizhqpxyhyipjf5ndomd7jarvduu3sek3vpeth7vj2p5y",
+                "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lsao5jolas2u"
+              }
+            },
+            "text": "Oh, she invoked the Urgent Matters Delegation clause since she was very busy with urgent things. So this kind \nof thing got tasked to, well, myself - and the Great Hall clerks."
+          },
+          "replyCount": 1,
+          "repostCount": 0,
+          "likeCount": 0,
+          "quoteCount": 0,
+          "indexedAt": "2025-06-23T15:06:01.642Z",
+          "viewer": {
+            "threadMuted": false,
+            "embeddingDisabled": false
+          },
+          "labels": [],
+          "text": "Oh, she invoked the Urgent Matters Delegation clause since she was very busy with urgent things. So this kind \nof thing got tasked to, well, myself - and the Great Hall clerks."
+        },
+        "reply": {
+          "root": {
+            "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lsao5jolas2u",
+            "cid": "bafyreifjrfisabizhqpxyhyipjf5ndomd7jarvduu3sek3vpeth7vj2p5y",
+            "author": {
+              "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl",
+              "handle": "thebluewizard.bsky.social",
+              "displayName": "The Blue Wizard",
+              "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2zz4sojwnqgfyxycbwgdqoyl/bafkreiddbibr65lhfedmoarrqh7szrr4oqv5dfjewzic5mwaluk4q7r65a@jpeg",
+              "viewer": {
+                "muted": false,
+                "blockedBy": false,
+                "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctp2puc2y",
+                "followedBy": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.graph.follow/3lbq76d5mi32b"
+              },
+              "labels": [],
+              "createdAt": "2023-10-19T17:52:42.784Z"
+            },
+            "record": {
+              "$type": "app.bsky.feed.post",
+              "createdAt": "2025-06-23T03:44:21.750Z",
+              "facets": [
+                {
+                  "$type": "app.bsky.richtext.facet",
+                  "features": [
+                    {
+                      "$type": "app.bsky.richtext.facet#mention",
+                      "did": "did:plc:6d7ojhzjxull6zmvhbyzgsu3"
+                    }
+                  ],
+                  "index": {
+                    "byteEnd": 160,
+                    "byteStart": 130
+                  }
+                }
+              ],
+              "langs": [
+                "en"
+              ],
+              "text": "After reviewing the proposals, I must say they are ambitious! But they hint that we may need to expand the scope of our search. \n\n@julianfairweather.bsky.social can you call upon contractors in the city to submit proposals? Also, I think we will need to convene Council in 5 days, or so."
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2025-06-23T03:44:22.639Z",
+            "viewer": {
+              "threadMuted": false,
+              "embeddingDisabled": false
+            },
+            "labels": [],
+            "$type": "app.bsky.feed.defs#postView"
+          },
+          "parent": {
+            "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lsbu3rcrbc2e",
+            "cid": "bafyreifc7ow5llemsuolj4ppmcwkukv35tnf2loksp5lnxxtsq7evy26v4",
+            "author": {
+              "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl",
+              "handle": "thebluewizard.bsky.social",
+              "displayName": "The Blue Wizard",
+              "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2zz4sojwnqgfyxycbwgdqoyl/bafkreiddbibr65lhfedmoarrqh7szrr4oqv5dfjewzic5mwaluk4q7r65a@jpeg",
+              "viewer": {
+                "muted": false,
+                "blockedBy": false,
+                "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctp2puc2y",
+                "followedBy": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.graph.follow/3lbq76d5mi32b"
+              },
+              "labels": [],
+              "createdAt": "2023-10-19T17:52:42.784Z"
+            },
+            "record": {
+              "$type": "app.bsky.feed.post",
+              "createdAt": "2025-06-23T15:03:24.834Z",
+              "langs": [
+                "en"
+              ],
+              "reply": {
+                "parent": {
+                  "cid": "bafyreicvcos7puwjmumjt44at47owsf44w6lh4elc23u5yiqm6aoqmdquy",
+                  "uri": "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.feed.post/3lsbtyktloc2e"
+                },
+                "root": {
+                  "cid": "bafyreifjrfisabizhqpxyhyipjf5ndomd7jarvduu3sek3vpeth7vj2p5y",
+                  "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lsao5jolas2u"
+                }
+              },
+              "text": "Ok... so, how did Silusa handle this kind of thing?"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2025-06-23T15:03:25.136Z",
+            "viewer": {
+              "threadMuted": false,
+              "embeddingDisabled": false
+            },
+            "labels": [],
+            "$type": "app.bsky.feed.defs#postView"
+          },
+          "grandparentAuthor": {
+            "did": "did:plc:6d7ojhzjxull6zmvhbyzgsu3",
+            "handle": "julianfairweather.bsky.social",
+            "displayName": "Julian",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6d7ojhzjxull6zmvhbyzgsu3/bafkreibaf7nfpyyjizrynuqkabbydakpbiceqsbz5ilcsgbkykupglqcry@jpeg",
+            "viewer": {
+              "muted": false,
+              "blockedBy": false,
+              "followedBy": "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.graph.follow/3lnmlfcs3aw2h"
+            },
+            "labels": [],
+            "createdAt": "2025-04-25T06:17:39.274Z"
+          }
+        }
+      }
+    ],
+    "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.feed.post/3lsbtyktloc2e": [
+      {
+        "post": {
+          "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lsbu3rcrbc2e",
+          "cid": "bafyreifc7ow5llemsuolj4ppmcwkukv35tnf2loksp5lnxxtsq7evy26v4",
+          "author": {
+            "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl",
+            "handle": "thebluewizard.bsky.social",
+            "displayName": "The Blue Wizard",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2zz4sojwnqgfyxycbwgdqoyl/bafkreiddbibr65lhfedmoarrqh7szrr4oqv5dfjewzic5mwaluk4q7r65a@jpeg",
+            "viewer": {
+              "muted": false,
+              "blockedBy": false,
+              "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctp2puc2y",
+              "followedBy": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.graph.follow/3lbq76d5mi32b"
+            },
+            "labels": [],
+            "createdAt": "2023-10-19T17:52:42.784Z"
+          },
+          "record": {
+            "$type": "app.bsky.feed.post",
+            "createdAt": "2025-06-23T15:03:24.834Z",
+            "langs": [
+              "en"
+            ],
+            "reply": {
+              "parent": {
+                "cid": "bafyreicvcos7puwjmumjt44at47owsf44w6lh4elc23u5yiqm6aoqmdquy",
+                "uri": "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.feed.post/3lsbtyktloc2e"
+              },
+              "root": {
+                "cid": "bafyreifjrfisabizhqpxyhyipjf5ndomd7jarvduu3sek3vpeth7vj2p5y",
+                "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lsao5jolas2u"
+              }
+            },
+            "text": "Ok... so, how did Silusa handle this kind of thing?"
+          },
+          "replyCount": 1,
+          "repostCount": 0,
+          "likeCount": 0,
+          "quoteCount": 0,
+          "indexedAt": "2025-06-23T15:03:25.136Z",
+          "viewer": {
+            "threadMuted": false,
+            "embeddingDisabled": false
+          },
+          "labels": [],
+          "text": "Ok... so, how did Silusa handle this kind of thing?"
+        },
+        "reply": {
+          "root": {
+            "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lsao5jolas2u",
+            "cid": "bafyreifjrfisabizhqpxyhyipjf5ndomd7jarvduu3sek3vpeth7vj2p5y",
+            "author": {
+              "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl",
+              "handle": "thebluewizard.bsky.social",
+              "displayName": "The Blue Wizard",
+              "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2zz4sojwnqgfyxycbwgdqoyl/bafkreiddbibr65lhfedmoarrqh7szrr4oqv5dfjewzic5mwaluk4q7r65a@jpeg",
+              "viewer": {
+                "muted": false,
+                "blockedBy": false,
+                "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctp2puc2y",
+                "followedBy": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.graph.follow/3lbq76d5mi32b"
+              },
+              "labels": [],
+              "createdAt": "2023-10-19T17:52:42.784Z"
+            },
+            "record": {
+              "$type": "app.bsky.feed.post",
+              "createdAt": "2025-06-23T03:44:21.750Z",
+              "facets": [
+                {
+                  "$type": "app.bsky.richtext.facet",
+                  "features": [
+                    {
+                      "$type": "app.bsky.richtext.facet#mention",
+                      "did": "did:plc:6d7ojhzjxull6zmvhbyzgsu3"
+                    }
+                  ],
+                  "index": {
+                    "byteEnd": 160,
+                    "byteStart": 130
+                  }
+                }
+              ],
+              "langs": [
+                "en"
+              ],
+              "text": "After reviewing the proposals, I must say they are ambitious! But they hint that we may need to expand the scope of our search. \n\n@julianfairweather.bsky.social can you call upon contractors in the city to submit proposals? Also, I think we will need to convene Council in 5 days, or so."
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2025-06-23T03:44:22.639Z",
+            "viewer": {
+              "threadMuted": false,
+              "embeddingDisabled": false
+            },
+            "labels": [],
+            "$type": "app.bsky.feed.defs#postView"
+          },
+          "parent": {
+            "uri": "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.feed.post/3lsbtyktloc2e",
+            "cid": "bafyreicvcos7puwjmumjt44at47owsf44w6lh4elc23u5yiqm6aoqmdquy",
+            "author": {
+              "did": "did:plc:6d7ojhzjxull6zmvhbyzgsu3",
+              "handle": "julianfairweather.bsky.social",
+              "displayName": "Julian",
+              "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6d7ojhzjxull6zmvhbyzgsu3/bafkreibaf7nfpyyjizrynuqkabbydakpbiceqsbz5ilcsgbkykupglqcry@jpeg",
+              "viewer": {
+                "muted": false,
+                "blockedBy": false,
+                "followedBy": "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.graph.follow/3lnmlfcs3aw2h"
+              },
+              "labels": [],
+              "createdAt": "2025-04-25T06:17:39.274Z"
+            },
+            "record": {
+              "$type": "app.bsky.feed.post",
+              "createdAt": "2025-06-23T15:01:37.382Z",
+              "langs": [
+                "en"
+              ],
+              "reply": {
+                "parent": {
+                  "cid": "bafyreigyplloeqwb4ygx5jhittheqpatpjkd432ypgg5bbatxonq7et5yu",
+                  "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lsbt3334n22e"
+                },
+                "root": {
+                  "cid": "bafyreifjrfisabizhqpxyhyipjf5ndomd7jarvduu3sek3vpeth7vj2p5y",
+                  "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lsao5jolas2u"
+                }
+              },
+              "text": "The Rules on this matter are clear.\n\nPerhaps you missed the Rubrick - there are several volumes bundled together sitting in your mailbox - tethered to your essence, remember? Just utter the summoning spell.\n\nIf you need to engage a Great Hall clerk to help arrange them, just let me know!"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2025-06-23T15:01:37.337Z",
+            "viewer": {
+              "threadMuted": false,
+              "embeddingDisabled": false
+            },
+            "labels": [],
+            "$type": "app.bsky.feed.defs#postView"
+          },
+          "grandparentAuthor": {
+            "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl",
+            "handle": "thebluewizard.bsky.social",
+            "displayName": "The Blue Wizard",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2zz4sojwnqgfyxycbwgdqoyl/bafkreiddbibr65lhfedmoarrqh7szrr4oqv5dfjewzic5mwaluk4q7r65a@jpeg",
+            "viewer": {
+              "muted": false,
+              "blockedBy": false,
+              "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctp2puc2y",
+              "followedBy": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.graph.follow/3lbq76d5mi32b"
+            },
+            "labels": [],
+            "createdAt": "2023-10-19T17:52:42.784Z"
+          }
+        }
+      }
+    ],
+    "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lsbt3334n22e": [
+      {
+        "post": {
+          "uri": "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.feed.post/3lsbtyktloc2e",
+          "cid": "bafyreicvcos7puwjmumjt44at47owsf44w6lh4elc23u5yiqm6aoqmdquy",
+          "author": {
+            "did": "did:plc:6d7ojhzjxull6zmvhbyzgsu3",
+            "handle": "julianfairweather.bsky.social",
+            "displayName": "Julian",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6d7ojhzjxull6zmvhbyzgsu3/bafkreibaf7nfpyyjizrynuqkabbydakpbiceqsbz5ilcsgbkykupglqcry@jpeg",
+            "viewer": {
+              "muted": false,
+              "blockedBy": false,
+              "followedBy": "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.graph.follow/3lnmlfcs3aw2h"
+            },
+            "labels": [],
+            "createdAt": "2025-04-25T06:17:39.274Z"
+          },
+          "record": {
+            "$type": "app.bsky.feed.post",
+            "createdAt": "2025-06-23T15:01:37.382Z",
+            "langs": [
+              "en"
+            ],
+            "reply": {
+              "parent": {
+                "cid": "bafyreigyplloeqwb4ygx5jhittheqpatpjkd432ypgg5bbatxonq7et5yu",
+                "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lsbt3334n22e"
+              },
+              "root": {
+                "cid": "bafyreifjrfisabizhqpxyhyipjf5ndomd7jarvduu3sek3vpeth7vj2p5y",
+                "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lsao5jolas2u"
+              }
+            },
+            "text": "The Rules on this matter are clear.\n\nPerhaps you missed the Rubrick - there are several volumes bundled together sitting in your mailbox - tethered to your essence, remember? Just utter the summoning spell.\n\nIf you need to engage a Great Hall clerk to help arrange them, just let me know!"
+          },
+          "replyCount": 1,
+          "repostCount": 0,
+          "likeCount": 0,
+          "quoteCount": 0,
+          "indexedAt": "2025-06-23T15:01:37.337Z",
+          "viewer": {
+            "threadMuted": false,
+            "embeddingDisabled": false
+          },
+          "labels": [],
+          "text": "The Rules on this matter are clear.\n\nPerhaps you missed the Rubrick - there are several volumes bundled together sitting in your mailbox - tethered to your essence, remember? Just utter the summoning spell.\n\nIf you need to engage a Great Hall clerk to help arrange them, just let me know!"
+        },
+        "reply": {
+          "root": {
+            "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lsao5jolas2u",
+            "cid": "bafyreifjrfisabizhqpxyhyipjf5ndomd7jarvduu3sek3vpeth7vj2p5y",
+            "author": {
+              "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl",
+              "handle": "thebluewizard.bsky.social",
+              "displayName": "The Blue Wizard",
+              "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2zz4sojwnqgfyxycbwgdqoyl/bafkreiddbibr65lhfedmoarrqh7szrr4oqv5dfjewzic5mwaluk4q7r65a@jpeg",
+              "viewer": {
+                "muted": false,
+                "blockedBy": false,
+                "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctp2puc2y",
+                "followedBy": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.graph.follow/3lbq76d5mi32b"
+              },
+              "labels": [],
+              "createdAt": "2023-10-19T17:52:42.784Z"
+            },
+            "record": {
+              "$type": "app.bsky.feed.post",
+              "createdAt": "2025-06-23T03:44:21.750Z",
+              "facets": [
+                {
+                  "$type": "app.bsky.richtext.facet",
+                  "features": [
+                    {
+                      "$type": "app.bsky.richtext.facet#mention",
+                      "did": "did:plc:6d7ojhzjxull6zmvhbyzgsu3"
+                    }
+                  ],
+                  "index": {
+                    "byteEnd": 160,
+                    "byteStart": 130
+                  }
+                }
+              ],
+              "langs": [
+                "en"
+              ],
+              "text": "After reviewing the proposals, I must say they are ambitious! But they hint that we may need to expand the scope of our search. \n\n@julianfairweather.bsky.social can you call upon contractors in the city to submit proposals? Also, I think we will need to convene Council in 5 days, or so."
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2025-06-23T03:44:22.639Z",
+            "viewer": {
+              "threadMuted": false,
+              "embeddingDisabled": false
+            },
+            "labels": [],
+            "$type": "app.bsky.feed.defs#postView"
+          },
+          "parent": {
+            "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lsbt3334n22e",
+            "cid": "bafyreigyplloeqwb4ygx5jhittheqpatpjkd432ypgg5bbatxonq7et5yu",
+            "author": {
+              "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl",
+              "handle": "thebluewizard.bsky.social",
+              "displayName": "The Blue Wizard",
+              "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2zz4sojwnqgfyxycbwgdqoyl/bafkreiddbibr65lhfedmoarrqh7szrr4oqv5dfjewzic5mwaluk4q7r65a@jpeg",
+              "viewer": {
+                "muted": false,
+                "blockedBy": false,
+                "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctp2puc2y",
+                "followedBy": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.graph.follow/3lbq76d5mi32b"
+              },
+              "labels": [],
+              "createdAt": "2023-10-19T17:52:42.784Z"
+            },
+            "record": {
+              "$type": "app.bsky.feed.post",
+              "createdAt": "2025-06-23T14:45:07.771Z",
+              "facets": [
+                {
+                  "$type": "app.bsky.richtext.facet",
+                  "features": [
+                    {
+                      "$type": "app.bsky.richtext.facet#mention",
+                      "did": "did:plc:rvheaigxjzclxkthcmzgano3"
+                    }
+                  ],
+                  "index": {
+                    "byteEnd": 182,
+                    "byteStart": 155
+                  }
+                }
+              ],
+              "langs": [
+                "en"
+              ],
+              "reply": {
+                "parent": {
+                  "cid": "bafyreibrnziva45ceyne2jrrocv4czvnabxb5suqbbnqvcerqagd2mu4d4",
+                  "uri": "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.feed.post/3lsbsroanr22e"
+                },
+                "root": {
+                  "cid": "bafyreifjrfisabizhqpxyhyipjf5ndomd7jarvduu3sek3vpeth7vj2p5y",
+                  "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lsao5jolas2u"
+                }
+              },
+              "text": "FIDDLESMOKE! Every step I take seems to conflict with some obscure rule, norm, or tedious pedantry. \n\nOk, I hereby retract the awarding of the contract to @jimmydirtwater.bsky.social \n\nAnd I suppose I am now to fill out some nasty scoring rubrick before even the most trivial decision can be taken?"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2025-06-23T14:45:07.645Z",
+            "viewer": {
+              "threadMuted": false,
+              "embeddingDisabled": false
+            },
+            "labels": [],
+            "$type": "app.bsky.feed.defs#postView"
+          },
+          "grandparentAuthor": {
+            "did": "did:plc:6d7ojhzjxull6zmvhbyzgsu3",
+            "handle": "julianfairweather.bsky.social",
+            "displayName": "Julian",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6d7ojhzjxull6zmvhbyzgsu3/bafkreibaf7nfpyyjizrynuqkabbydakpbiceqsbz5ilcsgbkykupglqcry@jpeg",
+            "viewer": {
+              "muted": false,
+              "blockedBy": false,
+              "followedBy": "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.graph.follow/3lnmlfcs3aw2h"
+            },
+            "labels": [],
+            "createdAt": "2025-04-25T06:17:39.274Z"
+          }
+        }
+      }
+    ],
+    "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.feed.post/3lsbsroanr22e": [
+      {
+        "post": {
+          "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lsbt3334n22e",
+          "cid": "bafyreigyplloeqwb4ygx5jhittheqpatpjkd432ypgg5bbatxonq7et5yu",
+          "author": {
+            "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl",
+            "handle": "thebluewizard.bsky.social",
+            "displayName": "The Blue Wizard",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2zz4sojwnqgfyxycbwgdqoyl/bafkreiddbibr65lhfedmoarrqh7szrr4oqv5dfjewzic5mwaluk4q7r65a@jpeg",
+            "viewer": {
+              "muted": false,
+              "blockedBy": false,
+              "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctp2puc2y",
+              "followedBy": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.graph.follow/3lbq76d5mi32b"
+            },
+            "labels": [],
+            "createdAt": "2023-10-19T17:52:42.784Z"
+          },
+          "record": {
+            "$type": "app.bsky.feed.post",
+            "createdAt": "2025-06-23T14:45:07.771Z",
+            "facets": [
+              {
+                "$type": "app.bsky.richtext.facet",
+                "features": [
+                  {
+                    "$type": "app.bsky.richtext.facet#mention",
+                    "did": "did:plc:rvheaigxjzclxkthcmzgano3"
+                  }
+                ],
+                "index": {
+                  "byteEnd": 182,
+                  "byteStart": 155
+                }
+              }
+            ],
+            "langs": [
+              "en"
+            ],
+            "reply": {
+              "parent": {
+                "cid": "bafyreibrnziva45ceyne2jrrocv4czvnabxb5suqbbnqvcerqagd2mu4d4",
+                "uri": "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.feed.post/3lsbsroanr22e"
+              },
+              "root": {
+                "cid": "bafyreifjrfisabizhqpxyhyipjf5ndomd7jarvduu3sek3vpeth7vj2p5y",
+                "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lsao5jolas2u"
+              }
+            },
+            "text": "FIDDLESMOKE! Every step I take seems to conflict with some obscure rule, norm, or tedious pedantry. \n\nOk, I hereby retract the awarding of the contract to @jimmydirtwater.bsky.social \n\nAnd I suppose I am now to fill out some nasty scoring rubrick before even the most trivial decision can be taken?"
+          },
+          "replyCount": 1,
+          "repostCount": 0,
+          "likeCount": 0,
+          "quoteCount": 0,
+          "indexedAt": "2025-06-23T14:45:07.645Z",
+          "viewer": {
+            "threadMuted": false,
+            "embeddingDisabled": false
+          },
+          "labels": [],
+          "text": "FIDDLESMOKE! Every step I take seems to conflict with some obscure rule, norm, or tedious pedantry. \n\nOk, I hereby retract the awarding of the contract to @jimmydirtwater.bsky.social \n\nAnd I suppose I am now to fill out some nasty scoring rubrick before even the most trivial decision can be taken?"
+        },
+        "reply": {
+          "root": {
+            "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lsao5jolas2u",
+            "cid": "bafyreifjrfisabizhqpxyhyipjf5ndomd7jarvduu3sek3vpeth7vj2p5y",
+            "author": {
+              "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl",
+              "handle": "thebluewizard.bsky.social",
+              "displayName": "The Blue Wizard",
+              "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2zz4sojwnqgfyxycbwgdqoyl/bafkreiddbibr65lhfedmoarrqh7szrr4oqv5dfjewzic5mwaluk4q7r65a@jpeg",
+              "viewer": {
+                "muted": false,
+                "blockedBy": false,
+                "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctp2puc2y",
+                "followedBy": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.graph.follow/3lbq76d5mi32b"
+              },
+              "labels": [],
+              "createdAt": "2023-10-19T17:52:42.784Z"
+            },
+            "record": {
+              "$type": "app.bsky.feed.post",
+              "createdAt": "2025-06-23T03:44:21.750Z",
+              "facets": [
+                {
+                  "$type": "app.bsky.richtext.facet",
+                  "features": [
+                    {
+                      "$type": "app.bsky.richtext.facet#mention",
+                      "did": "did:plc:6d7ojhzjxull6zmvhbyzgsu3"
+                    }
+                  ],
+                  "index": {
+                    "byteEnd": 160,
+                    "byteStart": 130
+                  }
+                }
+              ],
+              "langs": [
+                "en"
+              ],
+              "text": "After reviewing the proposals, I must say they are ambitious! But they hint that we may need to expand the scope of our search. \n\n@julianfairweather.bsky.social can you call upon contractors in the city to submit proposals? Also, I think we will need to convene Council in 5 days, or so."
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2025-06-23T03:44:22.639Z",
+            "viewer": {
+              "threadMuted": false,
+              "embeddingDisabled": false
+            },
+            "labels": [],
+            "$type": "app.bsky.feed.defs#postView"
+          },
+          "parent": {
+            "uri": "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.feed.post/3lsbsroanr22e",
+            "cid": "bafyreibrnziva45ceyne2jrrocv4czvnabxb5suqbbnqvcerqagd2mu4d4",
+            "author": {
+              "did": "did:plc:6d7ojhzjxull6zmvhbyzgsu3",
+              "handle": "julianfairweather.bsky.social",
+              "displayName": "Julian",
+              "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6d7ojhzjxull6zmvhbyzgsu3/bafkreibaf7nfpyyjizrynuqkabbydakpbiceqsbz5ilcsgbkykupglqcry@jpeg",
+              "viewer": {
+                "muted": false,
+                "blockedBy": false,
+                "followedBy": "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.graph.follow/3lnmlfcs3aw2h"
+              },
+              "labels": [],
+              "createdAt": "2025-04-25T06:17:39.274Z"
+            },
+            "record": {
+              "$type": "app.bsky.feed.post",
+              "createdAt": "2025-06-23T14:39:52.332Z",
+              "langs": [
+                "en"
+              ],
+              "reply": {
+                "parent": {
+                  "cid": "bafyreiavmpgb6tfjjjtwggdxs6uennsnhku75g57uj6n4ub6yv2m4zz4hy",
+                  "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lsaozbacps2u"
+                },
+                "root": {
+                  "cid": "bafyreifjrfisabizhqpxyhyipjf5ndomd7jarvduu3sek3vpeth7vj2p5y",
+                  "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lsao5jolas2u"
+                }
+              },
+              "text": "Did you use the scoring Rubrick to select the winner??\n\nIf not, it would violate Article 23 Schedule B of the High Council Regulations, which triggers a Judicial Anonymous Peer Review!"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2025-06-23T14:39:52.239Z",
+            "viewer": {
+              "threadMuted": false,
+              "embeddingDisabled": false
+            },
+            "labels": [],
+            "$type": "app.bsky.feed.defs#postView"
+          },
+          "grandparentAuthor": {
+            "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl",
+            "handle": "thebluewizard.bsky.social",
+            "displayName": "The Blue Wizard",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2zz4sojwnqgfyxycbwgdqoyl/bafkreiddbibr65lhfedmoarrqh7szrr4oqv5dfjewzic5mwaluk4q7r65a@jpeg",
+            "viewer": {
+              "muted": false,
+              "blockedBy": false,
+              "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctp2puc2y",
+              "followedBy": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.graph.follow/3lbq76d5mi32b"
+            },
+            "labels": [],
+            "createdAt": "2023-10-19T17:52:42.784Z"
+          }
+        }
+      }
+    ],
+    "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lsaozbacps2u": [
+      {
+        "post": {
+          "uri": "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.feed.post/3lsbsroanr22e",
+          "cid": "bafyreibrnziva45ceyne2jrrocv4czvnabxb5suqbbnqvcerqagd2mu4d4",
+          "author": {
+            "did": "did:plc:6d7ojhzjxull6zmvhbyzgsu3",
+            "handle": "julianfairweather.bsky.social",
+            "displayName": "Julian",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6d7ojhzjxull6zmvhbyzgsu3/bafkreibaf7nfpyyjizrynuqkabbydakpbiceqsbz5ilcsgbkykupglqcry@jpeg",
+            "viewer": {
+              "muted": false,
+              "blockedBy": false,
+              "followedBy": "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.graph.follow/3lnmlfcs3aw2h"
+            },
+            "labels": [],
+            "createdAt": "2025-04-25T06:17:39.274Z"
+          },
+          "record": {
+            "$type": "app.bsky.feed.post",
+            "createdAt": "2025-06-23T14:39:52.332Z",
+            "langs": [
+              "en"
+            ],
+            "reply": {
+              "parent": {
+                "cid": "bafyreiavmpgb6tfjjjtwggdxs6uennsnhku75g57uj6n4ub6yv2m4zz4hy",
+                "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lsaozbacps2u"
+              },
+              "root": {
+                "cid": "bafyreifjrfisabizhqpxyhyipjf5ndomd7jarvduu3sek3vpeth7vj2p5y",
+                "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lsao5jolas2u"
+              }
+            },
+            "text": "Did you use the scoring Rubrick to select the winner??\n\nIf not, it would violate Article 23 Schedule B of the High Council Regulations, which triggers a Judicial Anonymous Peer Review!"
+          },
+          "replyCount": 1,
+          "repostCount": 0,
+          "likeCount": 0,
+          "quoteCount": 0,
+          "indexedAt": "2025-06-23T14:39:52.239Z",
+          "viewer": {
+            "threadMuted": false,
+            "embeddingDisabled": false
+          },
+          "labels": [],
+          "text": "Did you use the scoring Rubrick to select the winner??\n\nIf not, it would violate Article 23 Schedule B of the High Council Regulations, which triggers a Judicial Anonymous Peer Review!"
+        },
+        "reply": {
+          "root": {
+            "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lsao5jolas2u",
+            "cid": "bafyreifjrfisabizhqpxyhyipjf5ndomd7jarvduu3sek3vpeth7vj2p5y",
+            "author": {
+              "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl",
+              "handle": "thebluewizard.bsky.social",
+              "displayName": "The Blue Wizard",
+              "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2zz4sojwnqgfyxycbwgdqoyl/bafkreiddbibr65lhfedmoarrqh7szrr4oqv5dfjewzic5mwaluk4q7r65a@jpeg",
+              "viewer": {
+                "muted": false,
+                "blockedBy": false,
+                "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctp2puc2y",
+                "followedBy": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.graph.follow/3lbq76d5mi32b"
+              },
+              "labels": [],
+              "createdAt": "2023-10-19T17:52:42.784Z"
+            },
+            "record": {
+              "$type": "app.bsky.feed.post",
+              "createdAt": "2025-06-23T03:44:21.750Z",
+              "facets": [
+                {
+                  "$type": "app.bsky.richtext.facet",
+                  "features": [
+                    {
+                      "$type": "app.bsky.richtext.facet#mention",
+                      "did": "did:plc:6d7ojhzjxull6zmvhbyzgsu3"
+                    }
+                  ],
+                  "index": {
+                    "byteEnd": 160,
+                    "byteStart": 130
+                  }
+                }
+              ],
+              "langs": [
+                "en"
+              ],
+              "text": "After reviewing the proposals, I must say they are ambitious! But they hint that we may need to expand the scope of our search. \n\n@julianfairweather.bsky.social can you call upon contractors in the city to submit proposals? Also, I think we will need to convene Council in 5 days, or so."
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2025-06-23T03:44:22.639Z",
+            "viewer": {
+              "threadMuted": false,
+              "embeddingDisabled": false
+            },
+            "labels": [],
+            "$type": "app.bsky.feed.defs#postView"
+          },
+          "parent": {
+            "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lsaozbacps2u",
+            "cid": "bafyreiavmpgb6tfjjjtwggdxs6uennsnhku75g57uj6n4ub6yv2m4zz4hy",
+            "author": {
+              "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl",
+              "handle": "thebluewizard.bsky.social",
+              "displayName": "The Blue Wizard",
+              "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2zz4sojwnqgfyxycbwgdqoyl/bafkreiddbibr65lhfedmoarrqh7szrr4oqv5dfjewzic5mwaluk4q7r65a@jpeg",
+              "viewer": {
+                "muted": false,
+                "blockedBy": false,
+                "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctp2puc2y",
+                "followedBy": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.graph.follow/3lbq76d5mi32b"
+              },
+              "labels": [],
+              "createdAt": "2023-10-19T17:52:42.784Z"
+            },
+            "record": {
+              "$type": "app.bsky.feed.post",
+              "createdAt": "2025-06-23T03:59:52.419Z",
+              "facets": [
+                {
+                  "$type": "app.bsky.richtext.facet",
+                  "features": [
+                    {
+                      "$type": "app.bsky.richtext.facet#mention",
+                      "did": "did:plc:rvheaigxjzclxkthcmzgano3"
+                    }
+                  ],
+                  "index": {
+                    "byteEnd": 152,
+                    "byteStart": 125
+                  }
+                }
+              ],
+              "langs": [
+                "en"
+              ],
+              "reply": {
+                "parent": {
+                  "cid": "bafyreifnzzh5kt3xjkrhhtb33v3wtnjwxk6ufvlme6j6a6ghluqd4lep4y",
+                  "uri": "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.feed.post/3lsaovm5hck2u"
+                },
+                "root": {
+                  "cid": "bafyreifjrfisabizhqpxyhyipjf5ndomd7jarvduu3sek3vpeth7vj2p5y",
+                  "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lsao5jolas2u"
+                }
+              },
+              "text": "Sage advice, thank you. Okay, well, there really was only one coherent proposal, so it's an easy choice.\n\nCongratulations to @jimmydirtwater.bsky.social - your drawings were detailed enough for me to understand your vision."
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2025-06-23T03:59:53.437Z",
+            "viewer": {
+              "threadMuted": false,
+              "embeddingDisabled": false
+            },
+            "labels": [],
+            "$type": "app.bsky.feed.defs#postView"
+          },
+          "grandparentAuthor": {
+            "did": "did:plc:6d7ojhzjxull6zmvhbyzgsu3",
+            "handle": "julianfairweather.bsky.social",
+            "displayName": "Julian",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6d7ojhzjxull6zmvhbyzgsu3/bafkreibaf7nfpyyjizrynuqkabbydakpbiceqsbz5ilcsgbkykupglqcry@jpeg",
+            "viewer": {
+              "muted": false,
+              "blockedBy": false,
+              "followedBy": "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.graph.follow/3lnmlfcs3aw2h"
+            },
+            "labels": [],
+            "createdAt": "2025-04-25T06:17:39.274Z"
+          }
+        }
+      }
+    ],
+    "at://did:plc:vjljq7hsolhqmbj3na4rzbfi/app.bsky.feed.post/3lsatwti2lc2x": [
+      {
+        "post": {
+          "uri": "at://did:plc:vjljq7hsolhqmbj3na4rzbfi/app.bsky.feed.post/3lsatxiewus2x",
+          "cid": "bafyreiciozjae7efsafazftt5ip4gpipz7z6pfyqlwszsbgciynz27dslu",
+          "author": {
+            "did": "did:plc:vjljq7hsolhqmbj3na4rzbfi",
+            "handle": "villager-4.bsky.social",
+            "displayName": "Magister Henrich Baylor",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:vjljq7hsolhqmbj3na4rzbfi/bafkreibzjl6qy5a7wexhyku2xl5wlxusjorhs53ysbxyiw54ehat2hwdni@jpeg",
+            "viewer": {
+              "muted": false,
+              "blockedBy": false
+            },
+            "labels": [],
+            "createdAt": "2025-06-18T01:42:44.940Z"
+          },
+          "record": {
+            "$type": "app.bsky.feed.post",
+            "createdAt": "2025-06-23T05:28:21.512Z",
+            "langs": [
+              "en"
+            ],
+            "reply": {
+              "parent": {
+                "cid": "bafyreigik2onfl3mw3jtivd45a7pwqjegxmzwy3kustogfdetpdbjkueqy",
+                "uri": "at://did:plc:vjljq7hsolhqmbj3na4rzbfi/app.bsky.feed.post/3lsatwti2lc2x"
+              },
+              "root": {
+                "cid": "bafyreigik2onfl3mw3jtivd45a7pwqjegxmzwy3kustogfdetpdbjkueqy",
+                "uri": "at://did:plc:vjljq7hsolhqmbj3na4rzbfi/app.bsky.feed.post/3lsatwti2lc2x"
+              }
+            },
+            "text": "Oh, no they\u2019re just sleeping."
+          },
+          "replyCount": 0,
+          "repostCount": 0,
+          "likeCount": 0,
+          "quoteCount": 0,
+          "indexedAt": "2025-06-23T05:28:21.939Z",
+          "viewer": {
+            "threadMuted": false,
+            "embeddingDisabled": false
+          },
+          "labels": [],
+          "text": "Oh, no they\u2019re just sleeping."
+        },
+        "reply": {
+          "root": {
+            "uri": "at://did:plc:vjljq7hsolhqmbj3na4rzbfi/app.bsky.feed.post/3lsatwti2lc2x",
+            "cid": "bafyreigik2onfl3mw3jtivd45a7pwqjegxmzwy3kustogfdetpdbjkueqy",
+            "author": {
+              "did": "did:plc:vjljq7hsolhqmbj3na4rzbfi",
+              "handle": "villager-4.bsky.social",
+              "displayName": "Magister Henrich Baylor",
+              "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:vjljq7hsolhqmbj3na4rzbfi/bafkreibzjl6qy5a7wexhyku2xl5wlxusjorhs53ysbxyiw54ehat2hwdni@jpeg",
+              "viewer": {
+                "muted": false,
+                "blockedBy": false
+              },
+              "labels": [],
+              "createdAt": "2025-06-18T01:42:44.940Z"
+            },
+            "record": {
+              "$type": "app.bsky.feed.post",
+              "createdAt": "2025-06-23T05:27:59.594Z",
+              "langs": [
+                "en"
+              ],
+              "text": "Oh merciful tree! They\u2019re all dead! \ud83d\ude31"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2025-06-23T05:28:00.238Z",
+            "viewer": {
+              "threadMuted": false,
+              "embeddingDisabled": false
+            },
+            "labels": [],
+            "$type": "app.bsky.feed.defs#postView"
+          },
+          "parent": {
+            "uri": "at://did:plc:vjljq7hsolhqmbj3na4rzbfi/app.bsky.feed.post/3lsatwti2lc2x",
+            "cid": "bafyreigik2onfl3mw3jtivd45a7pwqjegxmzwy3kustogfdetpdbjkueqy",
+            "author": {
+              "did": "did:plc:vjljq7hsolhqmbj3na4rzbfi",
+              "handle": "villager-4.bsky.social",
+              "displayName": "Magister Henrich Baylor",
+              "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:vjljq7hsolhqmbj3na4rzbfi/bafkreibzjl6qy5a7wexhyku2xl5wlxusjorhs53ysbxyiw54ehat2hwdni@jpeg",
+              "viewer": {
+                "muted": false,
+                "blockedBy": false
+              },
+              "labels": [],
+              "createdAt": "2025-06-18T01:42:44.940Z"
+            },
+            "record": {
+              "$type": "app.bsky.feed.post",
+              "createdAt": "2025-06-23T05:27:59.594Z",
+              "langs": [
+                "en"
+              ],
+              "text": "Oh merciful tree! They\u2019re all dead! \ud83d\ude31"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2025-06-23T05:28:00.238Z",
+            "viewer": {
+              "threadMuted": false,
+              "embeddingDisabled": false
+            },
+            "labels": [],
+            "$type": "app.bsky.feed.defs#postView"
+          }
+        }
+      }
+    ],
+    "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.feed.post/3lsaovm5hck2u": [
+      {
+        "post": {
+          "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lsaozbacps2u",
+          "cid": "bafyreiavmpgb6tfjjjtwggdxs6uennsnhku75g57uj6n4ub6yv2m4zz4hy",
+          "author": {
+            "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl",
+            "handle": "thebluewizard.bsky.social",
+            "displayName": "The Blue Wizard",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2zz4sojwnqgfyxycbwgdqoyl/bafkreiddbibr65lhfedmoarrqh7szrr4oqv5dfjewzic5mwaluk4q7r65a@jpeg",
+            "viewer": {
+              "muted": false,
+              "blockedBy": false,
+              "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctp2puc2y",
+              "followedBy": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.graph.follow/3lbq76d5mi32b"
+            },
+            "labels": [],
+            "createdAt": "2023-10-19T17:52:42.784Z"
+          },
+          "record": {
+            "$type": "app.bsky.feed.post",
+            "createdAt": "2025-06-23T03:59:52.419Z",
+            "facets": [
+              {
+                "$type": "app.bsky.richtext.facet",
+                "features": [
+                  {
+                    "$type": "app.bsky.richtext.facet#mention",
+                    "did": "did:plc:rvheaigxjzclxkthcmzgano3"
+                  }
+                ],
+                "index": {
+                  "byteEnd": 152,
+                  "byteStart": 125
+                }
+              }
+            ],
+            "langs": [
+              "en"
+            ],
+            "reply": {
+              "parent": {
+                "cid": "bafyreifnzzh5kt3xjkrhhtb33v3wtnjwxk6ufvlme6j6a6ghluqd4lep4y",
+                "uri": "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.feed.post/3lsaovm5hck2u"
+              },
+              "root": {
+                "cid": "bafyreifjrfisabizhqpxyhyipjf5ndomd7jarvduu3sek3vpeth7vj2p5y",
+                "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lsao5jolas2u"
+              }
+            },
+            "text": "Sage advice, thank you. Okay, well, there really was only one coherent proposal, so it's an easy choice.\n\nCongratulations to @jimmydirtwater.bsky.social - your drawings were detailed enough for me to understand your vision."
+          },
+          "replyCount": 1,
+          "repostCount": 0,
+          "likeCount": 0,
+          "quoteCount": 0,
+          "indexedAt": "2025-06-23T03:59:53.437Z",
+          "viewer": {
+            "threadMuted": false,
+            "embeddingDisabled": false
+          },
+          "labels": [],
+          "text": "Sage advice, thank you. Okay, well, there really was only one coherent proposal, so it's an easy choice.\n\nCongratulations to @jimmydirtwater.bsky.social - your drawings were detailed enough for me to understand your vision."
+        },
+        "reply": {
+          "root": {
+            "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lsao5jolas2u",
+            "cid": "bafyreifjrfisabizhqpxyhyipjf5ndomd7jarvduu3sek3vpeth7vj2p5y",
+            "author": {
+              "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl",
+              "handle": "thebluewizard.bsky.social",
+              "displayName": "The Blue Wizard",
+              "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2zz4sojwnqgfyxycbwgdqoyl/bafkreiddbibr65lhfedmoarrqh7szrr4oqv5dfjewzic5mwaluk4q7r65a@jpeg",
+              "viewer": {
+                "muted": false,
+                "blockedBy": false,
+                "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctp2puc2y",
+                "followedBy": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.graph.follow/3lbq76d5mi32b"
+              },
+              "labels": [],
+              "createdAt": "2023-10-19T17:52:42.784Z"
+            },
+            "record": {
+              "$type": "app.bsky.feed.post",
+              "createdAt": "2025-06-23T03:44:21.750Z",
+              "facets": [
+                {
+                  "$type": "app.bsky.richtext.facet",
+                  "features": [
+                    {
+                      "$type": "app.bsky.richtext.facet#mention",
+                      "did": "did:plc:6d7ojhzjxull6zmvhbyzgsu3"
+                    }
+                  ],
+                  "index": {
+                    "byteEnd": 160,
+                    "byteStart": 130
+                  }
+                }
+              ],
+              "langs": [
+                "en"
+              ],
+              "text": "After reviewing the proposals, I must say they are ambitious! But they hint that we may need to expand the scope of our search. \n\n@julianfairweather.bsky.social can you call upon contractors in the city to submit proposals? Also, I think we will need to convene Council in 5 days, or so."
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2025-06-23T03:44:22.639Z",
+            "viewer": {
+              "threadMuted": false,
+              "embeddingDisabled": false
+            },
+            "labels": [],
+            "$type": "app.bsky.feed.defs#postView"
+          },
+          "parent": {
+            "uri": "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.feed.post/3lsaovm5hck2u",
+            "cid": "bafyreifnzzh5kt3xjkrhhtb33v3wtnjwxk6ufvlme6j6a6ghluqd4lep4y",
+            "author": {
+              "did": "did:plc:6d7ojhzjxull6zmvhbyzgsu3",
+              "handle": "julianfairweather.bsky.social",
+              "displayName": "Julian",
+              "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6d7ojhzjxull6zmvhbyzgsu3/bafkreibaf7nfpyyjizrynuqkabbydakpbiceqsbz5ilcsgbkykupglqcry@jpeg",
+              "viewer": {
+                "muted": false,
+                "blockedBy": false,
+                "followedBy": "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.graph.follow/3lnmlfcs3aw2h"
+              },
+              "labels": [],
+              "createdAt": "2025-04-25T06:17:39.274Z"
+            },
+            "record": {
+              "$type": "app.bsky.feed.post",
+              "createdAt": "2025-06-23T03:57:49.643Z",
+              "langs": [
+                "en"
+              ],
+              "reply": {
+                "parent": {
+                  "cid": "bafyreifjrfisabizhqpxyhyipjf5ndomd7jarvduu3sek3vpeth7vj2p5y",
+                  "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lsao5jolas2u"
+                },
+                "root": {
+                  "cid": "bafyreifjrfisabizhqpxyhyipjf5ndomd7jarvduu3sek3vpeth7vj2p5y",
+                  "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lsao5jolas2u"
+                }
+              },
+              "text": "A Council meeting cannot just be called given a moment's notice! It can take weeks to get word out to Council members - many of whom live abroad.\n\nAlso, Prince Farallel should arrive within a week. He will certainly provide support!\n\nMaybe just choose a local builder and move this forward?"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2025-06-23T03:57:50.238Z",
+            "viewer": {
+              "threadMuted": false,
+              "embeddingDisabled": false
+            },
+            "labels": [],
+            "$type": "app.bsky.feed.defs#postView"
+          },
+          "grandparentAuthor": {
+            "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl",
+            "handle": "thebluewizard.bsky.social",
+            "displayName": "The Blue Wizard",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2zz4sojwnqgfyxycbwgdqoyl/bafkreiddbibr65lhfedmoarrqh7szrr4oqv5dfjewzic5mwaluk4q7r65a@jpeg",
+            "viewer": {
+              "muted": false,
+              "blockedBy": false,
+              "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctp2puc2y",
+              "followedBy": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.graph.follow/3lbq76d5mi32b"
+            },
+            "labels": [],
+            "createdAt": "2023-10-19T17:52:42.784Z"
+          }
+        }
+      }
+    ],
+    "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lsao5jolas2u": [
+      {
+        "post": {
+          "uri": "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.feed.post/3lsaovm5hck2u",
+          "cid": "bafyreifnzzh5kt3xjkrhhtb33v3wtnjwxk6ufvlme6j6a6ghluqd4lep4y",
+          "author": {
+            "did": "did:plc:6d7ojhzjxull6zmvhbyzgsu3",
+            "handle": "julianfairweather.bsky.social",
+            "displayName": "Julian",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6d7ojhzjxull6zmvhbyzgsu3/bafkreibaf7nfpyyjizrynuqkabbydakpbiceqsbz5ilcsgbkykupglqcry@jpeg",
+            "viewer": {
+              "muted": false,
+              "blockedBy": false,
+              "followedBy": "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.graph.follow/3lnmlfcs3aw2h"
+            },
+            "labels": [],
+            "createdAt": "2025-04-25T06:17:39.274Z"
+          },
+          "record": {
+            "$type": "app.bsky.feed.post",
+            "createdAt": "2025-06-23T03:57:49.643Z",
+            "langs": [
+              "en"
+            ],
+            "reply": {
+              "parent": {
+                "cid": "bafyreifjrfisabizhqpxyhyipjf5ndomd7jarvduu3sek3vpeth7vj2p5y",
+                "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lsao5jolas2u"
+              },
+              "root": {
+                "cid": "bafyreifjrfisabizhqpxyhyipjf5ndomd7jarvduu3sek3vpeth7vj2p5y",
+                "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lsao5jolas2u"
+              }
+            },
+            "text": "A Council meeting cannot just be called given a moment's notice! It can take weeks to get word out to Council members - many of whom live abroad.\n\nAlso, Prince Farallel should arrive within a week. He will certainly provide support!\n\nMaybe just choose a local builder and move this forward?"
+          },
+          "replyCount": 1,
+          "repostCount": 0,
+          "likeCount": 0,
+          "quoteCount": 0,
+          "indexedAt": "2025-06-23T03:57:50.238Z",
+          "viewer": {
+            "threadMuted": false,
+            "embeddingDisabled": false
+          },
+          "labels": [],
+          "text": "A Council meeting cannot just be called given a moment's notice! It can take weeks to get word out to Council members - many of whom live abroad.\n\nAlso, Prince Farallel should arrive within a week. He will certainly provide support!\n\nMaybe just choose a local builder and move this forward?"
+        },
+        "reply": {
+          "root": {
+            "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lsao5jolas2u",
+            "cid": "bafyreifjrfisabizhqpxyhyipjf5ndomd7jarvduu3sek3vpeth7vj2p5y",
+            "author": {
+              "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl",
+              "handle": "thebluewizard.bsky.social",
+              "displayName": "The Blue Wizard",
+              "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2zz4sojwnqgfyxycbwgdqoyl/bafkreiddbibr65lhfedmoarrqh7szrr4oqv5dfjewzic5mwaluk4q7r65a@jpeg",
+              "viewer": {
+                "muted": false,
+                "blockedBy": false,
+                "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctp2puc2y",
+                "followedBy": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.graph.follow/3lbq76d5mi32b"
+              },
+              "labels": [],
+              "createdAt": "2023-10-19T17:52:42.784Z"
+            },
+            "record": {
+              "$type": "app.bsky.feed.post",
+              "createdAt": "2025-06-23T03:44:21.750Z",
+              "facets": [
+                {
+                  "$type": "app.bsky.richtext.facet",
+                  "features": [
+                    {
+                      "$type": "app.bsky.richtext.facet#mention",
+                      "did": "did:plc:6d7ojhzjxull6zmvhbyzgsu3"
+                    }
+                  ],
+                  "index": {
+                    "byteEnd": 160,
+                    "byteStart": 130
+                  }
+                }
+              ],
+              "langs": [
+                "en"
+              ],
+              "text": "After reviewing the proposals, I must say they are ambitious! But they hint that we may need to expand the scope of our search. \n\n@julianfairweather.bsky.social can you call upon contractors in the city to submit proposals? Also, I think we will need to convene Council in 5 days, or so."
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2025-06-23T03:44:22.639Z",
+            "viewer": {
+              "threadMuted": false,
+              "embeddingDisabled": false
+            },
+            "labels": [],
+            "$type": "app.bsky.feed.defs#postView"
+          },
+          "parent": {
+            "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3lsao5jolas2u",
+            "cid": "bafyreifjrfisabizhqpxyhyipjf5ndomd7jarvduu3sek3vpeth7vj2p5y",
+            "author": {
+              "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl",
+              "handle": "thebluewizard.bsky.social",
+              "displayName": "The Blue Wizard",
+              "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2zz4sojwnqgfyxycbwgdqoyl/bafkreiddbibr65lhfedmoarrqh7szrr4oqv5dfjewzic5mwaluk4q7r65a@jpeg",
+              "viewer": {
+                "muted": false,
+                "blockedBy": false,
+                "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctp2puc2y",
+                "followedBy": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.graph.follow/3lbq76d5mi32b"
+              },
+              "labels": [],
+              "createdAt": "2023-10-19T17:52:42.784Z"
+            },
+            "record": {
+              "$type": "app.bsky.feed.post",
+              "createdAt": "2025-06-23T03:44:21.750Z",
+              "facets": [
+                {
+                  "$type": "app.bsky.richtext.facet",
+                  "features": [
+                    {
+                      "$type": "app.bsky.richtext.facet#mention",
+                      "did": "did:plc:6d7ojhzjxull6zmvhbyzgsu3"
+                    }
+                  ],
+                  "index": {
+                    "byteEnd": 160,
+                    "byteStart": 130
+                  }
+                }
+              ],
+              "langs": [
+                "en"
+              ],
+              "text": "After reviewing the proposals, I must say they are ambitious! But they hint that we may need to expand the scope of our search. \n\n@julianfairweather.bsky.social can you call upon contractors in the city to submit proposals? Also, I think we will need to convene Council in 5 days, or so."
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2025-06-23T03:44:22.639Z",
+            "viewer": {
+              "threadMuted": false,
+              "embeddingDisabled": false
+            },
+            "labels": [],
+            "$type": "app.bsky.feed.defs#postView"
+          }
+        }
+      }
+    ]
+  }
+}
