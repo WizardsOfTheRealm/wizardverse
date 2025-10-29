@@ -1,0 +1,863 @@
+{
+  "mainPosts": [
+    {
+      "post": {
+        "uri": "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.feed.post/3m4a4g5jwvs2z",
+        "cid": "bafyreihjslgn27j4htyzrmcrrarpnhm5obp44zorhxwqvqmokalxdfrcbu",
+        "author": {
+          "did": "did:plc:6d7ojhzjxull6zmvhbyzgsu3",
+          "handle": "julianfairweather.bsky.social",
+          "displayName": "Julian",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6d7ojhzjxull6zmvhbyzgsu3/bafkreibaf7nfpyyjizrynuqkabbydakpbiceqsbz5ilcsgbkykupglqcry@jpeg",
+          "associated": {
+            "activitySubscription": {
+              "allowSubscriptions": "followers"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "followedBy": "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.graph.follow/3lnmlfcs3aw2h"
+          },
+          "labels": [],
+          "createdAt": "2025-04-25T06:17:39.274Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2025-10-28T04:38:59.931Z",
+          "facets": [
+            {
+              "$type": "app.bsky.richtext.facet",
+              "features": [
+                {
+                  "$type": "app.bsky.richtext.facet#mention",
+                  "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl"
+                }
+              ],
+              "index": {
+                "byteEnd": 26,
+                "byteStart": 0
+              }
+            }
+          ],
+          "langs": [
+            "en"
+          ],
+          "text": "@thebluewizard.bsky.social you have received a letter on Farallel royal letterhead from a \"Mr. Perclancy.\"\n\nIt informs that you have been appointed to the position of Royal Tutor to Prince Farallel.\n\nPlease come to your office so you can fill out the required paperwork."
+        },
+        "bookmarkCount": 0,
+        "replyCount": 1,
+        "repostCount": 0,
+        "likeCount": 0,
+        "quoteCount": 0,
+        "indexedAt": "2025-10-28T04:39:00.859Z",
+        "viewer": {
+          "bookmarked": false,
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": [],
+        "text": "@thebluewizard.bsky.social you have received a letter on Farallel royal letterhead from a \"Mr. Perclancy.\"\n\nIt informs that you have been appointed to the position of Royal Tutor to Prince Farallel.\n\nPlease come to your office so you can fill out the required paperwork."
+      }
+    },
+    {
+      "post": {
+        "uri": "at://did:plc:dyhferaekcfoi2ralb473wbi/app.bsky.feed.post/3m4a4t6btwk2z",
+        "cid": "bafyreihi7od5vsapniuiv7y2vj4kax66az6hnbuevl4g5ulleihbe7rozq",
+        "author": {
+          "did": "did:plc:dyhferaekcfoi2ralb473wbi",
+          "handle": "thegreenwizard.bsky.social",
+          "displayName": "The Green Wizard",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:dyhferaekcfoi2ralb473wbi/bafkreiai2vwa4jpqwzqbbhh4u6mqr6kcombzrhfiyjjxqynjopuyj64yse@jpeg",
+          "associated": {
+            "chat": {
+              "allowIncoming": "following"
+            },
+            "activitySubscription": {
+              "allowSubscriptions": "followers"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctusxga2q"
+          },
+          "labels": [],
+          "createdAt": "2023-09-20T21:06:29.785Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2025-10-28T04:46:16.923Z",
+          "langs": [
+            "en"
+          ],
+          "text": "I am honoured to announce that I've been asked to fill the role of Royal Tutor for our kingdom's fine prince!\n\nHe may simply be angling for a little one-on-one time with a certain apprentice of mine \ud83d\ude01 \n\nBut either way I'm excited to be the most accomplished and capable Royal Tutor of all time!!"
+        },
+        "bookmarkCount": 0,
+        "replyCount": 0,
+        "repostCount": 0,
+        "likeCount": 0,
+        "quoteCount": 0,
+        "indexedAt": "2025-10-28T04:46:17.458Z",
+        "viewer": {
+          "bookmarked": false,
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": [],
+        "text": "I am honoured to announce that I've been asked to fill the role of Royal Tutor for our kingdom's fine prince!\n\nHe may simply be angling for a little one-on-one time with a certain apprentice of mine \ud83d\ude01 \n\nBut either way I'm excited to be the most accomplished and capable Royal Tutor of all time!!"
+      }
+    },
+    {
+      "post": {
+        "uri": "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.feed.post/3m4a6i2x3zc2x",
+        "cid": "bafyreibzvulh4kkpdl5uiudkacqvkpjcloqzfnlyv446lvdkhzv5a3v3am",
+        "author": {
+          "did": "did:plc:6d7ojhzjxull6zmvhbyzgsu3",
+          "handle": "julianfairweather.bsky.social",
+          "displayName": "Julian",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6d7ojhzjxull6zmvhbyzgsu3/bafkreibaf7nfpyyjizrynuqkabbydakpbiceqsbz5ilcsgbkykupglqcry@jpeg",
+          "associated": {
+            "activitySubscription": {
+              "allowSubscriptions": "followers"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "followedBy": "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.graph.follow/3lnmlfcs3aw2h"
+          },
+          "labels": [],
+          "createdAt": "2025-04-25T06:17:39.274Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2025-10-28T05:15:51.809Z",
+          "facets": [
+            {
+              "$type": "app.bsky.richtext.facet",
+              "features": [
+                {
+                  "$type": "app.bsky.richtext.facet#mention",
+                  "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl"
+                }
+              ],
+              "index": {
+                "byteEnd": 125,
+                "byteStart": 99
+              }
+            }
+          ],
+          "langs": [
+            "en"
+          ],
+          "text": "another reason to come to your Council Chambers: I have some budgetary items that are long overdue @thebluewizard.bsky.social\n\nalso, have you completed entering all the bridge expenses to your Council ledger? I hope so... they were due by Finance last week and i have been using those numbers."
+        },
+        "bookmarkCount": 0,
+        "replyCount": 1,
+        "repostCount": 0,
+        "likeCount": 0,
+        "quoteCount": 0,
+        "indexedAt": "2025-10-28T05:15:52.557Z",
+        "viewer": {
+          "bookmarked": false,
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": [],
+        "text": "another reason to come to your Council Chambers: I have some budgetary items that are long overdue @thebluewizard.bsky.social\n\nalso, have you completed entering all the bridge expenses to your Council ledger? I hope so... they were due by Finance last week and i have been using those numbers."
+      }
+    },
+    {
+      "post": {
+        "uri": "at://did:plc:qggav74cpf4b4jmhjxzpwjjj/app.bsky.feed.post/3m4a7cyd6sc2s",
+        "cid": "bafyreibjne4t5f57v534ragaopfqhbts2nbrwjkc4noiturr4jqcpejhou",
+        "author": {
+          "did": "did:plc:qggav74cpf4b4jmhjxzpwjjj",
+          "handle": "villager-3.bsky.social",
+          "displayName": "Villager",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qggav74cpf4b4jmhjxzpwjjj/bafkreicwlbmditvwc5av3vybpvworpbg45rffsuvj3b6sqzqtkes2ydjxe@jpeg",
+          "associated": {
+            "activitySubscription": {
+              "allowSubscriptions": "followers"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "followedBy": "at://did:plc:qggav74cpf4b4jmhjxzpwjjj/app.bsky.graph.follow/3lpzr3sb2g324"
+          },
+          "labels": [],
+          "createdAt": "2025-05-25T22:53:48.740Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2025-10-28T05:30:55.028Z",
+          "langs": [
+            "en"
+          ],
+          "text": "So long suckers!!! My precious Perclancy has asked me to marry him, tomorrow we leave this rotting village to elope and travel the Realm together. \n\nWow four months ago I was ready to end it all but I guess the old saying is true. Sometimes life does have a way of turning clamberries into paste \ud83e\udd72"
+        },
+        "bookmarkCount": 0,
+        "replyCount": 0,
+        "repostCount": 0,
+        "likeCount": 1,
+        "quoteCount": 0,
+        "indexedAt": "2025-10-28T05:30:56.061Z",
+        "viewer": {
+          "bookmarked": false,
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": [],
+        "text": "So long suckers!!! My precious Perclancy has asked me to marry him, tomorrow we leave this rotting village to elope and travel the Realm together. \n\nWow four months ago I was ready to end it all but I guess the old saying is true. Sometimes life does have a way of turning clamberries into paste \ud83e\udd72"
+      }
+    },
+    {
+      "post": {
+        "uri": "at://did:plc:mi7pxcpcmcxkgxfedkst7nb2/app.bsky.feed.post/3m4a7zpqew22s",
+        "cid": "bafyreibfhasgi2ykyf7lhuop6unvv7tlwp2abeir6cukbbiznta7ues5pq",
+        "author": {
+          "did": "did:plc:mi7pxcpcmcxkgxfedkst7nb2",
+          "handle": "princefarallel.bsky.social",
+          "displayName": "Prince Farallel",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mi7pxcpcmcxkgxfedkst7nb2/bafkreibusjosiuxvtueasrfeyiq6usgj7xwqxydavfcikbc7mkrsrrrnki@jpeg",
+          "associated": {
+            "activitySubscription": {
+              "allowSubscriptions": "followers"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "blockedBy": false
+          },
+          "labels": [],
+          "createdAt": "2025-05-18T21:42:03.639Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2025-10-28T05:43:37.777Z",
+          "langs": [
+            "en"
+          ],
+          "text": "Oh Diary, Perclancy has submitted his resignation as my tutor. I am dreadfully happy for him but I will miss his mentorship, his crooked spectacles, our fluffy biscuit fights, the giggles. I wish for myself what he has found with his canary-fingered villager\u2026 love. \n\nOh ho! I have received a letter!"
+        },
+        "bookmarkCount": 0,
+        "replyCount": 0,
+        "repostCount": 0,
+        "likeCount": 0,
+        "quoteCount": 0,
+        "indexedAt": "2025-10-28T05:43:38.260Z",
+        "viewer": {
+          "bookmarked": false,
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": [],
+        "text": "Oh Diary, Perclancy has submitted his resignation as my tutor. I am dreadfully happy for him but I will miss his mentorship, his crooked spectacles, our fluffy biscuit fights, the giggles. I wish for myself what he has found with his canary-fingered villager\u2026 love. \n\nOh ho! I have received a letter!"
+      }
+    },
+    {
+      "post": {
+        "uri": "at://did:plc:mi7pxcpcmcxkgxfedkst7nb2/app.bsky.feed.post/3m4aagng6c22s",
+        "cid": "bafyreiclogbgsq2e3amhswqqadz6jzbucguylxxhb5q7hn3alvs2nlt3ei",
+        "author": {
+          "did": "did:plc:mi7pxcpcmcxkgxfedkst7nb2",
+          "handle": "princefarallel.bsky.social",
+          "displayName": "Prince Farallel",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mi7pxcpcmcxkgxfedkst7nb2/bafkreibusjosiuxvtueasrfeyiq6usgj7xwqxydavfcikbc7mkrsrrrnki@jpeg",
+          "associated": {
+            "activitySubscription": {
+              "allowSubscriptions": "followers"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "blockedBy": false
+          },
+          "labels": [],
+          "createdAt": "2025-05-18T21:42:03.639Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2025-10-28T05:50:51.552Z",
+          "facets": [
+            {
+              "$type": "app.bsky.richtext.facet",
+              "features": [
+                {
+                  "$type": "app.bsky.richtext.facet#mention",
+                  "did": "did:plc:bzmbo74r5yhiuj4m4rnrlehi"
+                }
+              ],
+              "index": {
+                "byteEnd": 34,
+                "byteStart": 5
+              }
+            }
+          ],
+          "langs": [
+            "en"
+          ],
+          "text": "Dear @abigailgrunewald.bsky.social,\n\nI am chuffed by your response! I knew my letter risked going unanswered, as I have no doubt you are teeming with suitors, lovely as you are. \n\nWhat is your favourite bird? I have never courted a lady via correspondence, so please forgive any impropriety.\n\n\u2013HRHPF"
+        },
+        "bookmarkCount": 0,
+        "replyCount": 1,
+        "repostCount": 0,
+        "likeCount": 0,
+        "quoteCount": 0,
+        "indexedAt": "2025-10-28T05:51:02.456Z",
+        "viewer": {
+          "bookmarked": false,
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": [],
+        "text": "Dear @abigailgrunewald.bsky.social,\n\nI am chuffed by your response! I knew my letter risked going unanswered, as I have no doubt you are teeming with suitors, lovely as you are. \n\nWhat is your favourite bird? I have never courted a lady via correspondence, so please forgive any impropriety.\n\n\u2013HRHPF"
+      }
+    }
+  ],
+  "replies": {
+    "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3m4a6ryxngk2x": [
+      {
+        "post": {
+          "uri": "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.feed.post/3m4a6wjyq3c2x",
+          "cid": "bafyreiflgcvcrcj2cgxq6ljzilvcvebbesnxi6z4xsg7njdpe4ulgph2im",
+          "author": {
+            "did": "did:plc:6d7ojhzjxull6zmvhbyzgsu3",
+            "handle": "julianfairweather.bsky.social",
+            "displayName": "Julian",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6d7ojhzjxull6zmvhbyzgsu3/bafkreibaf7nfpyyjizrynuqkabbydakpbiceqsbz5ilcsgbkykupglqcry@jpeg",
+            "associated": {
+              "activitySubscription": {
+                "allowSubscriptions": "followers"
+              }
+            },
+            "viewer": {
+              "muted": false,
+              "blockedBy": false,
+              "followedBy": "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.graph.follow/3lnmlfcs3aw2h"
+            },
+            "labels": [],
+            "createdAt": "2025-04-25T06:17:39.274Z"
+          },
+          "record": {
+            "$type": "app.bsky.feed.post",
+            "createdAt": "2025-10-28T05:23:57.354Z",
+            "langs": [
+              "en"
+            ],
+            "reply": {
+              "parent": {
+                "cid": "bafyreiekrg2dtajcz2x6dwvgjdewaoy3gpaia57tedq5tjcxk6u23lxqhi",
+                "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3m4a6ryxngk2x"
+              },
+              "root": {
+                "cid": "bafyreibzvulh4kkpdl5uiudkacqvkpjcloqzfnlyv446lvdkhzv5a3v3am",
+                "uri": "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.feed.post/3m4a6i2x3zc2x"
+              }
+            },
+            "text": "Ok! well, your bridge project is roughly 5 times over-budget.\n\nmaybe something to discuss with your new student before the next Council meeting?"
+          },
+          "bookmarkCount": 0,
+          "replyCount": 0,
+          "repostCount": 0,
+          "likeCount": 0,
+          "quoteCount": 0,
+          "indexedAt": "2025-10-28T05:23:57.859Z",
+          "viewer": {
+            "bookmarked": false,
+            "threadMuted": false,
+            "embeddingDisabled": false
+          },
+          "labels": [],
+          "text": "Ok! well, your bridge project is roughly 5 times over-budget.\n\nmaybe something to discuss with your new student before the next Council meeting?"
+        },
+        "reply": {
+          "root": {
+            "uri": "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.feed.post/3m4a6i2x3zc2x",
+            "cid": "bafyreibzvulh4kkpdl5uiudkacqvkpjcloqzfnlyv446lvdkhzv5a3v3am",
+            "author": {
+              "did": "did:plc:6d7ojhzjxull6zmvhbyzgsu3",
+              "handle": "julianfairweather.bsky.social",
+              "displayName": "Julian",
+              "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6d7ojhzjxull6zmvhbyzgsu3/bafkreibaf7nfpyyjizrynuqkabbydakpbiceqsbz5ilcsgbkykupglqcry@jpeg",
+              "associated": {
+                "activitySubscription": {
+                  "allowSubscriptions": "followers"
+                }
+              },
+              "viewer": {
+                "muted": false,
+                "blockedBy": false,
+                "followedBy": "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.graph.follow/3lnmlfcs3aw2h"
+              },
+              "labels": [],
+              "createdAt": "2025-04-25T06:17:39.274Z"
+            },
+            "record": {
+              "$type": "app.bsky.feed.post",
+              "createdAt": "2025-10-28T05:15:51.809Z",
+              "facets": [
+                {
+                  "$type": "app.bsky.richtext.facet",
+                  "features": [
+                    {
+                      "$type": "app.bsky.richtext.facet#mention",
+                      "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl"
+                    }
+                  ],
+                  "index": {
+                    "byteEnd": 125,
+                    "byteStart": 99
+                  }
+                }
+              ],
+              "langs": [
+                "en"
+              ],
+              "text": "another reason to come to your Council Chambers: I have some budgetary items that are long overdue @thebluewizard.bsky.social\n\nalso, have you completed entering all the bridge expenses to your Council ledger? I hope so... they were due by Finance last week and i have been using those numbers."
+            },
+            "bookmarkCount": 0,
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2025-10-28T05:15:52.557Z",
+            "viewer": {
+              "bookmarked": false,
+              "threadMuted": false,
+              "embeddingDisabled": false
+            },
+            "labels": [],
+            "$type": "app.bsky.feed.defs#postView"
+          },
+          "parent": {
+            "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3m4a6ryxngk2x",
+            "cid": "bafyreiekrg2dtajcz2x6dwvgjdewaoy3gpaia57tedq5tjcxk6u23lxqhi",
+            "author": {
+              "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl",
+              "handle": "thebluewizard.bsky.social",
+              "displayName": "The Blue Wizard",
+              "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2zz4sojwnqgfyxycbwgdqoyl/bafkreiddbibr65lhfedmoarrqh7szrr4oqv5dfjewzic5mwaluk4q7r65a@jpeg",
+              "associated": {
+                "activitySubscription": {
+                  "allowSubscriptions": "followers"
+                }
+              },
+              "viewer": {
+                "muted": false,
+                "blockedBy": false,
+                "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctp2puc2y",
+                "followedBy": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.graph.follow/3lbq76d5mi32b"
+              },
+              "labels": [],
+              "createdAt": "2023-10-19T17:52:42.784Z"
+            },
+            "record": {
+              "$type": "app.bsky.feed.post",
+              "createdAt": "2025-10-28T05:21:25.275Z",
+              "langs": [
+                "en"
+              ],
+              "reply": {
+                "parent": {
+                  "cid": "bafyreibzvulh4kkpdl5uiudkacqvkpjcloqzfnlyv446lvdkhzv5a3v3am",
+                  "uri": "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.feed.post/3m4a6i2x3zc2x"
+                },
+                "root": {
+                  "cid": "bafyreibzvulh4kkpdl5uiudkacqvkpjcloqzfnlyv446lvdkhzv5a3v3am",
+                  "uri": "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.feed.post/3m4a6i2x3zc2x"
+                }
+              },
+              "text": "i knew i was forgetting something. I have not tallied expenses for the recent bridge rebuild, nor the agreed-upon donation to the Academy for the Magineers' work.\n\nOh, and the cost for gilded frills and requested finishes by Prince Farallel - i haven't submitted those either."
+            },
+            "bookmarkCount": 0,
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2025-10-28T05:21:25.957Z",
+            "viewer": {
+              "bookmarked": false,
+              "threadMuted": false,
+              "embeddingDisabled": false
+            },
+            "labels": [],
+            "$type": "app.bsky.feed.defs#postView"
+          },
+          "grandparentAuthor": {
+            "did": "did:plc:6d7ojhzjxull6zmvhbyzgsu3",
+            "handle": "julianfairweather.bsky.social",
+            "displayName": "Julian",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6d7ojhzjxull6zmvhbyzgsu3/bafkreibaf7nfpyyjizrynuqkabbydakpbiceqsbz5ilcsgbkykupglqcry@jpeg",
+            "associated": {
+              "activitySubscription": {
+                "allowSubscriptions": "followers"
+              }
+            },
+            "viewer": {
+              "muted": false,
+              "blockedBy": false,
+              "followedBy": "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.graph.follow/3lnmlfcs3aw2h"
+            },
+            "labels": [],
+            "createdAt": "2025-04-25T06:17:39.274Z"
+          }
+        }
+      }
+    ],
+    "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.feed.post/3m4a6i2x3zc2x": [
+      {
+        "post": {
+          "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3m4a6ryxngk2x",
+          "cid": "bafyreiekrg2dtajcz2x6dwvgjdewaoy3gpaia57tedq5tjcxk6u23lxqhi",
+          "author": {
+            "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl",
+            "handle": "thebluewizard.bsky.social",
+            "displayName": "The Blue Wizard",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2zz4sojwnqgfyxycbwgdqoyl/bafkreiddbibr65lhfedmoarrqh7szrr4oqv5dfjewzic5mwaluk4q7r65a@jpeg",
+            "associated": {
+              "activitySubscription": {
+                "allowSubscriptions": "followers"
+              }
+            },
+            "viewer": {
+              "muted": false,
+              "blockedBy": false,
+              "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctp2puc2y",
+              "followedBy": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.graph.follow/3lbq76d5mi32b"
+            },
+            "labels": [],
+            "createdAt": "2023-10-19T17:52:42.784Z"
+          },
+          "record": {
+            "$type": "app.bsky.feed.post",
+            "createdAt": "2025-10-28T05:21:25.275Z",
+            "langs": [
+              "en"
+            ],
+            "reply": {
+              "parent": {
+                "cid": "bafyreibzvulh4kkpdl5uiudkacqvkpjcloqzfnlyv446lvdkhzv5a3v3am",
+                "uri": "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.feed.post/3m4a6i2x3zc2x"
+              },
+              "root": {
+                "cid": "bafyreibzvulh4kkpdl5uiudkacqvkpjcloqzfnlyv446lvdkhzv5a3v3am",
+                "uri": "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.feed.post/3m4a6i2x3zc2x"
+              }
+            },
+            "text": "i knew i was forgetting something. I have not tallied expenses for the recent bridge rebuild, nor the agreed-upon donation to the Academy for the Magineers' work.\n\nOh, and the cost for gilded frills and requested finishes by Prince Farallel - i haven't submitted those either."
+          },
+          "bookmarkCount": 0,
+          "replyCount": 1,
+          "repostCount": 0,
+          "likeCount": 0,
+          "quoteCount": 0,
+          "indexedAt": "2025-10-28T05:21:25.957Z",
+          "viewer": {
+            "bookmarked": false,
+            "threadMuted": false,
+            "embeddingDisabled": false
+          },
+          "labels": [],
+          "text": "i knew i was forgetting something. I have not tallied expenses for the recent bridge rebuild, nor the agreed-upon donation to the Academy for the Magineers' work.\n\nOh, and the cost for gilded frills and requested finishes by Prince Farallel - i haven't submitted those either."
+        },
+        "reply": {
+          "root": {
+            "uri": "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.feed.post/3m4a6i2x3zc2x",
+            "cid": "bafyreibzvulh4kkpdl5uiudkacqvkpjcloqzfnlyv446lvdkhzv5a3v3am",
+            "author": {
+              "did": "did:plc:6d7ojhzjxull6zmvhbyzgsu3",
+              "handle": "julianfairweather.bsky.social",
+              "displayName": "Julian",
+              "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6d7ojhzjxull6zmvhbyzgsu3/bafkreibaf7nfpyyjizrynuqkabbydakpbiceqsbz5ilcsgbkykupglqcry@jpeg",
+              "associated": {
+                "activitySubscription": {
+                  "allowSubscriptions": "followers"
+                }
+              },
+              "viewer": {
+                "muted": false,
+                "blockedBy": false,
+                "followedBy": "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.graph.follow/3lnmlfcs3aw2h"
+              },
+              "labels": [],
+              "createdAt": "2025-04-25T06:17:39.274Z"
+            },
+            "record": {
+              "$type": "app.bsky.feed.post",
+              "createdAt": "2025-10-28T05:15:51.809Z",
+              "facets": [
+                {
+                  "$type": "app.bsky.richtext.facet",
+                  "features": [
+                    {
+                      "$type": "app.bsky.richtext.facet#mention",
+                      "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl"
+                    }
+                  ],
+                  "index": {
+                    "byteEnd": 125,
+                    "byteStart": 99
+                  }
+                }
+              ],
+              "langs": [
+                "en"
+              ],
+              "text": "another reason to come to your Council Chambers: I have some budgetary items that are long overdue @thebluewizard.bsky.social\n\nalso, have you completed entering all the bridge expenses to your Council ledger? I hope so... they were due by Finance last week and i have been using those numbers."
+            },
+            "bookmarkCount": 0,
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2025-10-28T05:15:52.557Z",
+            "viewer": {
+              "bookmarked": false,
+              "threadMuted": false,
+              "embeddingDisabled": false
+            },
+            "labels": [],
+            "$type": "app.bsky.feed.defs#postView"
+          },
+          "parent": {
+            "uri": "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.feed.post/3m4a6i2x3zc2x",
+            "cid": "bafyreibzvulh4kkpdl5uiudkacqvkpjcloqzfnlyv446lvdkhzv5a3v3am",
+            "author": {
+              "did": "did:plc:6d7ojhzjxull6zmvhbyzgsu3",
+              "handle": "julianfairweather.bsky.social",
+              "displayName": "Julian",
+              "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6d7ojhzjxull6zmvhbyzgsu3/bafkreibaf7nfpyyjizrynuqkabbydakpbiceqsbz5ilcsgbkykupglqcry@jpeg",
+              "associated": {
+                "activitySubscription": {
+                  "allowSubscriptions": "followers"
+                }
+              },
+              "viewer": {
+                "muted": false,
+                "blockedBy": false,
+                "followedBy": "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.graph.follow/3lnmlfcs3aw2h"
+              },
+              "labels": [],
+              "createdAt": "2025-04-25T06:17:39.274Z"
+            },
+            "record": {
+              "$type": "app.bsky.feed.post",
+              "createdAt": "2025-10-28T05:15:51.809Z",
+              "facets": [
+                {
+                  "$type": "app.bsky.richtext.facet",
+                  "features": [
+                    {
+                      "$type": "app.bsky.richtext.facet#mention",
+                      "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl"
+                    }
+                  ],
+                  "index": {
+                    "byteEnd": 125,
+                    "byteStart": 99
+                  }
+                }
+              ],
+              "langs": [
+                "en"
+              ],
+              "text": "another reason to come to your Council Chambers: I have some budgetary items that are long overdue @thebluewizard.bsky.social\n\nalso, have you completed entering all the bridge expenses to your Council ledger? I hope so... they were due by Finance last week and i have been using those numbers."
+            },
+            "bookmarkCount": 0,
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2025-10-28T05:15:52.557Z",
+            "viewer": {
+              "bookmarked": false,
+              "threadMuted": false,
+              "embeddingDisabled": false
+            },
+            "labels": [],
+            "$type": "app.bsky.feed.defs#postView"
+          }
+        }
+      }
+    ],
+    "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.feed.post/3m4a4g5jwvs2z": [
+      {
+        "post": {
+          "uri": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.feed.post/3m4a6jj5gns2x",
+          "cid": "bafyreiahd4nmmknnhqlkbaagnc27cq7gb6jk2nfeykb76423gk66c243x4",
+          "author": {
+            "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl",
+            "handle": "thebluewizard.bsky.social",
+            "displayName": "The Blue Wizard",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2zz4sojwnqgfyxycbwgdqoyl/bafkreiddbibr65lhfedmoarrqh7szrr4oqv5dfjewzic5mwaluk4q7r65a@jpeg",
+            "associated": {
+              "activitySubscription": {
+                "allowSubscriptions": "followers"
+              }
+            },
+            "viewer": {
+              "muted": false,
+              "blockedBy": false,
+              "following": "at://did:plc:tsrqneix4sgsbvrhz6arbuci/app.bsky.graph.follow/3lbsctp2puc2y",
+              "followedBy": "at://did:plc:2zz4sojwnqgfyxycbwgdqoyl/app.bsky.graph.follow/3lbq76d5mi32b"
+            },
+            "labels": [],
+            "createdAt": "2023-10-19T17:52:42.784Z"
+          },
+          "record": {
+            "$type": "app.bsky.feed.post",
+            "createdAt": "2025-10-28T05:16:40.252Z",
+            "langs": [
+              "en"
+            ],
+            "reply": {
+              "parent": {
+                "cid": "bafyreihjslgn27j4htyzrmcrrarpnhm5obp44zorhxwqvqmokalxdfrcbu",
+                "uri": "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.feed.post/3m4a4g5jwvs2z"
+              },
+              "root": {
+                "cid": "bafyreihjslgn27j4htyzrmcrrarpnhm5obp44zorhxwqvqmokalxdfrcbu",
+                "uri": "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.feed.post/3m4a4g5jwvs2z"
+              }
+            },
+            "text": "Oh... fantastic."
+          },
+          "bookmarkCount": 0,
+          "replyCount": 0,
+          "repostCount": 0,
+          "likeCount": 0,
+          "quoteCount": 0,
+          "indexedAt": "2025-10-28T05:16:41.060Z",
+          "viewer": {
+            "bookmarked": false,
+            "threadMuted": false,
+            "embeddingDisabled": false
+          },
+          "labels": [],
+          "text": "Oh... fantastic."
+        },
+        "reply": {
+          "root": {
+            "uri": "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.feed.post/3m4a4g5jwvs2z",
+            "cid": "bafyreihjslgn27j4htyzrmcrrarpnhm5obp44zorhxwqvqmokalxdfrcbu",
+            "author": {
+              "did": "did:plc:6d7ojhzjxull6zmvhbyzgsu3",
+              "handle": "julianfairweather.bsky.social",
+              "displayName": "Julian",
+              "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6d7ojhzjxull6zmvhbyzgsu3/bafkreibaf7nfpyyjizrynuqkabbydakpbiceqsbz5ilcsgbkykupglqcry@jpeg",
+              "associated": {
+                "activitySubscription": {
+                  "allowSubscriptions": "followers"
+                }
+              },
+              "viewer": {
+                "muted": false,
+                "blockedBy": false,
+                "followedBy": "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.graph.follow/3lnmlfcs3aw2h"
+              },
+              "labels": [],
+              "createdAt": "2025-04-25T06:17:39.274Z"
+            },
+            "record": {
+              "$type": "app.bsky.feed.post",
+              "createdAt": "2025-10-28T04:38:59.931Z",
+              "facets": [
+                {
+                  "$type": "app.bsky.richtext.facet",
+                  "features": [
+                    {
+                      "$type": "app.bsky.richtext.facet#mention",
+                      "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl"
+                    }
+                  ],
+                  "index": {
+                    "byteEnd": 26,
+                    "byteStart": 0
+                  }
+                }
+              ],
+              "langs": [
+                "en"
+              ],
+              "text": "@thebluewizard.bsky.social you have received a letter on Farallel royal letterhead from a \"Mr. Perclancy.\"\n\nIt informs that you have been appointed to the position of Royal Tutor to Prince Farallel.\n\nPlease come to your office so you can fill out the required paperwork."
+            },
+            "bookmarkCount": 0,
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2025-10-28T04:39:00.859Z",
+            "viewer": {
+              "bookmarked": false,
+              "threadMuted": false,
+              "embeddingDisabled": false
+            },
+            "labels": [],
+            "$type": "app.bsky.feed.defs#postView"
+          },
+          "parent": {
+            "uri": "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.feed.post/3m4a4g5jwvs2z",
+            "cid": "bafyreihjslgn27j4htyzrmcrrarpnhm5obp44zorhxwqvqmokalxdfrcbu",
+            "author": {
+              "did": "did:plc:6d7ojhzjxull6zmvhbyzgsu3",
+              "handle": "julianfairweather.bsky.social",
+              "displayName": "Julian",
+              "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6d7ojhzjxull6zmvhbyzgsu3/bafkreibaf7nfpyyjizrynuqkabbydakpbiceqsbz5ilcsgbkykupglqcry@jpeg",
+              "associated": {
+                "activitySubscription": {
+                  "allowSubscriptions": "followers"
+                }
+              },
+              "viewer": {
+                "muted": false,
+                "blockedBy": false,
+                "followedBy": "at://did:plc:6d7ojhzjxull6zmvhbyzgsu3/app.bsky.graph.follow/3lnmlfcs3aw2h"
+              },
+              "labels": [],
+              "createdAt": "2025-04-25T06:17:39.274Z"
+            },
+            "record": {
+              "$type": "app.bsky.feed.post",
+              "createdAt": "2025-10-28T04:38:59.931Z",
+              "facets": [
+                {
+                  "$type": "app.bsky.richtext.facet",
+                  "features": [
+                    {
+                      "$type": "app.bsky.richtext.facet#mention",
+                      "did": "did:plc:2zz4sojwnqgfyxycbwgdqoyl"
+                    }
+                  ],
+                  "index": {
+                    "byteEnd": 26,
+                    "byteStart": 0
+                  }
+                }
+              ],
+              "langs": [
+                "en"
+              ],
+              "text": "@thebluewizard.bsky.social you have received a letter on Farallel royal letterhead from a \"Mr. Perclancy.\"\n\nIt informs that you have been appointed to the position of Royal Tutor to Prince Farallel.\n\nPlease come to your office so you can fill out the required paperwork."
+            },
+            "bookmarkCount": 0,
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2025-10-28T04:39:00.859Z",
+            "viewer": {
+              "bookmarked": false,
+              "threadMuted": false,
+              "embeddingDisabled": false
+            },
+            "labels": [],
+            "$type": "app.bsky.feed.defs#postView"
+          }
+        }
+      }
+    ]
+  }
+}
